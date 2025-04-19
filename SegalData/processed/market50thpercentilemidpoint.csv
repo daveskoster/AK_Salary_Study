@@ -1,0 +1,405 @@
+benchmark,title,group,code,family,BU,schedule,range,step,ak_annual_salary,market_target_annual_salary,percentile
+3,Office Assistant 1,Administrative and Office Support,PB0102,PB01 ‐ General Administration,GP,200,08,F,40560,45935.0,50
+4,Secretary,Administrative and Office Support,PB0130,PB01 ‐ General Administration,XE,N00,11,F,50193,60583.0,50
+5,Executive Secretary 3,Administrative and Office Support,PB0137,PB01 ‐ General Administration,XE,N00,16,F,70980,83553.0,50
+6,Administrative Assistant 2,Administrative and Office Support,PB0152,PB01 ‐ General Administration,GP,200,14,F,60138,55439.0,50
+7,Administrative Officer 1,Administrative and Office Support,PB0154,PB01 ‐ General Administration,SS,200,17,F,78000,73816.0,50
+8,Administrative Operations Manager 1,Administrative and Office Support,PB0157,PB01 ‐ General Administration,SS,200,22,F,108867,92939.0,50
+9,Accounting Clerk,Administrative and Office Support,PB0202,PB02 ‐ Accounting and Fiscal,GP,200,10,F,45786,48626.0,50
+10,Accounting Technician 2,Administrative and Office Support,PB0206,PB02 ‐ Accounting and Fiscal,GP,200,14,F,60138,56970.0,50
+11,Accountant 2,Administrative and Office Support,PB0212,PB02 ‐ Accounting and Fiscal,GP,200,16,F,69147,80779.0,50
+12,Accountant 4,Administrative and Office Support,PB0214,PB02 ‐ Accounting and Fiscal,SS,200,20,F,95326,95855.0,50
+13,Payroll Manager,Administrative and Office Support,PB0230,PB02 ‐ Accounting and Fiscal,KK,200,22,F,109387,106880.0,50
+14,Payroll Specialist 1,Administrative and Office Support,PB0231,PB02 ‐ Accounting and Fiscal,KK,200,16,F,73278,75668.0,50
+15,Budget Analyst 2,Administrative and Office Support,PB0243,PB02 ‐ Accounting and Fiscal,GP,200,19,F,84767,92267.0,50
+16,Budget Analyst 4,Administrative and Office Support,PB0245,PB02 ‐ Accounting and Fiscal,SS,200,22,F,108867,122640.0,50
+17,Human Resource Technician 2,Administrative and Office Support,PB0303,PB03 ‐ Personnel and Employee Relations,KK,200,14,F,63773,62321.0,50
+18,Payroll Services Supervisor,Administrative and Office Support,PB0305,PB03 ‐ Personnel and Employee Relations,KK,200,17,F,78374,82266.0,50
+19,Human Resource Consultant 1,Administrative and Office Support,PB0311,PB03 ‐ Personnel and Employee Relations,KK,200,16,F,73278,80933.0,50
+20,Human Resource Consultant 5,Administrative and Office Support,PB0315,PB03 ‐ Personnel and Employee Relations,KK,200,22,F,109387,118333.0,50
+21,Labor Relations Analyst 2,Administrative and Office Support,PB0322,PB03 ‐ Personnel and Employee Relations,KK,200,20,F,95784,89124.0,50
+22,Labor Relations Manager,Administrative and Office Support,PB0325,PB03 ‐ Personnel and Employee Relations,XE,N00,24,F,121329,132305.0,50
+23,Retirement and Benefits Technician 2,Administrative and Office Support,PB0333,PB03 ‐ Personnel and Employee Relations,GP,200,14,F,60138,66075.0,50
+24,Retirement and Benefits Specialist 1,Administrative and Office Support,PB0341,PB03 ‐ Personnel and Employee Relations,GP,200,16,F,69147,75293.0,50
+25,Alaska Marine Highway System Dispatcher,Administrative and Office Support,PB0351,PB03 ‐ Personnel and Employee Relations,KK,200,15,F,68286,60425.0,50
+26,GIS Analyst 2,Administrative and Office Support,PB0496,PB04 ‐ Information Technology,GP,200,17,F,74003,78318.0,50
+27,Statistical Technician 2,Administrative and Office Support,PB0503,PB05 ‐ Statistics and Research Analysis,GP,200,14,F,60138,72794.0,50
+28,Research Analyst 1,Administrative and Office Support,PB0511,PB05 ‐ Statistics and Research Analysis,GP,200,13,F,55985,69469.0,50
+29,Research Analyst 2,Administrative and Office Support,PB0512,PB05 ‐ Statistics and Research Analysis,GP,200,16,F,69147,80446.0,50
+30,Research Analyst 3,Administrative and Office Support,PB0513,PB05 ‐ Statistics and Research Analysis,GP,200,18,F,79268,89124.0,50
+31,Research Analyst 4,Administrative and Office Support,PB0514,PB05 ‐ Statistics and Research Analysis,SS,200,21,F,101795,124260.0,50
+32,"Chief, Health Analytics and Vital Records",Administrative and Office Support,PB0540,PB05 ‐ Statistics and Research Analysis,SS,200,22,F,108867,120242.0,50
+33,Demographer,Administrative and Office Support,PB0551,PB05 ‐ Statistics and Research Analysis,GP,200,19,F,84767,,50
+34,State Demographer,Administrative and Office Support,PB0552,PB05 ‐ Statistics and Research Analysis,SS,200,22,F,108867,,50
+35,Stock and Parts Services 2,Administrative and Office Support,PB0602,PB06 ‐ Supply,LL,2AA,55,F,60174,58563.0,50
+36,Supply Technician 1,Administrative and Office Support,PB0611,PB06 ‐ Supply,GP,200,10,F,45786,50193.0,50
+37,Contracting Officer 2,Administrative and Office Support,PB0622,PB06 ‐ Supply,GP,200,16,F,69147,69239.0,50
+38,Contracting Officer 4,Administrative and Office Support,PB0624,PB06 ‐ Supply,SS,200,22,F,108867,115309.0,50
+39,Procurement Specialist 2,Administrative and Office Support,PB0632,PB06 ‐ Supply,GP,200,16,F,69147,71027.0,50
+40,Procurement Specialist 5,Administrative and Office Support,PB0635,PB06 ‐ Supply,SS,200,21,F,101795,102599.0,50
+41,State Chief Information Officer,Administrative and Office Support,PB0701,PB07 ‐ Office of Information Technology,XE,N00,28,F,145041,183420.0,50
+42,Deputy Chief Information Officer,Administrative and Office Support,PB0702,PB07 ‐ Office of Information Technology,XE,N00,27,F,140166,169058.0,50
+43,Chief Technology Officer 3,Administrative and Office Support,PB0707,PB07 ‐ Office of Information Technology,XE,N00,26,F,135077,159215.0,50
+44,"Staff Manager, OIT",Administrative and Office Support,PB0709,PB07 ‐ Office of Information Technology,XE,N00,25,F,130416,139743.0,50
+45,Department Technology Officer 2,Administrative and Office Support,PB0712,PB07 ‐ Office of Information Technology,SS,200,24,F,124654,139550.0,50
+46,P3 Manager,Administrative and Office Support,PB0725,PB07 ‐ Office of Information Technology,SS,200,24,F,124654,124125.0,50
+47,Application Developer 3,Administrative and Office Support,PB07A3,PB07 ‐ Office of Information Technology,GP,200,22,F,103740,112240.0,50
+48,IT Business Analyst 2,Administrative and Office Support,PB07B2,PB07 ‐ Office of Information Technology,GP,200,21,F,96759,104429.0,50
+49,IT Client Support Specialist 2,Administrative and Office Support,PB07C2,PB07 ‐ Office of Information Technology,GP,200,16,F,69147,70761.0,50
+50,Database Administrator 2,Administrative and Office Support,PB07D2,PB07 ‐ Office of Information Technology,GP,200,23,F,111131,116238.0,50
+51,IT Support Technician 1,Administrative and Office Support,PB07E1,PB07 ‐ Office of Information Technology,GP,200,13,F,55985,61143.0,50
+52,IT Project Manager 2,Administrative and Office Support,PB07J2,PB07 ‐ Office of Information Technology,SS,200,24,F,124654,124125.0,50
+53,IT Manager 1,Administrative and Office Support,PB07M1,PB07 ‐ Office of Information Technology,SS,200,23,F,116688,126548.0,50
+54,Network and Telecommunications Specialist 2,Administrative and Office Support,PB07N2,PB07 ‐ Office of Information Technology,GP,200,21,F,96759,102154.0,50
+55,IT Policy and Planning Analyst 1,Administrative and Office Support,PB07P1,PB07 ‐ Office of Information Technology,SS,200,23,F,116688,96029.0,50
+56,IT Architecture Specialist 1,Administrative and Office Support,PB07R1,PB07 ‐ Office of Information Technology,GP,200,24,F,118736,133796.0,50
+57,IT Security Specialist 1,Administrative and Office Support,PB07S1,PB07 ‐ Office of Information Technology,GP,200,24,F,118736,115168.0,50
+58,IT Quality Assurance Analyst 2,Administrative and Office Support,PB07U2,PB07 ‐ Office of Information Technology,GP,200,21,F,96759,99998.0,50
+59,IT Vendor Manager 2,Administrative and Office Support,PB07V2,PB07 ‐ Office of Information Technology,GP,200,20,F,90539,95658.0,50
+60,IT Systems Administrator 2,Administrative and Office Support,PB07Y2,PB07 ‐ Office of Information Technology,GP,200,23,F,111131,106380.0,50
+61,Project Assistant,Administrative and Office Support,PB9908,PB99 ‐ Administrative classes not otherwise described,GP,200,16,F,69147,61783.0,50
+62,Program Coordinator 1,Administrative and Office Support,PB9909,PB99 ‐ Administrative classes not otherwise described,GP,200,18,F,79268,79299.0,50
+63,Program Manager,Administrative and Office Support,PB9912,PB99 ‐ Administrative classes not otherwise described,SS,200,22,F,108867,112173.0,50
+64,Business Services Project Manager 1,Administrative and Office Support,PB9915,PB99 ‐ Administrative classes not otherwise described,GP,200,20,F,90539,88303.0,50
+281,Fish and Wildlife Technician 3,Biological Sciences,PH0103,PH01 ‐ Fish and Wildlife,GP,200,11,F,48750,57402.0,50
+282,Fishery Biologist 2,Biological Sciences,PH0112,PH01 ‐ Fish and Wildlife,SS,200,16,F,72925,81978.0,50
+283,Habitat Biologist 2,Biological Sciences,PH0122,PH01 ‐ Fish and Wildlife,GP,200,16,F,69147,80933.0,50
+284,Wildlife Biologist 2,Biological Sciences,PH0132,PH01 ‐ Fish and Wildlife,GP,200,16,F,69147,80276.0,50
+285,Biometrician 2,Biological Sciences,PH0142,PH01 ‐ Fish and Wildlife,GP,200,19,F,84767,124917.0,50
+286,Fish Culturist 1,Biological Sciences,PH0151,PH01 ‐ Fish and Wildlife,GP,200,14,F,60138,,50
+287,Fisheries Geneticist 1,Biological Sciences,PH0161,PH01 ‐ Fish and Wildlife,GP,200,17,F,74003,88615.0,50
+288,Fisheries Scientist 1,Biological Sciences,PH0166,PH01 ‐ Fish and Wildlife,SS,200,22,F,108867,121503.0,50
+289,Agronomist 1,Biological Sciences,PH0211,PH02 ‐ Agriculture,GP,200,16,F,69147,71346.0,50
+290,Natural Resource Technician 2,Biological Sciences,PH0302,PH03 ‐ Natural Resources and Forestry,GP,200,12,F,52182,55074.0,50
+291,Natural Resource Specialist 2,Biological Sciences,PH0312,PH03 ‐ Natural Resources and Forestry,GP,200,16,F,69147,70135.0,50
+292,Natural Resource Manager 1,Biological Sciences,PH0321,PH03 ‐ Natural Resources and Forestry,SS,200,18,F,83470,100617.0,50
+293,Wildland Fire and Resource Technician 3,Biological Sciences,PH0353,PH03 ‐ Natural Resources and Forestry,GP,100,12,F,52650,66260.0,50
+294,Wildland Forestry Technician 2,Biological Sciences,PH0358,PH03 ‐ Natural Resources and Forestry,GP,100,14,F,60684,,50
+295,Forester 2,Biological Sciences,PH0362,PH03 ‐ Natural Resources and Forestry,GP,200,16,F,69147,75875.0,50
+296,Fire Management Officer,Biological Sciences,PH0367,PH03 ‐ Natural Resources and Forestry,SS,500,16,F,72176,,50
+297,Wildland Fire Support Services 1,Biological Sciences,PH0380,PH03 ‐ Natural Resources and Forestry,LL,2AA,56,F,56805,,50
+298,Park Specialist,Biological Sciences,PH0410,PH04 ‐ Parks,GP,200,14,F,60138,60104.0,50
+299,Park Ranger 1,Biological Sciences,PH0411,PH04 ‐ Parks,GP,200,16,F,69147,66312.0,50
+300,Park Ranger 2,Biological Sciences,PH0412,PH04 ‐ Parks,SS,600,18,F,82638,80933.0,50
+301,Park Superintendent,Biological Sciences,PH0420,PH04 ‐ Parks,SS,200,20,F,95326,100176.0,50
+302,Museum Protection & Visitor Services Assistant,Biological Sciences,PH0451,PH04 ‐ Parks,GP,200,11,F,48750,55822.0,50
+65,Grants Administrator 2,Business Development and Regulation,PC0102,PC01 ‐ Business Finance,GP,200,17,F,74003,83643.0,50
+66,Grants Administration Manager,Business Development and Regulation,PC0105,PC01 ‐ Business Finance,SS,200,21,F,101795,102777.0,50
+67,Loan Closer/Processor 2,Business Development and Regulation,PC0112,PC01 ‐ Business Finance,GP,200,12,F,52182,55358.0,50
+68,Loan/Collection Officer 1,Business Development and Regulation,PC0121,PC01 ‐ Business Finance,GP,200,16,F,69147,56851.0,50
+69,Loan/Collection Manager,Business Development and Regulation,PC0125,PC01 ‐ Business Finance,SS,200,22,F,108867,109005.0,50
+70,School Finance Specialist 2,Business Development and Regulation,PC0132,PC01 ‐ Business Finance,GP,200,18,F,79268,94424.0,50
+71,School Finance Manager,Business Development and Regulation,PC0135,PC01 ‐ Business Finance,SS,200,23,F,116688,127737.0,50
+73,Insurance Licensing Examiner 2,Business Development and Regulation,PC0206,PC02 ‐ Business Regulation and Compliance,GP,200,14,F,60138,59952.0,50
+74,Records and Licensing Supervisor,Business Development and Regulation,PC0209,PC02 ‐ Business Regulation and Compliance,SS,200,16,F,72925,89543.0,50
+75,Financial Registration Examiner,Business Development and Regulation,PC0220,PC02 ‐ Business Regulation and Compliance,GP,200,14,F,60138,59012.0,50
+76,Insurance Specialist 2,Business Development and Regulation,PC0233,PC02 ‐ Business Regulation and Compliance,GP,200,19,F,84767,84504.0,50
+77,Insurance Financial Examiner 2,Business Development and Regulation,PC0237,PC02 ‐ Business Regulation and Compliance,GP,200,21,F,96759,98314.0,50
+78,Utility Financial Analyst 2,Business Development and Regulation,PC0252,PC02 ‐ Business Regulation and Compliance,GP,200,19,F,84767,98170.0,50
+79,Utility Financial Analyst 4,Business Development and Regulation,PC0254,PC02 ‐ Business Regulation and Compliance,SS,200,23,F,116688,120262.0,50
+80,Utility Tariff Analyst 2,Business Development and Regulation,PC0257,PC02 ‐ Business Regulation and Compliance,GP,200,18,F,79268,99313.0,50
+81,Community Care Licensing Specialist 1,Business Development and Regulation,PC0261,PC02 ‐ Business Regulation and Compliance,GP,200,16,F,69147,66545.0,50
+82,Community Care Licensing Specialist 3,Business Development and Regulation,PC0263,PC02 ‐ Business Regulation and Compliance,SS,200,20,F,95326,99152.0,50
+83,Financial Examiner 2,Business Development and Regulation,PC0272,PC02 ‐ Business Regulation and Compliance,GP,200,19,F,84767,85077.0,50
+84,Financial Examiner 4,Business Development and Regulation,PC0274,PC02 ‐ Business Regulation and Compliance,SS,200,23,F,116688,114692.0,50
+72,Licensing Examiner 2,Business Development and Regulation,PC02A2,PC02 ‐ Business Regulation and Compliance,GP,200,15,F,64409,56705.0,50
+85,Commercial Vehicle Compliance Inspector 2,Business Development and Regulation,PC0302,PC03 ‐ Safety Inspection,GP,200,15,F,64409,74093.0,50
+86,Commercial Vehicle Compliance Inspector 5,Business Development and Regulation,PC0305,PC03 ‐ Safety Inspection,SS,200,19,F,89232,100981.0,50
+87,Radiological Health Physicist 1,Business Development and Regulation,PC0310,PC03 ‐ Safety Inspection,GP,200,19,F,84767,105994.0,50
+88,Industrial Hygienist,Business Development and Regulation,PC0321,PC03 ‐ Safety Inspection,GP,200,19,F,84767,104130.0,50
+89,Occupational Safety & Compliance Officer,Business Development and Regulation,PC0322,PC03 ‐ Safety Inspection,LL,2AA,49,F,84531,88144.0,50
+90,Safety Officer,Business Development and Regulation,PC0323,PC03 ‐ Safety Inspection,GP,200,18,F,79268,90603.0,50
+91,Occupational Health and Safety Analyst,Business Development and Regulation,PC0324,PC03 ‐ Safety Inspection,SS,200,20,F,95326,93593.0,50
+92,Occupational Safety & Health Manager,Business Development and Regulation,PC0325,PC03 ‐ Safety Inspection,SS,200,22,F,108867,113076.0,50
+93,"Safety Inspection & Compliance, Electrical Inspector",Business Development and Regulation,PC0331,PC03 ‐ Safety Inspection,LL,2AA,49,F,84531,80933.0,50
+94,"Safety Inspection & Compliance, Elevator Inspector",Business Development and Regulation,PC0332,PC03 ‐ Safety Inspection,LL,2AA,49,F,84531,76471.0,50
+95,"Safety Inspection & Compliance, Plumbing Inspector",Business Development and Regulation,PC0333,PC03 ‐ Safety Inspection,LL,2AA,49,F,84531,82145.0,50
+96,Boiler and Pressure Vessel Inspector 1,Business Development and Regulation,PC0338,PC03 ‐ Safety Inspection,GP,200,19,F,84767,80377.0,50
+97,Boiler and Pressure Vessel Inspector 2,Business Development and Regulation,PC0339,PC03 ‐ Safety Inspection,SS,200,20,F,95326,89124.0,50
+98,Mechanical Inspection Manager,Business Development and Regulation,PC0345,PC03 ‐ Safety Inspection,SS,200,22,F,108867,107654.0,50
+99,Weights and Measures Inspector 2,Business Development and Regulation,PC0352,PC03 ‐ Safety Inspection,GP,200,16,F,69147,75037.0,50
+100,Measurement Standards Supervisor,Business Development and Regulation,PC0355,PC03 ‐ Safety Inspection,SS,200,18,F,83470,,50
+101,"Chief, Weights, Measures, and Permits",Business Development and Regulation,PC0360,PC03 ‐ Safety Inspection,SS,200,22,F,108867,113980.0,50
+102,State Metrologist 2,Business Development and Regulation,PC0362,PC03 ‐ Safety Inspection,GP,200,18,F,79268,98924.0,50
+103,Environmental Health Technician,Business Development and Regulation,PC0401,PC04 ‐ Environmental Health,GP,200,13,F,55985,53082.0,50
+104,Environmental Health Officer 2,Business Development and Regulation,PC0412,PC04 ‐ Environmental Health,GP,200,16,F,69147,78512.0,50
+105,Environmental Health Officer 4,Business Development and Regulation,PC0414,PC04 ‐ Environmental Health,SS,200,20,F,95326,100879.0,50
+106,Tax Technician 3,Business Development and Regulation,PC0503,PC05 ‐ Revenue Audit,GP,200,14,F,60138,62905.0,50
+107,Tax Technician 4,Business Development and Regulation,PC0504,PC05 ‐ Revenue Audit,SS,200,16,F,72925,105255.0,50
+108,Tax Auditor 3,Business Development and Regulation,PC0513,PC05 ‐ Revenue Audit,GP,200,20,F,90539,94559.0,50
+109,Revenue Audit Supervisor 2,Business Development and Regulation,PC0522,PC05 ‐ Revenue Audit,SS,200,25,F,133994,104494.0,50
+110,Revenue Appeals Officer 2,Business Development and Regulation,PC0532,PC05 ‐ Revenue Audit,GP,200,25,F,127764,96307.0,50
+111,Revenue Appeals Supervisor,Business Development and Regulation,PC0533,PC05 ‐ Revenue Audit,SS,200,26,F,138798,113980.0,50
+112,Oil and Gas Revenue Auditor 3,Business Development and Regulation,PC0543,PC05 ‐ Revenue Audit,GP,200,22,F,103740,108489.0,50
+113,Oil and Gas Revenue Specialist,Business Development and Regulation,PC0545,PC05 ‐ Revenue Audit,GP,200,25,F,127764,134051.0,50
+114,Corporate Income Tax Auditor 3,Business Development and Regulation,PC0553,PC05 ‐ Revenue Audit,GP,200,22,F,103740,109105.0,50
+115,Audit and Review Analyst 2,Business Development and Regulation,PC0563,PC05 ‐ Revenue Audit,GP,200,21,F,96759,85064.0,50
+116,Audit and Review Analyst 4,Business Development and Regulation,PC0565,PC05 ‐ Revenue Audit,SS,200,25,F,133994,137315.0,50
+379,"Food Service, Journey",Craftwork and Labor,PL0112,PL01 ‐ Food and Custodial Services,LL,1AA,57,F,53955,48514.0,50
+380,"Food Service, Foreman",Craftwork and Labor,PL0114,PL01 ‐ Food and Custodial Services,LL,1AA,53,F,67725,60527.0,50
+381,Food Service Supervisor,Craftwork and Labor,PL0115,PL01 ‐ Food and Custodial Services,SS,100,16,F,72925,68465.0,50
+382,"Environmental Services, Journey 2",Craftwork and Labor,PL0122,PL01 ‐ Food and Custodial Services,LL,2AA,60,F,45011,45681.0,50
+383,"Environmental Services, Foreman",Craftwork and Labor,PL0124,PL01 ‐ Food and Custodial Services,LL,2AA,57,F,53955,54725.0,50
+384,"Mechanic, Automotive, Journey",Craftwork and Labor,PL0212,"PL02 ‐ Aircraft, Automobile, or Vessel Maintenance",LL,2AA,54,F,63565,68580.0,50
+385,"Mechanic, Aircraft, Journey",Craftwork and Labor,PL0222,"PL02 ‐ Aircraft, Automobile, or Vessel Maintenance",LL,2AA,54,F,63565,81304.0,50
+386,Vessel Technician,Craftwork and Labor,PL0262,"PL02 ‐ Aircraft, Automobile, or Vessel Maintenance",GP,200,16,F,69147,,50
+387,"Equipment Operator, Journey 2",Craftwork and Labor,PL0304,PL03 ‐ Equipment Operation,LL,2AA,53,F,67725,63045.0,50
+388,Rural Airport Foreman,Craftwork and Labor,PL0311,PL03 ‐ Equipment Operation,LL,2AA,49,F,84531,76927.0,50
+389,International Airport Foreman,Craftwork and Labor,PL0312,PL03 ‐ Equipment Operation,LL,2AA,49,F,84531,75854.0,50
+390,"Maintenance Generalist, Journey",Craftwork and Labor,PL0403,PL04 ‐ Building and Facility Maintenance,LL,2AA,54,F,63565,63609.0,50
+391,"Maintenance Specialist, Bldg/Facility/Const, Journey 2/Lead",Craftwork and Labor,PL0412,PL04 ‐ Building and Facility Maintenance,LL,2AA,51,F,76690,70854.0,50
+392,"Maintenance Specialist, Electronics, Journey 2/Lead",Craftwork and Labor,PL0422,PL04 ‐ Building and Facility Maintenance,LL,2AA,51,F,76690,80385.0,50
+393,"Maintenance Specialist, Electrician, Journey 2/Lead",Craftwork and Labor,PL0432,PL04 ‐ Building and Facility Maintenance,LL,2AA,51,F,76690,77428.0,50
+394,"Maintenance Specialist, Electrical Utility, Journey 2/Lead",Craftwork and Labor,PL0442,PL04 ‐ Building and Facility Maintenance,LL,2AA,51,F,76690,80385.0,50
+395,"Maintenance Specialist, Plumbing, Journey 2/Lead",Craftwork and Labor,PL0452,PL04 ‐ Building and Facility Maintenance,LL,2AA,51,F,76690,75839.0,50
+396,Survey Instrument Technician 2,Craftwork and Labor,PL0512,PL05 ‐ Instrument Technicians,GP,200,17,F,74003,74899.0,50
+397,"Engineering Technician, Journey",Craftwork and Labor,PL0614,PL06 ‐ Construction Support,LL,2AA,54,F,63565,70702.0,50
+398,"Materials Laboratory Technician, Journey",Craftwork and Labor,PL0635,PL06 ‐ Construction Support,LL,2AA,53,F,67725,70236.0,50
+399,"Driller, Journey",Craftwork and Labor,PL0642,PL06 ‐ Construction Support,LL,2AA,53,F,67725,62254.0,50
+400,Boat Officer 3,Craftwork and Labor,PL0723,PL07 ‐ Vessel and Aircraft Operation,GP,200,17,F,74003,,50
+401,Aircraft Pilot 1,Craftwork and Labor,PL07A1,PL07 ‐ Vessel and Aircraft Operation,GP,100,22,F,104637,110031.0,50
+402,Microfilm/Imaging Operator 1,Craftwork and Labor,PL0821,PL08 ‐ Office Equipment Operation,GP,200,10,F,45786,44267.0,50
+403,Mail Services Courier,Craftwork and Labor,PL0841,PL08 ‐ Office Equipment Operation,GP,100,09,F,43466,42782.0,50
+404,Mail Services Manager,Craftwork and Labor,PL0845,PL08 ‐ Office Equipment Operation,SS,200,15,F,67995,73734.0,50
+168,Education Administrator 1,"Education, Information, Libraries, and Museums",PE0101,PE01 ‐ Education Programs,SS,200,21,F,101795,95127.0,50
+169,Education Administrator 2,"Education, Information, Libraries, and Museums",PE0102,PE01 ‐ Education Programs,SS,200,22,F,108867,108915.0,50
+170,Education Program Assistant,"Education, Information, Libraries, and Museums",PE0110,PE01 ‐ Education Programs,GP,200,12,F,52182,59382.0,50
+171,Education Associate 2,"Education, Information, Libraries, and Museums",PE0112,PE01 ‐ Education Programs,GP,200,15,F,64409,68482.0,50
+172,Education Specialist 1,"Education, Information, Libraries, and Museums",PE0121,PE01 ‐ Education Programs,GP,200,19,F,84767,91473.0,50
+173,Education Coordinator (Corrections),"Education, Information, Libraries, and Museums",PE0140,PE01 ‐ Education Programs,GP,100,16,F,69849,88931.0,50
+174,AVTEC Instructor,"Education, Information, Libraries, and Museums",PE0201,PE02 ‐ Teaching and Instruction,TA,999,XX,F,74244,77493.0,50
+175,Vocational Instructor,"Education, Information, Libraries, and Museums",PE0210,PE02 ‐ Teaching and Instruction,GP,100,16,F,69849,69060.0,50
+176,Training Specialist 1,"Education, Information, Libraries, and Museums",PE0231,PE02 ‐ Teaching and Instruction,GP,200,16,F,69147,68695.0,50
+177,Training Specialist 3,"Education, Information, Libraries, and Museums",PE0233,PE02 ‐ Teaching and Instruction,SS,200,20,F,95326,97921.0,50
+178,AK Military Youth Academy (AMYA) Instructor,"Education, Information, Libraries, and Museums",PE0251,PE02 ‐ Teaching and Instruction,GP,200,16,F,69147,78747.0,50
+179,AK Military Youth Academy (AMYA) Chief Examiner,"Education, Information, Libraries, and Museums",PE0252,PE02 ‐ Teaching and Instruction,GP,200,15,F,64409,84970.0,50
+180,AK Military Youth Academy (AMYA) Coordinator,"Education, Information, Libraries, and Museums",PE0253,PE02 ‐ Teaching and Instruction,GP,200,16,F,69147,73998.0,50
+181,AK Military Youth Academy (AMYA) Supervisor 2,"Education, Information, Libraries, and Museums",PE0255,PE02 ‐ Teaching and Instruction,SS,200,19,F,89232,92212.0,50
+182,AK Military Youth Academy (AMYA) Manager,"Education, Information, Libraries, and Museums",PE0259,PE02 ‐ Teaching and Instruction,SS,200,23,F,116688,109491.0,50
+183,Recreation Assistant,"Education, Information, Libraries, and Museums",PE0310,PE03 ‐ Student Services,GP,200,11,F,48750,50074.0,50
+184,Dormitory Attendant,"Education, Information, Libraries, and Museums",PE0320,PE03 ‐ Student Services,GP,200,11,F,48750,50273.0,50
+185,AK Military Youth Academy (AMYA) Team Leader,"Education, Information, Libraries, and Museums",PE0341,PE03 ‐ Student Services,GP,200,13,F,55985,67997.0,50
+186,AK Military Youth Academy (AMYA) Platoon Leader,"Education, Information, Libraries, and Museums",PE0342,PE03 ‐ Student Services,SS,600,15,F,67330,77769.0,50
+187,Aquatic Facility Manager,"Education, Information, Libraries, and Museums",PE0350,PE03 ‐ Student Services,SS,200,17,F,78000,70584.0,50
+188,Lifeguard 2,"Education, Information, Libraries, and Museums",PE0353,PE03 ‐ Student Services,GP,200,11,F,48750,43790.0,50
+189,Library Assistant 2,"Education, Information, Libraries, and Museums",PE0402,PE04 ‐ Library and Archives,GP,200,13,F,55985,62031.0,50
+190,Librarian 1,"Education, Information, Libraries, and Museums",PE0411,PE04 ‐ Library and Archives,GP,200,16,F,69147,76455.0,50
+191,Librarian 4,"Education, Information, Libraries, and Museums",PE0414,PE04 ‐ Library and Archives,SS,200,22,F,108867,107140.0,50
+192,Records Analyst 2,"Education, Information, Libraries, and Museums",PE0431,PE04 ‐ Library and Archives,GP,200,18,F,79268,70525.0,50
+193,Archivist 2,"Education, Information, Libraries, and Museums",PE0441,PE04 ‐ Library and Archives,GP,200,18,F,79268,92990.0,50
+194,State Archivist,"Education, Information, Libraries, and Museums",PE0443,PE04 ‐ Library and Archives,SS,200,22,F,108867,115368.0,50
+195,Museum Curator 2,"Education, Information, Libraries, and Museums",PE0512,PE05 ‐ Anthropological Research and Education,GP,200,18,F,79268,91604.0,50
+196,Museum Conservator,"Education, Information, Libraries, and Museums",PE0515,PE05 ‐ Anthropological Research and Education,GP,200,19,F,84767,88784.0,50
+197,Chief Curator,"Education, Information, Libraries, and Museums",PE0519,PE05 ‐ Anthropological Research and Education,SS,200,22,F,108867,103018.0,50
+198,Archaeologist 1,"Education, Information, Libraries, and Museums",PE0531,PE05 ‐ Anthropological Research and Education,GP,200,16,F,69147,76505.0,50
+199,Historian 1,"Education, Information, Libraries, and Museums",PE0541,PE05 ‐ Anthropological Research and Education,GP,200,16,F,69147,76083.0,50
+200,"Chief, Office of History and Archaeology","Education, Information, Libraries, and Museums",PE0550,PE05 ‐ Anthropological Research and Education,SS,200,21,F,101795,123320.0,50
+201,Subsistence Resource Specialist 2,"Education, Information, Libraries, and Museums",PE0582,PE05 ‐ Anthropological Research and Education,GP,200,16,F,69147,,50
+202,Subsistence Program Manager,"Education, Information, Libraries, and Museums",PE0585,PE05 ‐ Anthropological Research and Education,SS,200,22,F,108867,100680.0,50
+203,Visual Information Specialist,"Education, Information, Libraries, and Museums",PE0611,"PE06 ‐ Arts, Photography, and Information",GP,200,17,F,74003,80933.0,50
+204,Publications Technician 2,"Education, Information, Libraries, and Museums",PE0622,"PE06 ‐ Arts, Photography, and Information",GP,200,13,F,55985,72717.0,50
+205,Publications Specialist 2,"Education, Information, Libraries, and Museums",PE0632,"PE06 ‐ Arts, Photography, and Information",GP,200,16,F,69147,70127.0,50
+206,Information Officer 2,"Education, Information, Libraries, and Museums",PE0642,"PE06 ‐ Arts, Photography, and Information",GP,200,17,F,74003,87446.0,50
+207,Department Communications Manager,"Education, Information, Libraries, and Museums",PE0645,"PE06 ‐ Arts, Photography, and Information",SS,200,22,F,108867,113443.0,50
+1,Division Director ‐ PX,Executives and Senior Administrators,PA0112,PA01 ‐ Executives and Senior Administrators,XE,N00,27,F,140166,163830.0,50
+2,Division Operations Manager,Executives and Senior Administrators,PA0113,PA01 ‐ Executives and Senior Administrators,SS,200,24,F,124654,121928.0,50
+117,Local Government Specialist 3,Government Management and Infrastructure,PD0103,PD01 ‐ Government Management and Operations,GP,200,17,F,74003,80750.0,50
+118,Regulations Specialist 2,Government Management and Infrastructure,PD0122,PD01 ‐ Government Management and Operations,GP,200,16,F,69147,73231.0,50
+119,Economist 2,Government Management and Infrastructure,PD0202,PD02 ‐ Economic Research,GP,200,18,F,79268,124784.0,50
+120,Petroleum Economist 2,Government Management and Infrastructure,PD0222,PD02 ‐ Economic Research,GP,200,22,F,103740,142482.0,50
+121,Planner 2,Government Management and Infrastructure,PD0332,PD03 ‐ Development and Infrastructure Planning,GP,200,17,F,74003,83553.0,50
+122,Transportation Planner 1,Government Management and Infrastructure,PD0341,PD03 ‐ Development and Infrastructure Planning,GP,200,21,F,96759,93324.0,50
+123,Transportation Planner 2,Government Management and Infrastructure,PD0342,PD03 ‐ Development and Infrastructure Planning,SS,200,22,F,108867,104920.0,50
+124,Emergency Management Specialist 2,Government Management and Infrastructure,PD0412,PD04 ‐ Emergency Planning and Response,GP,200,16,F,69147,83553.0,50
+125,Emergency Program Manager 1,Government Management and Infrastructure,PD0421,PD04 ‐ Emergency Planning and Response,SS,200,20,F,95326,105611.0,50
+126,Emergency Services Dispatcher 1,Government Management and Infrastructure,PD0442,PD04 ‐ Emergency Planning and Response,GP,100,15,F,65072,56789.0,50
+127,Emergency Dispatch Supervisor,Government Management and Infrastructure,PD0450,PD04 ‐ Emergency Planning and Response,SS,100,18,F,83470,80779.0,50
+129,State Logistics Center Coordinator,Government Management and Infrastructure,PD0473,PD04 ‐ Emergency Planning and Response,SS,500,16,F,72176,102778.0,50
+128,Wildland Fire Dispatcher 3,Government Management and Infrastructure,PD04A3,PD04 ‐ Emergency Planning and Response,GP,100,15,F,65072,56499.0,50
+130,Airport Manager ‐ Anchorage International Airport,Government Management and Infrastructure,PD0501,PD05 ‐ Airport Administration,XE,N00,25,F,130416,133587.0,50
+131,Airport Manager ‐ Fairbanks International Airport,Government Management and Infrastructure,PD0502,PD05 ‐ Airport Administration,XE,N00,24,F,121329,117366.0,50
+132,International Airports Controller,Government Management and Infrastructure,PD0505,PD05 ‐ Airport Administration,XE,N00,24,F,121329,144437.0,50
+133,Airport Operations Officer,Government Management and Infrastructure,PD0511,PD05 ‐ Airport Administration,GP,200,18,F,79268,90121.0,50
+134,Airport Operations Specialist,Government Management and Infrastructure,PD0512,PD05 ‐ Airport Administration,GP,200,19,F,84767,76425.0,50
+135,Airport Operations Superintendent,Government Management and Infrastructure,PD0513,PD05 ‐ Airport Administration,SS,200,21,F,101795,119803.0,50
+136,Regional Safety and Airport Security Officer,Government Management and Infrastructure,PD0562,PD05 ‐ Airport Administration,GP,200,18,F,79268,89329.0,50
+137,Ferry Terminal Agent 1,Government Management and Infrastructure,PD0611,PD06 ‐ Ferry System Administration,GP,200,13,F,55985,,50
+138,Ferry Terminal Manager 1,Government Management and Infrastructure,PD0615,PD06 ‐ Ferry System Administration,SS,600,15,F,67330,76187.0,50
+139,AMHS Dispatch Manager,Government Management and Infrastructure,PD0620,PD06 ‐ Ferry System Administration,KK,200,18,F,83886,74877.0,50
+140,Reservation Call Center Supervisor,Government Management and Infrastructure,PD0632,PD06 ‐ Ferry System Administration,SS,200,16,F,72925,79855.0,50
+141,Marine Traffic Manager,Government Management and Infrastructure,PD0639,PD06 ‐ Ferry System Administration,SS,200,23,F,116688,105353.0,50
+142,Marine Pilot Coordinator,Government Management and Infrastructure,PD0642,PD06 ‐ Ferry System Administration,XE,N00,20,F,92781,,50
+143,Vessel Scheduling Coordinator,Government Management and Infrastructure,PD0643,PD06 ‐ Ferry System Administration,GP,200,17,F,74003,,50
+144,Passenger Services Inspector,Government Management and Infrastructure,PD0644,PD06 ‐ Ferry System Administration,GP,200,17,F,74003,67875.0,50
+145,AMHS Passenger Services Manager,Government Management and Infrastructure,PD0646,PD06 ‐ Ferry System Administration,SS,200,23,F,116688,111278.0,50
+146,Port Captain,Government Management and Infrastructure,PD0653,PD06 ‐ Ferry System Administration,SS,200,23,F,116688,,50
+147,Port Engineer,Government Management and Infrastructure,PD0655,PD06 ‐ Ferry System Administration,SS,200,22,F,108867,120805.0,50
+148,AMHS Safety Management Coordinator,Government Management and Infrastructure,PD0656,PD06 ‐ Ferry System Administration,GP,200,19,F,84767,77870.0,50
+149,Marine Engineering Assistant Manager,Government Management and Infrastructure,PD0669,PD06 ‐ Ferry System Administration,SS,200,23,F,116688,123186.0,50
+150,Marine Transportation Services Manager,Government Management and Infrastructure,PD0670,PD06 ‐ Ferry System Administration,XE,N00,25,F,130416,119854.0,50
+151,Equipment Fleet District Manager,Government Management and Infrastructure,PD0711,PD07‐ Maintenance Administration,SS,200,20,F,95326,99160.0,50
+152,State Equipment Fleet Manager,Government Management and Infrastructure,PD0714,PD07‐ Maintenance Administration,SS,200,23,F,116688,113980.0,50
+153,"Manager, Airfield Maintenance",Government Management and Infrastructure,PD0722,PD07‐ Maintenance Administration,SS,200,22,F,108867,107124.0,50
+154,Maintenance and Operations Specialist,Government Management and Infrastructure,PD0731,PD07‐ Maintenance Administration,GP,200,21,F,96759,108420.0,50
+155,Maintenance and Operations Superintendent,Government Management and Infrastructure,PD0732,PD07‐ Maintenance Administration,SS,200,21,F,101795,110991.0,50
+156,Maintenance and Operations Manager,Government Management and Infrastructure,PD0733,PD07‐ Maintenance Administration,SS,200,23,F,116688,119317.0,50
+157,Right‐of‐Way Assistant,Government Management and Infrastructure,PD0810,PD08 ‐ Real Estate Appraisal,GP,200,12,F,52182,53786.0,50
+158,Right‐of‐Way Agent 2,Government Management and Infrastructure,PD0812,PD08 ‐ Real Estate Appraisal,GP,200,16,F,69147,82415.0,50
+159,Right‐of‐Way Agent 5,Government Management and Infrastructure,PD0815,PD08 ‐ Real Estate Appraisal,SS,200,21,F,101795,115460.0,50
+160,Right‐of‐Way Review Appraiser 1,Government Management and Infrastructure,PD0821,PD08 ‐ Real Estate Appraisal,GP,200,21,F,96759,95349.0,50
+161,Appraiser 2,Government Management and Infrastructure,PD0842,PD08 ‐ Real Estate Appraisal,GP,200,18,F,79268,91750.0,50
+162,State Assessor,Government Management and Infrastructure,PD0850,PD08 ‐ Real Estate Appraisal,SS,200,23,F,116688,130048.0,50
+163,Building Management Specialist,Government Management and Infrastructure,PD0902,PD09 ‐ Property Management,GP,200,19,F,84767,92621.0,50
+164,Facilities Manager 1,Government Management and Infrastructure,PD0921,PD09 ‐ Property Management,GP,200,20,F,90539,99422.0,50
+165,Airport Leasing Specialist 2,Government Management and Infrastructure,PD0942,PD09 ‐ Property Management,GP,200,16,F,69147,64822.0,50
+166,Airport Leasing Program Manager,Government Management and Infrastructure,PD0945,PD09 ‐ Property Management,SS,200,22,F,108867,106976.0,50
+167,State Leasing & Facilities Manager,Government Management and Infrastructure,PD0951,PD09 ‐ Property Management,XE,N00,25,F,130416,109399.0,50
+303,Criminal Justice Technician 1,"Legal, Judicial, and Related",PI0101,PI01 ‐ Legal Support and Related,GP,100,12,F,52650,62922.0,50
+304,Criminal Justice Planner,"Legal, Judicial, and Related",PI0105,PI01 ‐ Legal Support and Related,GP,100,21,F,97734,113976.0,50
+305,Law Office Manager,"Legal, Judicial, and Related",PI0146,PI01 ‐ Legal Support and Related,SS,200,16,F,72925,75475.0,50
+306,Public Safety Technician 2,"Legal, Judicial, and Related",PI0152,PI01 ‐ Legal Support and Related,GP,100,11,F,49238,47444.0,50
+307,Law Office Assistant 2,"Legal, Judicial, and Related",PI01A2,PI01 ‐ Legal Support and Related,GP,200,13,F,55985,61042.0,50
+308,Paralegal 2,"Legal, Judicial, and Related",PI01B2,PI01 ‐ Legal Support and Related,GP,200,16,F,69147,74016.0,50
+309,Paralegal Specialist 1,"Legal, Judicial, and Related",PI01C1,PI01 ‐ Legal Support and Related,XE,N00,19,F,86834,77686.0,50
+310,Attorney 4,"Legal, Judicial, and Related",PI0214,PI02 ‐ Attorneys,XE,A00,24,F,139542,148953.0,50
+311,Administrative Law Judge 1,"Legal, Judicial, and Related",PI0302,PI03 ‐ Judges and Adjudicators,XE,A00,24,F,139542,,50
+312,Hearing Examiner 1,"Legal, Judicial, and Related",PI0311,PI03 ‐ Judges and Adjudicators,XE,A00,24,F,139542,124086.0,50
+313,Hearing Officer,"Legal, Judicial, and Related",PI0321,PI03 ‐ Judges and Adjudicators,XE,N00,21,F,99080,100306.0,50
+314,Workers' Compensation Hearing Officer 2,"Legal, Judicial, and Related",PI0352,PI03 ‐ Judges and Adjudicators,GP,200,22,F,103740,,50
+315,Chief of Workers' Compensation Adjudication,"Legal, Judicial, and Related",PI0355,PI03 ‐ Judges and Adjudicators,XE,A00,25,F,149955,144392.0,50
+316,Forensic Science Laboratory Administrator 1,"Legal, Judicial, and Related",PI0405,PI04 ‐ Evidence Investigation,SS,100,22,F,108867,94341.0,50
+317,Forensic Scientist 3 ‐ Chemistry,"Legal, Judicial, and Related",PI0413,PI04 ‐ Evidence Investigation,GP,100,22,F,104637,85745.0,50
+318,Fingerprint Technician 2,"Legal, Judicial, and Related",PI0421,PI04 ‐ Evidence Investigation,GP,100,16,F,69849,68695.0,50
+319,Investigator 2,"Legal, Judicial, and Related",PI0432,PI04 ‐ Evidence Investigation,GP,200,16,F,69147,80344.0,50
+320,Special Investigator 1,"Legal, Judicial, and Related",PI0436,PI04 ‐ Evidence Investigation,GP,200,19,F,84767,84230.0,50
+321,Forensic Scientist 3 ‐ Physical,"Legal, Judicial, and Related",PI0442,PI04 ‐ Evidence Investigation,GP,100,22,F,104637,91811.0,50
+322,Forensic Scientist 3 ‐ DNA,"Legal, Judicial, and Related",PI0453,PI04 ‐ Evidence Investigation,GP,100,22,F,104637,91811.0,50
+323,Forensic Technician 2,"Legal, Judicial, and Related",PI0460,PI04 ‐ Evidence Investigation,GP,100,15,F,65072,69608.0,50
+324,Medicolegal Investigator 2,"Legal, Judicial, and Related",PI0464,PI04 ‐ Evidence Investigation,GP,200,16,F,69147,75946.0,50
+325,Criminal Intelligence Analyst 2,"Legal, Judicial, and Related",PI0472,PI04 ‐ Evidence Investigation,GP,100,17,F,74685,80144.0,50
+326,Recorder Supervisor,"Legal, Judicial, and Related",PI0505,PI05 ‐ Legal Document Processing,SS,200,16,F,72925,78541.0,50
+327,Recorder Manager,"Legal, Judicial, and Related",PI0517,PI05 ‐ Legal Document Processing,SS,200,18,F,83470,100617.0,50
+328,Motor Vehicle Customer Service Representative 1,"Legal, Judicial, and Related",PI0531,PI05 ‐ Legal Document Processing,GP,200,10,F,45786,48315.0,50
+329,Motor Vehicle Office Manager 1,"Legal, Judicial, and Related",PI0541,PI05 ‐ Legal Document Processing,SS,200,15,F,67995,74420.0,50
+330,DMV Program Manager,"Legal, Judicial, and Related",PI0555,PI05 ‐ Legal Document Processing,SS,200,21,F,101795,95124.0,50
+331,Recorder 1,"Legal, Judicial, and Related",PI05A1,PI05 ‐ Legal Document Processing,GP,200,12,F,52182,62474.0,50
+255,Health Program Manager 2,"Medical, Public Health and Related",PG0122,PG01 ‐ Health Administration,GP,200,19,F,84767,107747.0,50
+256,Public Health Specialist 2,"Medical, Public Health and Related",PG0132,PG01 ‐ Health Administration,GP,200,20,F,90539,107452.0,50
+257,Public Health Informaticist 2,"Medical, Public Health and Related",PG0134,PG01 ‐ Health Administration,GP,200,20,F,90539,109513.0,50
+258,Medical Information and Services Assistant,"Medical, Public Health and Related",PG0140,PG01 ‐ Health Administration,GP,100,10,F,46215,48981.0,50
+259,Dietitian 2,"Medical, Public Health and Related",PG0177,PG01 ‐ Health Administration,GP,200,20,F,90539,84217.0,50
+260,Assisted Living Aide,"Medical, Public Health and Related",PG0210,"PG02 ‐ Nursing, Assistive",GP,100,09,F,43466,44687.0,50
+261,Certified Nurse Aide 1,"Medical, Public Health and Related",PG0211,"PG02 ‐ Nursing, Assistive",GP,100,11,F,49238,49611.0,50
+262,Psychiatric Nursing Assistant 3,"Medical, Public Health and Related",PG0233,"PG02 ‐ Nursing, Assistive",GP,100,12,F,52650,51556.0,50
+263,Licensed Practical Nurse,"Medical, Public Health and Related",PG0301,"PG03 ‐ Nursing, Professional",GP,100,17,F,74685,68695.0,50
+264,Nurse 2,"Medical, Public Health and Related",PG0312,"PG03 ‐ Nursing, Professional",GP,100,22,F,104637,93643.0,50
+265,Psychiatric Nurse 2,"Medical, Public Health and Related",PG0322,"PG03 ‐ Nursing, Professional",GP,100,23,F,112164,94329.0,50
+266,Corrections Nurse 1,"Medical, Public Health and Related",PG0326,"PG03 ‐ Nursing, Professional",GP,100,22,F,104637,90991.0,50
+267,Public Health Nurse 2,"Medical, Public Health and Related",PG03A2,"PG03 ‐ Nursing, Professional",GP,200,23,F,111131,109383.0,50
+268,Nurse Consultant 1,"Medical, Public Health and Related",PG03B1,"PG03 ‐ Nursing, Professional",GP,200,24,F,118736,125375.0,50
+269,Physician Assistant/Advanced Practice Registered Nurse 1,"Medical, Public Health and Related",PG0421,"PG04 ‐ Medical, Professional",GP,100,26,F,133575,146924.0,50
+270,Mental Health Clinician 2,"Medical, Public Health and Related",PG0512,PG05 ‐ Mental and Behavioral Health Services,GP,100,19,F,85586,87791.0,50
+271,Disease Intervention Specialist 1,"Medical, Public Health and Related",PG0601,PG06 ‐ Special Health Services,GP,200,18,F,79268,99286.0,50
+272,Epidemiology Specialist 2,"Medical, Public Health and Related",PG0604,PG06 ‐ Special Health Services,GP,200,20,F,90539,96899.0,50
+273,Dental Assistant,"Medical, Public Health and Related",PG0621,PG06 ‐ Special Health Services,GP,100,13,F,56433,50621.0,50
+274,Dental Hygienist,"Medical, Public Health and Related",PG0622,PG06 ‐ Special Health Services,GP,100,21,F,97734,92036.0,50
+276,Occupational Therapist 1,"Medical, Public Health and Related",PG0651,PG06 ‐ Special Health Services,GP,100,21,F,97734,110914.0,50
+277,Recreation Therapist 2,"Medical, Public Health and Related",PG0682,PG06 ‐ Special Health Services,SS,100,16,F,72925,72946.0,50
+275,Pharmacy Technician 1,"Medical, Public Health and Related",PG06A1,PG06 ‐ Special Health Services,GP,200,12,F,52182,52793.0,50
+278,Laboratory Technician,"Medical, Public Health and Related",PG0730,PG07 ‐ Health Laboratory and Related,GP,200,13,F,55985,56758.0,50
+279,Microbiologist 2,"Medical, Public Health and Related",PG0742,PG07 ‐ Health Laboratory and Related,GP,200,16,F,69147,80933.0,50
+280,Public Health Microbiologist 1,"Medical, Public Health and Related",PG0751,PG07 ‐ Health Laboratory and Related,GP,200,17,F,74003,76721.0,50
+355,Hydrologist 2,Physical Sciences and Engineering,PK0112,PK01 ‐ Physical Science Specialists,GP,200,19,F,84767,92992.0,50
+356,Chemist 3,Physical Sciences and Engineering,PK0123,PK01 ‐ Physical Science Specialists,GP,200,18,F,79268,97921.0,50
+357,Geologist 2,Physical Sciences and Engineering,PK0132,PK01 ‐ Physical Science Specialists,GP,200,17,F,74003,85393.0,50
+358,Geological Scientist 1,Physical Sciences and Engineering,PK0137,PK01 ‐ Physical Science Specialists,GP,200,22,F,103740,132352.0,50
+359,Engineering Geologist 2,Physical Sciences and Engineering,PK0142,PK01 ‐ Physical Science Specialists,GP,200,18,F,79268,83031.0,50
+360,Environmental Program Technician,Physical Sciences and Engineering,PK0201,PK02 ‐ Environmental Science Specialists,GP,200,13,F,55985,62388.0,50
+361,Environmental Program Specialist 3,Physical Sciences and Engineering,PK0213,PK02 ‐ Environmental Science Specialists,GP,200,18,F,79268,94859.0,50
+362,Environmental Program Manager 2,Physical Sciences and Engineering,PK0222,PK02 ‐ Environmental Science Specialists,SS,200,22,F,108867,132664.0,50
+363,Environmental Impact Analyst 2,Physical Sciences and Engineering,PK0242,PK02 ‐ Environmental Science Specialists,GP,200,17,F,74003,77307.0,50
+364,Environmental Impact Analysis Manager 1,Physical Sciences and Engineering,PK0251,PK02 ‐ Environmental Science Specialists,GP,200,21,F,96759,102901.0,50
+365,Engineering Associate,Physical Sciences and Engineering,PK0305,"PK03 ‐ Engineering, Unlicensed",GP,200,21,F,96759,87570.0,50
+366,"Engineering Associate 1, DEC",Physical Sciences and Engineering,PK0333,"PK03 ‐ Engineering, Unlicensed",GP,200,21,F,96759,95238.0,50
+367,Communications Engineering Associate 2,Physical Sciences and Engineering,PK0352,"PK03 ‐ Engineering, Unlicensed",GP,100,23,F,112164,117569.0,50
+368,Engineer/Architect 1,Physical Sciences and Engineering,PK0411,"PK04 ‐Engineering, Licensed",GP,200,22,F,103740,105106.0,50
+369,Engineer/Architect 3,Physical Sciences and Engineering,PK0413,"PK04 ‐Engineering, Licensed",SS,200,25,F,133994,123044.0,50
+370,"Engineer 1, DEC",Physical Sciences and Engineering,PK0435,"PK04 ‐Engineering, Licensed",GP,200,22,F,103740,108643.0,50
+371,Village Safe Water Engineer 1,Physical Sciences and Engineering,PK0443,"PK04 ‐Engineering, Licensed",GP,200,22,F,103740,110240.0,50
+372,Communications Engineer 1,Physical Sciences and Engineering,PK0453,"PK04 ‐Engineering, Licensed",GP,200,24,F,118736,130393.0,50
+373,Technical Engineer 1 / Architect 1,Physical Sciences and Engineering,PK0471,"PK04 ‐Engineering, Licensed",GP,200,24,F,118736,119467.0,50
+374,Vessel Construction Manager 1,Physical Sciences and Engineering,PK0611,PK06 ‐ Vessel Construction,GP,200,21,F,96759,,50
+375,Land Surveyor 1,Physical Sciences and Engineering,PK0711,PK07 ‐ Land Surveying,GP,200,21,F,96759,93210.0,50
+376,Land Survey Manager 1,Physical Sciences and Engineering,PK0714,PK07 ‐ Land Surveying,SS,200,23,F,116688,113506.0,50
+377,"Survey, Journey",Physical Sciences and Engineering,PK0743,PK07 ‐ Land Surveying,LL,2AA,54,F,63565,70959.0,50
+378,Drafting Technician 3,Physical Sciences and Engineering,PK0803,PK08 ‐ Cartography and Drafting,GP,200,15,F,64409,67805.0,50
+332,State Trooper,"Police, Fire Fighters, and Corrections",PJ0103,PJ01 ‐ Law Enforcement,AA,100,77,F,110094,96512.0,50
+333,"Sergeant, Department of Public Safety","Police, Fire Fighters, and Corrections",PJ0105,PJ01 ‐ Law Enforcement,AA,100,79,F,127566,116730.0,50
+334,Lieutenant ‐ Department of Public Safety,"Police, Fire Fighters, and Corrections",PJ0106,PJ01 ‐ Law Enforcement,SS,C00,24,F,144747,123677.0,50
+335,Court Services Officer,"Police, Fire Fighters, and Corrections",PJ0121,PJ01 ‐ Law Enforcement,AA,500,74,F,83741,76892.0,50
+336,Airport Police & Fire Officer 2,"Police, Fire Fighters, and Corrections",PJ0222,PJ02 ‐ Fire Fighting and Inspection,AP,100,77,F,107432,84431.0,50
+337,Airport Police & Fire Officer 4,"Police, Fire Fighters, and Corrections",PJ0224,PJ02 ‐ Fire Fighting and Inspection,AP,100,79,F,124488,,50
+338,Fire Training Specialist,"Police, Fire Fighters, and Corrections",PJ0231,PJ02 ‐ Fire Fighting and Inspection,GP,100,19,F,85586,95251.0,50
+339,Deputy Fire Marshal 3,"Police, Fire Fighters, and Corrections",PJ0241,PJ02 ‐ Fire Fighting and Inspection,SS,100,23,F,116688,128246.0,50
+340,Building Plans Examiner 1,"Police, Fire Fighters, and Corrections",PJ0250,PJ02 ‐ Fire Fighting and Inspection,GP,100,19,F,85586,85516.0,50
+341,Deputy Fire Marshal 2,"Police, Fire Fighters, and Corrections",PJ02A2,PJ02 ‐ Fire Fighting and Inspection,AA,500,77,F,104478,111870.0,50
+342,Correctional Officer 2,"Police, Fire Fighters, and Corrections",PJ0312,PJ03 ‐ Corrections,GC,100,13,F,77619,74838.0,50
+343,Correctional Officer 4,"Police, Fire Fighters, and Corrections",PJ0316,PJ03 ‐ Corrections,GC,100,15,F,89435,77926.0,50
+344,Correctional Supervisor,"Police, Fire Fighters, and Corrections",PJ0317,PJ03 ‐ Corrections,SS,L00,18,F,84282,85936.0,50
+345,Correctional Superintendent 1,"Police, Fire Fighters, and Corrections",PJ0324,PJ03 ‐ Corrections,SS,L00,19,F,90106,111952.0,50
+347,Juvenile Justice Unit Supervisor,"Police, Fire Fighters, and Corrections",PJ0345,PJ03 ‐ Corrections,SS,100,18,F,83470,82829.0,50
+348,Juvenile Justice Superintendent 1,"Police, Fire Fighters, and Corrections",PJ0351,PJ03 ‐ Corrections,SS,100,20,F,95326,90780.0,50
+346,Juvenile Justice Counselor 2,"Police, Fire Fighters, and Corrections",PJ03A2,PJ03 ‐ Corrections,GZ,100,14,F,64709,67444.0,50
+353,Juvenile Probation Officer 2,"Police, Fire Fighters, and Corrections",PJ0452,PJ04 ‐ Probation and Parole,GP,100,16,F,69849,80565.0,50
+354,Juvenile Probation Officer 3,"Police, Fire Fighters, and Corrections",PJ0453,PJ04 ‐ Probation and Parole,SS,100,18,F,83470,79145.0,50
+349,Adult Probation Officer 2A,"Police, Fire Fighters, and Corrections",PJ04A2,PJ04 ‐ Probation and Parole,GP,100,17,F,74685,74507.0,50
+350,Adult Probation Officer 2B,"Police, Fire Fighters, and Corrections",PJ04A3,PJ04 ‐ Probation and Parole,GP,100,18,F,80028,86432.0,50
+351,Pretrial Services Officer 2,"Police, Fire Fighters, and Corrections",PJ04B2,PJ04 ‐ Probation and Parole,GP,100,18,F,80028,74868.0,50
+352,"Pretrial, Probation and Parole Administrator 1","Police, Fire Fighters, and Corrections",PJ04C1,PJ04 ‐ Probation and Parole,SS,100,21,F,101795,127619.0,50
+210,Eligibility Technician 2,"Social, Benefit, and Employment Services",PF0112,PF01 ‐ Public Programs,GP,200,14,F,60138,58514.0,50
+211,Eligibility Technician 4,"Social, Benefit, and Employment Services",PF0114,PF01 ‐ Public Programs,SS,200,17,F,78000,77979.0,50
+212,Eligibility Quality Control Technician 1,"Social, Benefit, and Employment Services",PF0116,PF01 ‐ Public Programs,GP,200,16,F,69147,66544.0,50
+213,Eligibility Quality Control Technician 2,"Social, Benefit, and Employment Services",PF0117,PF01 ‐ Public Programs,SS,200,18,F,83470,82000.0,50
+214,Eligibility Office Manager 1,"Social, Benefit, and Employment Services",PF0118,PF01 ‐ Public Programs,GP,200,18,F,79268,72150.0,50
+215,Eligibility Office Manager 2,"Social, Benefit, and Employment Services",PF0119,PF01 ‐ Public Programs,SS,200,19,F,89232,79484.0,50
+216,Medicaid Program Associate,"Social, Benefit, and Employment Services",PF0120,PF01 ‐ Public Programs,GP,200,14,F,60138,54622.0,50
+217,Medicaid Program Specialist 2,"Social, Benefit, and Employment Services",PF0122,PF01 ‐ Public Programs,GP,200,18,F,79268,96674.0,50
+218,Medicaid Program Specialist 5,"Social, Benefit, and Employment Services",PF0125,PF01 ‐ Public Programs,SS,200,22,F,108867,112285.0,50
+219,PFD Technician 2,"Social, Benefit, and Employment Services",PF0132,PF01 ‐ Public Programs,GP,200,12,F,52182,54079.0,50
+220,PFD Specialist 1,"Social, Benefit, and Employment Services",PF0136,PF01 ‐ Public Programs,SS,200,16,F,72925,,50
+221,PFD Manager,"Social, Benefit, and Employment Services",PF0139,PF01 ‐ Public Programs,SS,200,22,F,108867,,50
+222,Public Assistance Analyst 2,"Social, Benefit, and Employment Services",PF0152,PF01 ‐ Public Programs,GP,200,18,F,79268,90282.0,50
+223,Public Assistance Field Services Manager 2,"Social, Benefit, and Employment Services",PF0154,PF01 ‐ Public Programs,SS,200,21,F,101795,96296.0,50
+224,Public Assistance Programs Officer,"Social, Benefit, and Employment Services",PF0157,PF01 ‐ Public Programs,SS,200,21,F,101795,96067.0,50
+225,Workers' Compensation Technician,"Social, Benefit, and Employment Services",PF0160,PF01 ‐ Public Programs,GP,200,12,F,52182,71680.0,50
+226,Workers' Compensation Officer 2,"Social, Benefit, and Employment Services",PF0162,PF01 ‐ Public Programs,GP,200,18,F,79268,75288.0,50
+227,Social Services Program Coordinator,"Social, Benefit, and Employment Services",PF0171,PF01 ‐ Public Programs,GP,200,20,F,90539,101613.0,50
+228,Social Services Program Officer,"Social, Benefit, and Employment Services",PF0172,PF01 ‐ Public Programs,SS,200,21,F,101795,103420.0,50
+229,Social Services Program Administrator,"Social, Benefit, and Employment Services",PF0173,PF01 ‐ Public Programs,SS,200,23,F,116688,93477.0,50
+230,Disability Adjudicator Associate 2,"Social, Benefit, and Employment Services",PF0182,PF01 ‐ Public Programs,GP,200,16,F,69147,57053.0,50
+231,Disability Adjudicator 2,"Social, Benefit, and Employment Services",PF0184,PF01 ‐ Public Programs,SS,200,20,F,95326,81361.0,50
+232,"Chief, Disability Determination Services","Social, Benefit, and Employment Services",PF0186,PF01 ‐ Public Programs,SS,200,22,F,108867,128019.0,50
+233,"Chief, Public Assistance Field Operations","Social, Benefit, and Employment Services",PF0193,PF01 ‐ Public Programs,SS,200,22,F,108867,145148.0,50
+208,Child Support Enforcement Specialist 1,"Social, Benefit, and Employment Services",PF01A1,PF01 ‐ Public Programs,GP,200,16,F,69147,64567.0,50
+209,Child Support Enforcement Specialist 3,"Social, Benefit, and Employment Services",PF01A3,PF01 ‐ Public Programs,SS,200,20,F,95326,85540.0,50
+234,Protective Services Specialist 2,"Social, Benefit, and Employment Services",PF0202,PF02 ‐ Social Work,GP,200,17,F,74003,75683.0,50
+235,Protective Services Specialist 4,"Social, Benefit, and Employment Services",PF0204,PF02 ‐ Social Work,SS,200,20,F,95326,82023.0,50
+236,Protective Services Manager 1,"Social, Benefit, and Employment Services",PF0205,PF02 ‐ Social Work,SS,200,21,F,101795,107972.0,50
+237,Social Services Associate,"Social, Benefit, and Employment Services",PF0222,PF02 ‐ Social Work,GP,200,12,F,52182,57119.0,50
+238,Civil Rights Programs and Compliance Specialist 1,"Social, Benefit, and Employment Services",PF0301,PF03 ‐ Special Social Service,GP,200,15,F,64409,77268.0,50
+239,Civil Rights Programs and Compliance Specialist 2,"Social, Benefit, and Employment Services",PF0302,PF03 ‐ Special Social Service,SS,200,17,F,78000,100955.0,50
+240,Civil Rights Programs and Compliance Specialist 3,"Social, Benefit, and Employment Services",PF0303,PF03 ‐ Special Social Service,SS,200,19,F,89232,112828.0,50
+241,Human Rights Field Representative 3,"Social, Benefit, and Employment Services",PF0323,PF03 ‐ Special Social Service,XE,N00,18,F,81237,104033.0,50
+242,Human Rights Field Representative 4,"Social, Benefit, and Employment Services",PF0324,PF03 ‐ Special Social Service,XE,N00,20,F,92781,137780.0,50
+243,Senior Services Technician,"Social, Benefit, and Employment Services",PF0341,PF03 ‐ Special Social Service,GP,200,12,F,52182,60422.0,50
+244,Public Guardian 2,"Social, Benefit, and Employment Services",PF03A2,PF03 ‐ Special Social Service,GP,200,18,F,79268,83267.0,50
+245,Public Guardian 4,"Social, Benefit, and Employment Services",PF03A4,PF03 ‐ Special Social Service,SS,200,22,F,108867,96674.0,50
+246,Vocational Rehabilitation Assistant 2,"Social, Benefit, and Employment Services",PF0412,PF04 ‐ Vocational Rehabilitation,GP,200,12,F,52182,49982.0,50
+247,Vocational Rehabilitation Counselor 2,"Social, Benefit, and Employment Services",PF0432,PF04 ‐ Vocational Rehabilitation,GP,200,17,F,74003,73887.0,50
+248,Vocational Rehabilitation Manager,"Social, Benefit, and Employment Services",PF0460,PF04 ‐ Vocational Rehabilitation,SS,200,21,F,101795,126979.0,50
+249,"Chief, Vocational Rehabilitation Services","Social, Benefit, and Employment Services",PF0472,PF04 ‐ Vocational Rehabilitation,SS,200,23,F,116688,136357.0,50
+250,Employment Security Analyst 2,"Social, Benefit, and Employment Services",PF0512,PF05 ‐ Labor and Employment Services,GP,200,17,F,74003,77459.0,50
+251,Employment Services Technician 2,"Social, Benefit, and Employment Services",PF0522,PF05 ‐ Labor and Employment Services,GP,200,15,F,64409,63570.0,50
+252,Unemployment Insurance Technician 1,"Social, Benefit, and Employment Services",PF0526,PF05 ‐ Labor and Employment Services,GP,200,14,F,60138,55240.0,50
+253,Employment Services Manager 1,"Social, Benefit, and Employment Services",PF0531,PF05 ‐ Labor and Employment Services,GP,200,16,F,69147,87301.0,50
+254,Field Auditor 1,"Social, Benefit, and Employment Services",PF0541,PF05 ‐ Labor and Employment Services,GP,200,16,F,69147,66449.0,50
