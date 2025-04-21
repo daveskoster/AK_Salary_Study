@@ -1,0 +1,208 @@
+"","family","step","nMatches","wgt_ak_annual_salary","wgt_mkt_target_annual_salary"
+"1","PA01 ‐ Executives and Senior Administrators","A",141,113691.964539007,130875.468085106
+"2","PA01 ‐ Executives and Senior Administrators","F",141,133455.134751773,151659.546099291
+"3","PA01 ‐ Executives and Senior Administrators","O",141,161682.617021277,181132.546099291
+"4","PB01 ‐ General Administration","A",418,56051.6913875598,55105.8181818182
+"5","PB01 ‐ General Administration","F",418,65480.8708133971,66211.514354067
+"6","PB01 ‐ General Administration","O",418,81150.7727272727,77352.4066985646
+"7","PB02 ‐ Accounting and Fiscal","A",226,60261.3230088496,63289.4203539823
+"8","PB02 ‐ Accounting and Fiscal","F",226,70361.2300884956,75104.5707964602
+"9","PB02 ‐ Accounting and Fiscal","O",226,87287.7699115044,87344.3495575221
+"10","PB03 ‐ Personnel and Employee Relations","A",153,64931.1176470588,71899.7973856209
+"11","PB03 ‐ Personnel and Employee Relations","F",153,77238.5294117647,87750.0130718954
+"12","PB03 ‐ Personnel and Employee Relations","O",153,94337.045751634,102013.594771242
+"13","PB04 ‐ Information Technology","A",12,62069,69497
+"14","PB04 ‐ Information Technology","F",12,74003,80102
+"15","PB04 ‐ Information Technology","O",12,93386,94497
+"16","PB05 ‐ Statistics and Research Analysis","A",91,65970.2637362637,82221.2747252747
+"17","PB05 ‐ Statistics and Research Analysis","F",91,77773.1648351648,96419.8351648352
+"18","PB05 ‐ Statistics and Research Analysis","O",91,97387.3406593407,109419.285714286
+"19","PB06 ‐ Supply","A",49,67740.693877551,70263.1632653061
+"20","PB06 ‐ Supply","F",49,78854.5918367347,86905.2653061225
+"21","PB06 ‐ Supply","O",49,97341.2040816326,98902.8571428571
+"22","PB07 ‐ Office of Information Technology","A",149,96150.8255033557,102365.140939597
+"23","PB07 ‐ Office of Information Technology","F",149,111690.033557047,123541.234899329
+"24","PB07 ‐ Office of Information Technology","O",149,137379.993288591,144591.040268456
+"25","PB99 ‐ Administrative classes not otherwise described","A",147,65308.8299319728,65487.0476190476
+"26","PB99 ‐ Administrative classes not otherwise described","F",147,77377.9115646258,79750.8299319728
+"27","PB99 ‐ Administrative classes not otherwise described","O",147,97290.3741496599,93698.9795918367
+"28","PC01 ‐ Business Finance","A",57,64797.3333333333,72244.5789473684
+"29","PC01 ‐ Business Finance","F",57,76708.1228070175,89045.4912280702
+"30","PC01 ‐ Business Finance","O",57,96240.9649122807,103496.403508772
+"31","PC02 ‐ Business Regulation and Compliance","A",108,62814.9444444444,64602.7037037037
+"32","PC02 ‐ Business Regulation and Compliance","F",108,74265.4537037037,77947.3703703704
+"33","PC02 ‐ Business Regulation and Compliance","O",108,93112.6944444444,89651.6944444444
+"34","PC03 ‐ Safety Inspection","A",57,73251.6315789474,78821.298245614
+"35","PC03 ‐ Safety Inspection","F",57,84284.5263157895,93504.9122807018
+"36","PC03 ‐ Safety Inspection","O",57,103662.859649123,106485.280701754
+"37","PC04 ‐ Environmental Health","A",12,63805.9166666667,68508.0833333333
+"38","PC04 ‐ Environmental Health","F",12,74582.8333333333,83169.5833333333
+"39","PC04 ‐ Environmental Health","O",12,92627.9166666667,99191.3333333333
+"40","PC05 ‐ Revenue Audit","A",49,86840.8571428571,88745.3265306122
+"41","PC05 ‐ Revenue Audit","F",49,102062.632653061,103530.87755102
+"42","PC05 ‐ Revenue Audit","O",49,127402.204081633,120574.612244898
+"43","PD01 ‐ Government Management and Operations","A",12,60704,63329
+"44","PD01 ‐ Government Management and Operations","F",12,72384.3333333333,79646.6666666667
+"45","PD01 ‐ Government Management and Operations","O",12,91390.3333333333,97781.3333333333
+"46","PD02 ‐ Economic Research","A",5,75009.2,121396
+"47","PD02 ‐ Economic Research","F",5,89056.8,141774.4
+"48","PD02 ‐ Economic Research","O",5,112316.6,156138.6
+"49","PD03 ‐ Development and Infrastructure Planning","A",37,80769.4594594595,80864.2972972973
+"50","PD03 ‐ Development and Infrastructure Planning","F",37,95032.2972972973,98848.2432432432
+"51","PD03 ‐ Development and Infrastructure Planning","O",37,119116.864864865,112196.162162162
+"52","PD04 ‐ Emergency Planning and Response","A",69,59140.0579710145,74625.0724637681
+"53","PD04 ‐ Emergency Planning and Response","F",69,69966,87715.3623188406
+"54","PD04 ‐ Emergency Planning and Response","O",69,87704.2463768116,101588.855072464
+"55","PD05 ‐ Airport Administration","A",38,74793.0263157895,81658.3421052632
+"56","PD05 ‐ Airport Administration","F",38,88411.7368421053,95957.1052631579
+"57","PD05 ‐ Airport Administration","O",38,110224.710526316,111309.552631579
+"58","PD06 ‐ Ferry System Administration","A",29,75934.3793103448,81346.9655172414
+"59","PD06 ‐ Ferry System Administration","F",29,88020.724137931,93055.9655172414
+"60","PD06 ‐ Ferry System Administration","O",29,107032.137931034,106215.172413793
+"61","PD07‐ Maintenance Administration","A",28,89354.3571428571,96177.8214285714
+"62","PD07‐ Maintenance Administration","F",28,102531.571428571,116761.75
+"63","PD07‐ Maintenance Administration","O",28,124942.607142857,137565.25
+"64","PD08 ‐ Real Estate Appraisal","A",18,67657.0555555556,77156.5
+"65","PD08 ‐ Real Estate Appraisal","F",18,79920,94069.4444444444
+"66","PD08 ‐ Real Estate Appraisal","O",18,100333.444444444,112207.722222222
+"67","PD09 ‐ Property Management","A",30,72650.6333333333,83355
+"68","PD09 ‐ Property Management","F",30,85925.7,95944.1
+"69","PD09 ‐ Property Management","O",30,107758.866666667,110958.8
+"70","PE01 ‐ Education Programs","A",50,61447.64,69247.86
+"71","PE01 ‐ Education Programs","F",50,72286.4,83021.22
+"72","PE01 ‐ Education Programs","O",50,90381.14,98370.44
+"73","PE02 ‐ Teaching and Instruction","A",71,63471.2535211268,67909.8028169014
+"74","PE02 ‐ Teaching and Instruction","F",71,74090.7887323944,79077.2816901409
+"75","PE02 ‐ Teaching and Instruction","O",71,87555.4084507042,88910.7746478873
+"76","PE03 ‐ Student Services","A",55,46142.5636363636,51976.0909090909
+"77","PE03 ‐ Student Services","F",55,54110.0909090909,61497.7454545455
+"78","PE03 ‐ Student Services","O",55,68193.8727272727,72513.4909090909
+"79","PE04 ‐ Library and Archives","A",28,66805.3571428571,65035.75
+"80","PE04 ‐ Library and Archives","F",28,78996.2142857143,79255.6785714286
+"81","PE04 ‐ Library and Archives","O",28,99216.0714285714,91902
+"82","PE05 ‐ Anthropological Research and Education","A",22,76929.5454545455,86903.3181818182
+"83","PE05 ‐ Anthropological Research and Education","F",22,89307,106433.909090909
+"84","PE05 ‐ Anthropological Research and Education","O",22,110078.772727273,118070.772727273
+"85","PE06 ‐ Arts, Photography, and Information","A",43,61073.7674418605,70184.0697674419
+"86","PE06 ‐ Arts, Photography, and Information","F",43,72467.976744186,81045.4186046512
+"87","PE06 ‐ Arts, Photography, and Information","O",43,91158.2558139535,94855.1627906977
+"88","PF01 ‐ Public Programs","A",391,61404.3631713555,62718.2890025575
+"89","PF01 ‐ Public Programs","F",391,72204.8542199488,74236.979539642
+"90","PF01 ‐ Public Programs","O",391,90124.462915601,85039.547314578
+"91","PF02 ‐ Social Work","A",242,61723.6074380165,63527.326446281
+"92","PF02 ‐ Social Work","F",242,72280.0165289256,75999.652892562
+"93","PF02 ‐ Social Work","O",242,90062.0495867769,86908.5495867769
+"94","PF03 ‐ Special Social Service","A",39,62921.8717948718,72291.9487179487
+"95","PF03 ‐ Special Social Service","F",39,74131.1794871795,85142.9743589744
+"96","PF03 ‐ Special Social Service","O",39,92414.8461538462,100714.384615385
+"97","PF04 ‐ Vocational Rehabilitation","A",23,57766.3913043478,66986.7826086956
+"98","PF04 ‐ Vocational Rehabilitation","F",23,67409.9130434783,75558.5217391304
+"99","PF04 ‐ Vocational Rehabilitation","O",23,84016.9130434783,84202.9565217391
+"100","PF05 ‐ Labor and Employment Services","A",86,54186.523255814,54978.1627906977
+"101","PF05 ‐ Labor and Employment Services","F",86,64629.8023255814,68398.0581395349
+"102","PF05 ‐ Labor and Employment Services","O",86,81721.7209302326,80624.9186046512
+"103","PG01 ‐ Health Administration","A",116,70707.5431034483,86953.3448275862
+"104","PG01 ‐ Health Administration","F",116,83716.4827586207,107058.715517241
+"105","PG01 ‐ Health Administration","O",116,105504.034482759,127174.905172414
+"106","PG02 ‐ Nursing, Assistive","A",361,41580.379501385,42707.7756232687
+"107","PG02 ‐ Nursing, Assistive","F",361,48481.0027700831,51624.0886426593
+"108","PG02 ‐ Nursing, Assistive","O",361,61268.4736842105,60289.4487534626
+"109","PG03 ‐ Nursing, Professional","A",208,87131.75,86008.8028846154
+"110","PG03 ‐ Nursing, Professional","F",208,103577.807692308,101212.5625
+"111","PG03 ‐ Nursing, Professional","O",208,130859.524038462,115331.495192308
+"112","PG04 ‐ Medical, Professional","A",25,112164,138142
+"113","PG04 ‐ Medical, Professional","F",25,133575,149900
+"114","PG04 ‐ Medical, Professional","O",25,169592,171639
+"115","PG05 ‐ Mental and Behavioral Health Services","A",28,72189,75630
+"116","PG05 ‐ Mental and Behavioral Health Services","F",28,85586,92959
+"117","PG05 ‐ Mental and Behavioral Health Services","O",28,107718,111119
+"118","PG06 ‐ Special Health Services","A",55,59919.2181818182,66913.3454545455
+"119","PG06 ‐ Special Health Services","F",55,70618.4545454545,77778.5454545455
+"120","PG06 ‐ Special Health Services","O",55,88827.3272727273,89465.6363636364
+"121","PG07 ‐ Health Laboratory and Related","A",26,56329.0769230769,61416.1923076923
+"122","PG07 ‐ Health Laboratory and Related","F",26,67018.9230769231,72720.0769230769
+"123","PG07 ‐ Health Laboratory and Related","O",26,84661.9230769231,84890.5769230769
+"124","PH01 ‐ Fish and Wildlife","A",249,55118.6706827309,63563.0441767068
+"125","PH01 ‐ Fish and Wildlife","F",249,64053.7991967871,76878.6305220884
+"126","PH01 ‐ Fish and Wildlife","O",249,79432.702811245,90761.1847389558
+"127","PH02 ‐ Agriculture","A",3,57974,66191
+"128","PH02 ‐ Agriculture","F",3,69147,72232
+"129","PH02 ‐ Agriculture","O",3,87399,80351
+"130","PH03 ‐ Natural Resources and Forestry","A",125,52787.288,63995.592
+"131","PH03 ‐ Natural Resources and Forestry","F",125,62385.272,74272.664
+"132","PH03 ‐ Natural Resources and Forestry","O",125,78657.624,83838.312
+"133","PH04 ‐ Parks","A",69,54708.0289855072,58678.4057971014
+"134","PH04 ‐ Parks","F",69,64056.7971014493,70147.5072463768
+"135","PH04 ‐ Parks","O",69,80012.115942029,82402.3043478261
+"136","PI01 ‐ Legal Support and Related","A",295,54674.406779661,59882.3593220339
+"137","PI01 ‐ Legal Support and Related","F",295,64693.2915254237,72745.1830508475
+"138","PI01 ‐ Legal Support and Related","O",295,81284.7355932203,86770.7559322034
+"139","PI02 ‐ Attorneys","A",160,117624,131560
+"140","PI02 ‐ Attorneys","F",160,139542,161452
+"141","PI02 ‐ Attorneys","O",160,169065,186317
+"142","PI03 ‐ Judges and Adjudicators","A",6,107711.666666667,113134.166666667
+"143","PI03 ‐ Judges and Adjudicators","F",6,127790.166666667,130043.166666667
+"144","PI03 ‐ Judges and Adjudicators","O",6,154823.5,146957
+"145","PI04 ‐ Evidence Investigation","A",61,69635.5573770492,72156.6393442623
+"146","PI04 ‐ Evidence Investigation","F",61,82696.3278688525,85134.5409836066
+"147","PI04 ‐ Evidence Investigation","O",61,104237.491803279,99171.0983606557
+"148","PI05 ‐ Legal Document Processing","A",96,44933.125,48700.78125
+"149","PI05 ‐ Legal Document Processing","F",96,52130.1875,58714.1145833333
+"150","PI05 ‐ Legal Document Processing","O",96,65121.1979166667,69104.8125
+"151","PJ01 ‐ Law Enforcement","A",396,92894.1944444444,84323.2348484848
+"152","PJ01 ‐ Law Enforcement","F",396,111248.601010101,103911.800505051
+"153","PJ01 ‐ Law Enforcement","O",396,138482.492424242,122027.929292929
+"154","PJ02 ‐ Fire Fighting and Inspection","A",63,87040.2857142857,78948.3650793651
+"155","PJ02 ‐ Fire Fighting and Inspection","F",63,104364.285714286,93323.9682539683
+"156","PJ02 ‐ Fire Fighting and Inspection","O",63,130238.936507937,107698.603174603
+"157","PJ03 ‐ Corrections","A",1007,65866.8371400199,67631
+"158","PJ03 ‐ Corrections","F",1007,78086.0615690169,81708.6335650447
+"159","PJ03 ‐ Corrections","O",1007,97331.3068520357,95435.3833167825
+"160","PJ04 ‐ Probation and Parole","A",224,65873.28125,70803.8526785714
+"161","PJ04 ‐ Probation and Parole","F",224,77935.9955357143,85817.1339285714
+"162","PJ04 ‐ Probation and Parole","O",224,97739.4285714286,98137.1026785714
+"163","PK01 ‐ Physical Science Specialists","A",29,66800.724137931,84198.9655172414
+"164","PK01 ‐ Physical Science Specialists","F",29,79463.6206896552,99595.7931034483
+"165","PK01 ‐ Physical Science Specialists","O",29,100227.137931034,112870.931034483
+"166","PK02 ‐ Environmental Science Specialists","A",171,69464.2514619883,82814.1169590643
+"167","PK02 ‐ Environmental Science Specialists","F",171,82071.0116959064,102853.976608187
+"168","PK02 ‐ Environmental Science Specialists","O",171,103027.637426901,119306.046783626
+"169","PK03 ‐ Engineering, Unlicensed","A",53,83653.6603773585,83199.2075471698
+"170","PK03 ‐ Engineering, Unlicensed","F",53,99084.2830188679,98401.0566037736
+"171","PK03 ‐ Engineering, Unlicensed","O",53,125172.41509434,113459.641509434
+"172","PK04 ‐Engineering, Licensed","A",106,103968.018867925,103799.764150943
+"173","PK04 ‐Engineering, Licensed","F",106,121401.132075472,122146.311320755
+"174","PK04 ‐Engineering, Licensed","O",106,150329.377358491,143729.481132075
+"175","PK06 ‐ Vessel Construction","A",0,NA,NA
+"176","PK06 ‐ Vessel Construction","F",0,NA,NA
+"177","PK06 ‐ Vessel Construction","O",0,NA,NA
+"178","PK07 ‐ Land Surveying","A",16,81599.375,82554.75
+"179","PK07 ‐ Land Surveying","F",16,93859.25,96674.75
+"180","PK07 ‐ Land Surveying","O",16,115085.4375,113244.5
+"181","PK08 ‐ Cartography and Drafting","A",7,53957,59546
+"182","PK08 ‐ Cartography and Drafting","F",7,64409,68154
+"183","PK08 ‐ Cartography and Drafting","O",7,81608,78441
+"184","PL01 ‐ Food and Custodial Services","A",114,44600.9473684211,44023.4298245614
+"185","PL01 ‐ Food and Custodial Services","F",114,51099.6315789474,51477.5614035088
+"186","PL01 ‐ Food and Custodial Services","O",114,61482.701754386,60791.9824561404
+"187","PL02 ‐ Aircraft, Automobile, or Vessel Maintenance","A",9,57200,67687.4444444444
+"188","PL02 ‐ Aircraft, Automobile, or Vessel Maintenance","F",9,63565,76962
+"189","PL02 ‐ Aircraft, Automobile, or Vessel Maintenance","O",9,76419,87084.4444444444
+"190","PL03 ‐ Equipment Operation","A",280,61950.5607142857,60549.5321428571
+"191","PL03 ‐ Equipment Operation","F",280,68865.4071428571,67137.0035714286
+"192","PL03 ‐ Equipment Operation","O",280,82761.9357142857,77891.5071428571
+"193","PL04 ‐ Building and Facility Maintenance","A",226,63054.7256637168,63809.6238938053
+"194","PL04 ‐ Building and Facility Maintenance","F",226,70069.4247787611,73194.0752212389
+"195","PL04 ‐ Building and Facility Maintenance","O",226,84222.3274336283,83984.1283185841
+"196","PL05 ‐ Instrument Technicians","A",4,62069,61413
+"197","PL05 ‐ Instrument Technicians","F",4,74003,76099
+"198","PL05 ‐ Instrument Technicians","O",4,93386,85891
+"199","PL06 ‐ Construction Support","A",42,57643.2142857143,62192.6904761905
+"200","PL06 ‐ Construction Support","F",42,64060.2380952381,76880.2619047619
+"201","PL06 ‐ Construction Support","O",42,77010.7857142857,84690
+"202","PL07 ‐ Vessel and Aircraft Operation","A",15,88121,105516
+"203","PL07 ‐ Vessel and Aircraft Operation","F",15,104637,123228
+"204","PL07 ‐ Vessel and Aircraft Operation","O",15,132113,136989
+"205","PL08 ‐ Office Equipment Operation","A",12,39558.5,42220.3333333333
+"206","PL08 ‐ Office Equipment Operation","F",12,45896.75,47310.1666666667
+"207","PL08 ‐ Office Equipment Operation","O",12,57610,53528.75

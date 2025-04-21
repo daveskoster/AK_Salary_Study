@@ -1,0 +1,37 @@
+"","group","step","nMatches","wgt_ak_annual_salary","wgt_mkt_target_annual_salary"
+"1","Administrative and Office Support","A",1245,65042.0995983936,68254.0618473896
+"2","Administrative and Office Support","F",1245,76253.6337349398,82088.8361445783
+"3","Administrative and Office Support","O",1245,94462.2730923695,95531.2313253012
+"4","Biological Sciences","A",446,54420.932735426,62946.2556053812
+"5","Biological Sciences","F",446,63620.8856502242,75075.6412556054
+"6","Biological Sciences","O",446,79358.697309417,87457.7040358744
+"7","Business Development and Regulation","A",283,69518.296819788,73351.4664310954
+"8","Business Development and Regulation","F",283,81601.8127208481,87967.2685512367
+"9","Business Development and Regulation","O",283,101784.212014134,101589.367491166
+"10","Craftwork and Labor","A",702,59347.066951567,59757.594017094
+"11","Craftwork and Labor","F",702,66413.5398860399,68163.5769230769
+"12","Craftwork and Labor","O",702,80036.1809116809,78492.5997150997
+"13","Education, Information, Libraries, and Museums","A",269,60616.5576208178,66518.4498141264
+"14","Education, Information, Libraries, and Museums","F",269,71165.7695167286,78786.5501858736
+"15","Education, Information, Libraries, and Museums","O",269,87753.687732342,90962.8773234201
+"16","Executives and Senior Administrators","A",141,113691.964539007,130875.468085106
+"17","Executives and Senior Administrators","F",141,133455.134751773,151659.546099291
+"18","Executives and Senior Administrators","O",141,161682.617021277,181132.546099291
+"19","Government Management and Infrastructure","A",266,71865.1428571429,81024.6691729323
+"20","Government Management and Infrastructure","F",266,84425.5902255639,96091.2481203007
+"21","Government Management and Infrastructure","O",266,105063.218045113,111373.27443609
+"22","Legal, Judicial, and Related","A",618,71450.5,78431.2799352751
+"23","Legal, Judicial, and Related","F",618,84509.6375404531,95310.9546925566
+"24","Legal, Judicial, and Related","O",618,104479.708737864,111607.336569579
+"25","Medical, Public Health and Related","A",819,62175.2148962149,66229.757020757
+"26","Medical, Public Health and Related","F",819,73405.6507936508,78908.6862026862
+"27","Medical, Public Health and Related","O",819,92695.7081807082,91618.8070818071
+"28","Physical Sciences and Engineering","A",382,81029.1910994764,88358.6780104712
+"29","Physical Sciences and Engineering","F",382,95317.2408376963,106447.505235602
+"30","Physical Sciences and Engineering","O",382,119125.623036649,123780.827225131
+"31","Police, Fire Fighters, and Corrections","A",1690,72990.0349112426,72384.750295858
+"32","Police, Fire Fighters, and Corrections","F",1690,86816.4041420118,87888.825443787
+"33","Police, Fire Fighters, and Corrections","O",1690,108254.661538462,102481.783431953
+"34","Social, Benefit, and Employment Services","A",781,60677.1318822023,62720.4455825864
+"35","Social, Benefit, and Employment Services","F",781,71349,74723.7259923175
+"36","Social, Benefit, and Employment Services","O",781,89114.3623559539,85890.6581306018

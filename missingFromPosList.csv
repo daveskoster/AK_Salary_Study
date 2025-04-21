@@ -1,0 +1,37 @@
+benchmark,title,group,code,family,BU,schedule,range,step,ak_annual_salary,market_target_annual_salary,percentile,Nearest_Step,nMatches
+4,Secretary,Administrative and Office Support,PB0130,PB01 ‐ General Administration,XE,N00,11,A,43115,56890,65,16,NA
+22,Labor Relations Manager,Administrative and Office Support,PB0325,PB03 ‐ Personnel and Employee Relations,XE,N00,24,A,102297,115226,65,26,NA
+47,Application Developer 3,Administrative and Office Support,PB07A3,PB07 ‐ Office of Information Technology,GP,200,22,A,87341,107649,65,25,NA
+48,IT Business Analyst 2,Administrative and Office Support,PB07B2,PB07 ‐ Office of Information Technology,GP,200,21,A,81764,92163,65,23,NA
+49,IT Client Support Specialist 2,Administrative and Office Support,PB07C2,PB07 ‐ Office of Information Technology,GP,200,16,A,57974,64859,65,18,NA
+50,Database Administrator 2,Administrative and Office Support,PB07D2,PB07 ‐ Office of Information Technology,GP,200,23,A,93386,103471,65,24,NA
+51,IT Support Technician 1,Administrative and Office Support,PB07E1,PB07 ‐ Office of Information Technology,GP,200,13,A,47307,56587,65,16,NA
+52,IT Project Manager 2,Administrative and Office Support,PB07J2,PB07 ‐ Office of Information Technology,SS,200,24,A,108867,103061,65,23,NA
+53,IT Manager 1,Administrative and Office Support,PB07M1,PB07 ‐ Office of Information Technology,SS,200,23,A,101795,108063,65,24,NA
+54,Network and Telecommunications Specialist 2,Administrative and Office Support,PB07N2,PB07 ‐ Office of Information Technology,GP,200,21,A,81764,90517,65,23,NA
+55,IT Policy and Planning Analyst 1,Administrative and Office Support,PB07P1,PB07 ‐ Office of Information Technology,SS,200,23,A,101795,81077,65,20,NA
+56,IT Architecture Specialist 1,Administrative and Office Support,PB07R1,PB07 ‐ Office of Information Technology,GP,200,24,A,99977,119301,65,25,NA
+57,IT Security Specialist 1,Administrative and Office Support,PB07S1,PB07 ‐ Office of Information Technology,GP,200,24,A,99977,108539,65,25,NA
+58,IT Quality Assurance Analyst 2,Administrative and Office Support,PB07U2,PB07 ‐ Office of Information Technology,GP,200,21,A,81764,93881,65,23,NA
+59,IT Vendor Manager 2,Administrative and Office Support,PB07V2,PB07 ‐ Office of Information Technology,GP,200,20,A,76440,85108,65,22,NA
+60,IT Systems Administrator 2,Administrative and Office Support,PB07Y2,PB07 ‐ Office of Information Technology,GP,200,23,A,93386,98514,65,24,NA
+78,Utility Financial Analyst 2,Business Development and Regulation,PC0252,PC02 ‐ Business Regulation and Compliance,GP,200,19,A,71526,90573,65,23,NA
+79,Utility Financial Analyst 4,Business Development and Regulation,PC0254,PC02 ‐ Business Regulation and Compliance,SS,200,23,A,101795,116332,65,25,NA
+116,Audit and Review Analyst 4,Business Development and Regulation,PC0565,PC05 ‐ Revenue Audit,SS,200,25,A,116688,123247,65,26,NA
+385,"Mechanic, Aircraft, Journey",Craftwork and Labor,PL0222,"PL02 ‐ Aircraft, Automobile, or Vessel Maintenance",LL,2AA,54,A,57200,73779,65,49,NA
+396,Survey Instrument Technician 2,Craftwork and Labor,PL0512,PL05 ‐ Instrument Technicians,GP,200,17,A,62069,61413,65,17,NA
+188,Lifeguard 2,"Education, Information, Libraries, and Museums",PE0353,PE03 ‐ Student Services,GP,200,11,A,41925,40928,65,11,NA
+192,Records Analyst 2,"Education, Information, Libraries, and Museums",PE0431,PE04 ‐ Library and Archives,GP,200,18,A,66788,60928,65,17,NA
+200,"Chief, Office of History and Archaeology","Education, Information, Libraries, and Museums",PE0550,PE05 ‐ Anthropological Research and Education,SS,200,21,A,89232,102391,65,23,NA
+129,State Logistics Center Coordinator,Government Management and Infrastructure,PD0473,PD04 ‐ Emergency Planning and Response,SS,500,16,A,62837,98466,65,16,NA
+131,Airport Manager ‐ Fairbanks International Airport,Government Management and Infrastructure,PD0502,PD05 ‐ Airport Administration,XE,N00,24,A,102297,104903,65,24,NA
+140,Reservation Call Center Supervisor,Government Management and Infrastructure,PD0632,PD06 ‐ Ferry System Administration,SS,200,16,A,63461,77319,65,19,NA
+148,AMHS Safety Management Coordinator,Government Management and Infrastructure,PD0656,PD06 ‐ Ferry System Administration,GP,200,19,A,71526,57618,65,16,NA
+149,Marine Engineering Assistant Manager,Government Management and Infrastructure,PD0669,PD06 ‐ Ferry System Administration,SS,200,23,A,101795,103786,65,23,NA
+157,Right‐of‐Way Assistant,Government Management and Infrastructure,PD0810,PD08 ‐ Real Estate Appraisal,GP,200,12,A,44402,46131,65,13,NA
+160,Right‐of‐Way Review Appraiser 1,Government Management and Infrastructure,PD0821,PD08 ‐ Real Estate Appraisal,GP,200,21,A,81764,75162,65,20,NA
+313,Hearing Officer,"Legal, Judicial, and Related",PI0321,PI03 ‐ Judges and Adjudicators,XE,N00,21,A,83753,91339,65,21,NA
+275,Pharmacy Technician 1,"Medical, Public Health and Related",PG06A1,PG06 ‐ Special Health Services,GP,200,12,A,44402,45434,65,12,NA
+372,Communications Engineer 1,Physical Sciences and Engineering,PK0453,"PK04 ‐Engineering, Licensed",GP,200,24,A,99977,117106,65,25,NA
+374,Vessel Construction Manager 1,Physical Sciences and Engineering,PK0611,PK06 ‐ Vessel Construction,GP,200,21,A,81764,NA,65,NA,NA
+341,Deputy Fire Marshal 2,"Police, Fire Fighters, and Corrections",PJ02A2,PJ02 ‐ Fire Fighting and Inspection,AA,500,77,A,86882,98124,65,77,NA

@@ -1,0 +1,1086 @@
+Occupational_Group,Job_Family,Class_Code,Category,Range,Class_Title,SOC,EEO,State_and_Local_Job_Code,Census_EEO,AKPAY_Code
+PA,PA01,PA0101,B,28,Deputy Commissioner,11-1021,EEO4-Officials & Administrators,1,20,P1951
+PA,PA01,PA0102,B,27,Assistant Commissioner,11-1021,EEO4-Officials & Administrators,1,20,P1980
+PA,PA01,PA0103,B,28,Chief of Operations,11-1021,EEO4-Officials & Administrators,1,20,
+PA,PA01,PA0112,B,27,Division Director - PX,11-1021,EEO4-Officials & Administrators,1,20,P1901
+PA,PA01,PA0113,B,24,Division Operations Manager,11-1021,EEO4-Officials & Administrators,1,20,K0051
+PA,PA01,PA0114,B,25,Deputy Director,11-1021,EEO4-Officials & Administrators,1,20,K0054
+PA,PA01,PA0121,B,28,Deputy Attorney General,23-1011,EEO4-Officials & Administrators,1,2100,P7148
+PA,PA01,PA0122,B,27,Public Defender,23-1011,EEO4-Officials & Administrators,2,2100,P7160
+PA,PA01,PA0143,B,27,"Director, Tax Division",11-1021,EEO4-Officials & Administrators,1,20,K0005
+PA,PA01,PA0161,B,27,State Comptroller,13-2011,EEO4-Professionals,2,800,P1230
+PA,PA01,PA0191,B,21,Special Assistant to the Commissioner 1,11-9199,EEO4-Officials & Administrators,1,430,P1917
+PA,PA01,PA0192,B,23,Special Assistant to the Commissioner 2,11-9199,EEO4-Officials & Administrators,1,430,P1918
+PB,PB01,PB0102,A,08,Office Assistant 1,43-9061,EEO4-Administrative Support,6,5860,P1134
+PB,PB01,PB0103,A,10,Office Assistant 2,43-9061,EEO4-Administrative Support,6,5860,P1135
+PB,PB01,PB0104,A,11,Office Assistant 3,43-9061,EEO4-Administrative Support,6,5860,K0077
+PB,PB01,PB0105,A,12,Office Assistant 4,43-1011,EEO4-Administrative Support,6,5000,P1136
+PB,PB01,PB0130,A,11,Secretary,43-6011,EEO4-Administrative Support,6,5700,P1151
+PB,PB01,PB0135,A,12,Executive Secretary 1,43-6011,EEO4-Administrative Support,6,5700,P1155
+PB,PB01,PB0136,A,14,Executive Secretary 2,43-6011,EEO4-Administrative Support,6,5700,P1154
+PB,PB01,PB0137,A,16,Executive Secretary 3,43-6011,EEO4-Administrative Support,6,5700,P1156
+PB,PB01,PB0151,A,12,Administrative Assistant 1,43-6011,EEO4-Administrative Support,6,5700,K0017
+PB,PB01,PB0152,A,14,Administrative Assistant 2,43-6011,EEO4-Administrative Support,6,5700,K0018
+PB,PB01,PB0153,A,15,Administrative Assistant 3,43-6011,EEO4-Administrative Support,6,5700,K0053
+PB,PB01,PB0154,B,17,Administrative Officer 1,11-3012,EEO4-Professionals,1,100,K0019
+PB,PB01,PB0155,B,19,Administrative Officer 2,11-3012,EEO4-Professionals,1,100,K0020
+PB,PB01,PB0157,B,22,Administrative Operations Manager 1,11-3012,EEO4-Professionals,1,100,K0021
+PB,PB01,PB0158,B,23,Administrative Operations Manager 2,11-3012,EEO4-Professionals,1,100,K0022
+PB,PB02,PB0202,A,10,Accounting Clerk,43-3031,EEO4-Administrative Support,6,5120,P1203
+PB,PB02,PB0205,A,12,Accounting Technician 1,43-3031,EEO4-Administrative Support,6,5120,P1210
+PB,PB02,PB0206,A,14,Accounting Technician 2,43-3031,EEO4-Administrative Support,6,5120,P1211
+PB,PB02,PB0207,A,16,Accounting Technician 3,13-2011,EEO4-Paraprofessionals,2,800,P1212
+PB,PB02,PB0208,A,18,Accounting Technician 4,13-2011,EEO4-Paraprofessionals,2,800,P1235
+PB,PB02,PB0211,B,14,Accountant 1,13-2011,EEO4-Professionals,2,800,P1204
+PB,PB02,PB0212,B,16,Accountant 2,13-2011,EEO4-Professionals,2,800,P1205
+PB,PB02,PB0213,B,18,Accountant 3,13-2011,EEO4-Professionals,2,800,P1206
+PB,PB02,PB0214,B,20,Accountant 4,13-2011,EEO4-Professionals,2,800,P1207
+PB,PB02,PB0215,B,22,Accountant 5,13-2011,EEO4-Professionals,2,800,P1208
+PB,PB02,PB0222,B,24,State Accountant,13-2011,EEO4-Professionals,2,820,P1238
+PB,PB02,PB0230,B,22,Payroll Manager,13-2011,EEO4-Professionals,2,800,P1249
+PB,PB02,PB0231,B,16,Payroll Specialist 1,13-2011,EEO4-Professionals,2,800,P1244
+PB,PB02,PB0232,B,18,Payroll Specialist 2,13-2011,EEO4-Professionals,2,800,P1245
+PB,PB02,PB0233,B,20,Payroll Specialist 3,13-2011,EEO4-Professionals,2,800,P1246
+PB,PB02,PB0242,B,17,Budget Analyst 1,13-2031,EEO4-Professionals,2,820,P1462
+PB,PB02,PB0243,B,19,Budget Analyst 2,13-2031,EEO4-Professionals,2,820,P1463
+PB,PB02,PB0244,B,21,Budget Analyst 3,13-2031,EEO4-Professionals,2,820,P1464
+PB,PB02,PB0245,B,22,Budget Analyst 4,13-2031,EEO4-Professionals,2,820,P1465
+PB,PB02,PB0255,B,26,"Chief Financial Officer, R&B",11-1011,EEO4-Officials & Administrators,1,110,K0123
+PB,PB02,PB0261,B,23,"Executive Administrator, Board of Public Accountancy",13-2011,EEO4-Professionals,2,800,K0097
+PB,PB03,PB0302,A,12,Human Resource Technician 1,43-3051,EEO4-Administrative Support,6,5140,P1406
+PB,PB03,PB0303,A,14,Human Resource Technician 2,43-3051,EEO4-Administrative Support,6,5140,P1407
+PB,PB03,PB0304,A,15,Human Resource Technician 3,43-3051,EEO4-Administrative Support,6,5140,P1408
+PB,PB03,PB0305,B,17,Payroll Services Supervisor,13-1071,EEO4-Professionals,2,630,P1432
+PB,PB03,PB0308,B,20,Payroll Services Assistant Manager,13-1071,EEO4-Professionals,2,630,K0124
+PB,PB03,PB0311,B,16,Human Resource Consultant 1,13-1071,EEO4-Professionals,2,630,P1410
+PB,PB03,PB0312,B,18,Human Resource Consultant 2,13-1071,EEO4-Professionals,2,630,P1411
+PB,PB03,PB0313,B,20,Human Resource Consultant 4,13-1071,EEO4-Professionals,2,630,P1412
+PB,PB03,PB0314,B,19,Human Resource Consultant 3,13-1071,EEO4-Professionals,2,630,K0125
+PB,PB03,PB0315,B,22,Human Resource Consultant 5,11-3121,EEO4-Professionals,1,136,P1414
+PB,PB03,PB0316,B,24,Human Resource Consultant 6,11-3121,EEO4-Professionals,1,136,P1415
+PB,PB03,PB0321,B,18,Labor Relations Analyst 1,13-1075,EEO4-Professionals,2,630,P1421
+PB,PB03,PB0322,B,20,Labor Relations Analyst 2,13-1075,EEO4-Professionals,2,630,P1422
+PB,PB03,PB0323,B,22,Labor Relations Analyst 3,13-1075,EEO4-Professionals,2,630,P1423
+PB,PB03,PB0324,B,23,Labor Relations Analyst 4,13-1075,EEO4-Professionals,2,630,
+PB,PB03,PB0325,B,24,Labor Relations Manager,11-3121,EEO4-Professionals,1,50,P1431
+PB,PB03,PB0332,A,12,Retirement and Benefits Technician 1,43-4161,EEO4-Administrative Support,6,5360,P1444
+PB,PB03,PB0333,A,14,Retirement and Benefits Technician 2,43-4161,EEO4-Administrative Support,6,5360,P1445
+PB,PB03,PB0341,B,16,Retirement and Benefits Specialist 1,13-1141,EEO4-Professionals,2,640,P1442
+PB,PB03,PB0342,B,18,Retirement and Benefits Specialist 2,13-1141,EEO4-Professionals,2,640,P1449
+PB,PB03,PB0343,B,20,Retirement and Benefits Specialist 3,13-1141,EEO4-Professionals,2,640,P1450
+PB,PB03,PB0351,A,15,Alaska Marine Highway System Dispatcher,43-5032,EEO4-Administrative Support,6,5520,P1417
+PB,PB04,PB0401,B,14,Analyst/Programmer 1,15-1251,EEO4-Professionals,2,1010,P1621
+PB,PB04,PB0402,B,16,Analyst/Programmer 2,15-1251,EEO4-Professionals,2,1010,P1622
+PB,PB04,PB0403,B,18,Analyst/Programmer 3,15-1251,EEO4-Professionals,2,1010,P1623
+PB,PB04,PB0404,B,20,Analyst/Programmer 4,15-1251,EEO4-Professionals,2,1010,P1624
+PB,PB04,PB0405,B,22,Analyst/Programmer 5,15-1251,EEO4-Professionals,2,1010,P1625
+PB,PB04,PB0411,A,13,Data Processing Technician 1,15-1299,EEO4-Administrative Support,6,1107,P1611
+PB,PB04,PB0412,A,15,Data Processing Technician 2,15-1299,EEO4-Administrative Support,6,1107,P1612
+PB,PB04,PB0413,A,17,Data Processing Technician 3,15-1299,EEO4-Administrative Support,6,1107,P1613
+PB,PB04,PB0415,B,19,Data Processing Production Manager,15-1211,EEO4-Professionals,2,1006,P1614
+PB,PB04,PB0416,B,22,Data Processing Manager 1,11-3021,EEO4-Professionals,1,110,P1641
+PB,PB04,PB0417,B,23,Data Processing Manager 2,11-3021,EEO4-Professionals,1,110,P1642
+PB,PB04,PB0418,B,24,Data Processing Manager 3,11-3021,EEO4-Professionals,1,110,P1643
+PB,PB04,PB0421,B,19,Data Communications Specialist 1,15-1244,EEO4-Professionals,2,1105,P1661
+PB,PB04,PB0422,B,21,Data Communications Specialist 2,15-1244,EEO4-Professionals,2,1105,P1662
+PB,PB04,PB0431,B,14,Microcomputer/Network Technician 1,15-1232,EEO4-Professionals,2,1050,P1631
+PB,PB04,PB0432,B,16,Microcomputer/Network Technician 2,15-1243,EEO4-Professionals,2,1050,P1632
+PB,PB04,PB0433,B,18,Microcomputer/Network Specialist 1,15-1244,EEO4-Professionals,2,1105,P1633
+PB,PB04,PB0434,B,20,Microcomputer/Network Specialist 2,15-1244,EEO4-Professionals,2,1105,P1634
+PB,PB04,PB0441,B,20,Database Specialist 1,15-1243,EEO4-Professionals,2,1060,P1826
+PB,PB04,PB0442,B,21,Database Specialist 2,15-1243,EEO4-Professionals,2,1060,P1827
+PB,PB04,PB0443,B,22,Database Specialist 3,15-1243,EEO4-Professionals,2,1060,P1828
+PB,PB04,PB0451,B,20,Systems Programmer 1,15-1251,EEO4-Professionals,2,1010,P1651
+PB,PB04,PB0452,B,22,Systems Programmer 2,15-1251,EEO4-Professionals,2,1010,P1652
+PB,PB04,PB0453,B,23,Systems Programmer 3,15-1251,EEO4-Professionals,2,1010,P1653
+PB,PB04,PB0454,B,25,Systems Programmer 4,15-1251,EEO4-Professionals,2,1010,P1654
+PB,PB04,PB0471,B,18,Information System Coordinator,11-3021,EEO4-Professionals,1,110,K0085
+PB,PB04,PB0491,B,16,Internet Specialist 1,15-1254,EEO4-Professionals,2,1030,K0003
+PB,PB04,PB0492,B,19,Internet Specialist 2,15-1254,EEO4-Professionals,2,1030,K0004
+PB,PB04,PB0495,B,15,GIS Analyst 1,17-1021,EEO4-Professionals,2,1310,K0102
+PB,PB04,PB0496,B,17,GIS Analyst 2,17-1021,EEO4-Professionals,2,1310,K0103
+PB,PB04,PB0497,B,19,GIS Analyst 3,17-1021,EEO4-Professionals,2,1310,K0104
+PB,PB04,PB0498,B,21,GIS Analyst 4,17-1021,EEO4-Professionals,2,1310,K0105
+PB,PB05,PB0501,A,10,Statistical Clerk,43-9199,EEO4-Administrative Support,6,5940,P1703
+PB,PB05,PB0502,A,12,Statistical Technician 1,43-9199,EEO4-Administrative Support,6,5940,P1706
+PB,PB05,PB0503,A,14,Statistical Technician 2,43-9199,EEO4-Administrative Support,6,5940,P1707
+PB,PB05,PB0511,B,13,Research Analyst 1,15-2099,EEO4-Professionals,2,1240,P1792
+PB,PB05,PB0512,B,16,Research Analyst 2,15-2099,EEO4-Professionals,2,1240,P1793
+PB,PB05,PB0513,B,18,Research Analyst 3,15-2099,EEO4-Professionals,2,1240,P1794
+PB,PB05,PB0514,B,21,Research Analyst 4,15-2099,EEO4-Professionals,2,1240,P1795
+PB,PB05,PB0520,B,21,Operations Research Analyst,15-2031,EEO4-Professionals,2,1220,P1890
+PB,PB05,PB0530,B,18,Equipment Operations Analyst,13-1081,EEO4-Professionals,2,700,P1790
+PB,PB05,PB0540,B,22,"Chief, Health Analytics and Vital Records",11-9111,EEO4-Professionals,1,350,P1797
+PB,PB05,PB0551,B,19,Demographer,15-2041,EEO4-Professionals,2,1240,P1721
+PB,PB05,PB0552,B,22,State Demographer,11-9199,EEO4-Professionals,1,430,P2211
+PB,PB06,PB0601,C,57,Stock and Parts Services 1,53-7065,EEO4-Administrative Support,6,5620,K0148
+PB,PB06,PB0602,C,55,Stock and Parts Services 2,53-7065,EEO4-Administrative Support,6,5620,K0149
+PB,PB06,PB0603,C,54,Stock and Parts Services 3,53-7065,EEO4-Administrative Support,6,5620,K0150
+PB,PB06,PB0604,C,53,Stock and Parts Services 4,53-7065,EEO4-Administrative Support,6,5620,K0151
+PB,PB06,PB0611,A,10,Supply Technician 1,43-3061,EEO4-Administrative Support,6,5150,P1310
+PB,PB06,PB0612,A,12,Supply Technician 2,43-3061,EEO4-Administrative Support,6,5150,P1311
+PB,PB06,PB0621,B,14,Contracting Officer 1,13-1023,EEO4-Professionals,2,530,P1343
+PB,PB06,PB0622,B,16,Contracting Officer 2,13-1023,EEO4-Professionals,2,530,P1344
+PB,PB06,PB0623,B,19,Contracting Officer 3,13-1023,EEO4-Professionals,2,530,P1345
+PB,PB06,PB0624,B,22,Contracting Officer 4,13-1023,EEO4-Professionals,2,530,P1346
+PB,PB06,PB0631,B,14,Procurement Specialist 1,13-1023,EEO4-Professionals,2,530,P1331
+PB,PB06,PB0632,B,16,Procurement Specialist 2,13-1023,EEO4-Professionals,2,530,P1332
+PB,PB06,PB0633,B,18,Procurement Specialist 3,13-1023,EEO4-Professionals,2,530,P1333
+PB,PB06,PB0634,B,20,Procurement Specialist 4,13-1023,EEO4-Professionals,2,530,P1334
+PB,PB06,PB0635,B,21,Procurement Specialist 5,13-1023,EEO4-Professionals,2,530,P1335
+PB,PB06,PB0640,B,25,Chief Procurement Officer,11-3061,EEO4-Professionals,1,150,P1347
+PB,PB06,PB0650,B,23,Chief Contracts Officer,11-3061,EEO4-Professionals,1,150,P1349
+PB,PB07,PB0701,B,28,State Chief Information Officer,11-1011,EEO4-Officials & Administrators,1,10,
+PB,PB07,PB0702,B,27,Deputy Chief Information Officer,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0705,B,24,Chief Technology Officer 1,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0706,B,25,Chief Technology Officer 2,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0707,B,26,Chief Technology Officer 3,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0709,B,25,OIT Chief Workforce and Finance Officer,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0711,B,23,Department Technology Officer 1,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0712,B,24,Department Technology Officer 2,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0713,B,25,Department Technology Officer 3,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0720,B,24,Technology Architecture Specialist,15-1243,EEO4-Professionals,2,1107,
+PB,PB07,PB0721,B,16,Business Analytics & Intelligence Analyst 1,15-1299,EEO4-Professionals,2,1107,
+PB,PB07,PB0722,B,18,Business Analytics & Intelligence Analyst 2,15-1299,EEO4-Professionals,2,1107,
+PB,PB07,PB0723,B,21,Business Analytics & Intelligence Analyst 3,15-1299,EEO4-Professionals,2,1107,
+PB,PB07,PB0725,B,24,P3 Manager,11-3021,EEO4-Professionals,1,110,
+PB,PB07,PB0726,B,24,Information Security Officer,15-1212,EEO4-Professionals,2,1007,
+PB,PB07,PB0771,B,20,Business Systems Analyst,11-3021,EEO4-Professionals,1,110,
+PB,PB99,PB9901,B,19,Claims Administrator,13-2099,EEO4-Professionals,2,950,P2390
+PB,PB99,PB9902,B,22,Risk Manager,11-9199,EEO4-Professionals,1,430,P2391
+PB,PB99,PB9904,B,24,Veterans Affairs Administrator,11-1021,EEO4-Officials & Administrators,1,20,P1919
+PB,PB99,PB9905,B,21,"Executive Director, Violent Crimes Compensation Board",11-1021,EEO4-Officials & Administrators,1,20,P1958
+PB,PB99,PB9907,B,19,Cultural Resource Manager and Native Liaison,13-1199,EEO4-Professionals,2,740,P1920
+PB,PB99,PB9908,B,16,Project Assistant,13-1199,EEO4-Professionals,2,740,K0070
+PB,PB99,PB9909,B,18,Program Coordinator 1,11-9199,EEO4-Professionals,1,430,K0071
+PB,PB99,PB9910,B,20,Program Coordinator 2,11-9199,EEO4-Professionals,1,430,K0072
+PB,PB99,PB9912,B,22,Program Manager,11-9199,EEO4-Professionals,2,430,
+PB,PB99,PB9915,B,20,Business Services Project Manager 1,13-1082,EEO4-Professionals,2,700,N/A
+PB,PB99,PB9916,B,22,Business Services Project Manager 2,13-1082,EEO4-Professionals,2,700,N/A
+PB,PB99,PB9991,B,18,Business Analyst 1,13-1199,EEO4-Professionals,2,740,K0106
+PB,PB99,PB9992,B,20,Business Analyst 2,13-1199,EEO4-Professionals,2,740,K0107
+PB,PB99,PB9993,B,22,Business Analyst 3,11-9199,EEO4-Professionals,1,430,K0108
+PB,PB99,PB9994,B,24,Business Analyst 4,11-9199,EEO4-Officials & Administrators,1,430,K0120
+PC,PC01,PC0101,B,14,Grants Administrator 1,13-1199,EEO4-Professionals,2,740,P2269
+PC,PC01,PC0102,B,17,Grants Administrator 2,13-1199,EEO4-Professionals,2,740,P2270
+PC,PC01,PC0103,B,19,Grants Administrator 3,13-1199,EEO4-Professionals,2,740,P2271
+PC,PC01,PC0105,B,21,Grants Administration Manager,13-1199,EEO4-Professionals,2,740,K0045
+PC,PC01,PC0109,B,23,Grants and Procurement Manager,11-3061,EEO4-Professionals,1,150,K0046
+PC,PC01,PC0111,A,10,Loan Closer/Processor 1,43-4131,EEO4-Administrative Support,6,5330,P2116
+PC,PC01,PC0112,A,12,Loan Closer/Processor 2,43-4131,EEO4-Administrative Support,6,5330,P2117
+PC,PC01,PC0113,A,14,Loan Closer/Processor 3,43-4131,EEO4-Administrative Support,6,5330,P2118
+PC,PC01,PC0121,B,16,Loan/Collection Officer 1,13-2072,EEO4-Professionals,2,910,P2113
+PC,PC01,PC0122,B,18,Loan/Collection Officer 2,13-2072,EEO4-Professionals,2,910,P2114
+PC,PC01,PC0123,B,20,Loan/Collection Officer 3,13-2072,EEO4-Professionals,2,910,P2115
+PC,PC01,PC0125,B,22,Loan/Collection Manager,11-3031,EEO4-Professionals,1,120,P2120
+PC,PC01,PC0131,B,16,School Finance Specialist 1,13-2099,EEO4-Professionals,2,950,P1240
+PC,PC01,PC0132,B,18,School Finance Specialist 2,13-2099,EEO4-Professionals,2,950,P1241
+PC,PC01,PC0135,B,23,School Finance Manager,13-2099,EEO4-Professionals,2,950,P1243
+PC,PC02,PC0205,A,12,Insurance Licensing Examiner 1,43-4031,EEO4-Administrative Support,6,5220,P2344
+PC,PC02,PC0206,A,14,Insurance Licensing Examiner 2,43-4031,EEO4-Administrative Support,6,5220,P2345
+PC,PC02,PC0209,A,16,Records and Licensing Supervisor,43-1011,EEO4-Administrative Support,6,5000,P1905
+PC,PC02,PC0211,B,16,Consumer Service Specialist (Insurance),43-4051,EEO4-Professionals,6,5240,P2319
+PC,PC02,PC0212,B,18,Consumer Service Supervisor (Insurance),43-4051,EEO4-Professionals,6,5240,P2318
+PC,PC02,PC0215,B,16,Consumer Protection & Information Officer (RCA) 1,13-1041,EEO4-Professionals,2,565,P2365
+PC,PC02,PC0216,B,18,Consumer Protection and Information Officer (RCA) 2,13-1041,EEO4-Professionals,2,565,P2366
+PC,PC02,PC0220,A,14,Financial Registration Examiner,43-3031,EEO4-Paraprofessionals,6,5120,
+PC,PC02,PC0232,B,17,Insurance Specialist 1,13-1041,EEO4-Professionals,2,565,P2358
+PC,PC02,PC0233,B,19,Insurance Specialist 2,13-1041,EEO4-Professionals,2,565,P2359
+PC,PC02,PC0234,B,21,Insurance Specialist 3,13-1041,EEO4-Professionals,2,565,P2354
+PC,PC02,PC0236,B,19,Insurance Financial Examiner 1,13-2061,EEO4-Professionals,2,900,P2300
+PC,PC02,PC0237,B,21,Insurance Financial Examiner 2,13-2061,EEO4-Professionals,2,900,P2301
+PC,PC02,PC0238,B,23,Insurance Financial Examiner 3,13-2061,EEO4-Professionals,2,900,P2302
+PC,PC02,PC0241,B,18,Communications Common Carrier Specialist 1,13-1041,EEO4-Professionals,2,565,P2360
+PC,PC02,PC0242,B,20,Communications Common Carrier Specialist 2,13-1041,EEO4-Professionals,2,565,P2361
+PC,PC02,PC0243,B,22,Communications Common Carrier Specialist 3,13-1041,EEO4-Professionals,2,565,P2362
+PC,PC02,PC0244,B,24,Communications Common Carrier Specialist 4,13-1041,EEO4-Professionals,2,565,P2363
+PC,PC02,PC0251,B,17,Utility Financial Analyst 1,13-2051,EEO4-Professionals,1,840,P2334
+PC,PC02,PC0252,B,19,Utility Financial Analyst 2,13-2051,EEO4-Professionals,1,840,P2335
+PC,PC02,PC0253,B,21,Utility Financial Analyst 3,13-2051,EEO4-Professionals,1,840,P2336
+PC,PC02,PC0254,B,23,Utility Financial Analyst 4,13-2051,EEO4-Professionals,1,840,P2337
+PC,PC02,PC0256,B,16,Utility Tariff Analyst 1,13-2099,EEO4-Professionals,1,950,P2384
+PC,PC02,PC0257,B,18,Utility Tariff Analyst 2,13-2099,EEO4-Professionals,1,950,P2385
+PC,PC02,PC0258,B,20,Utility Tariff Analyst 3,13-2099,EEO4-Professionals,1,950,P2386
+PC,PC02,PC0259,B,22,Public Advocate Utility Analyst 1,13-2099,EEO4-Professionals,2,950,K0006
+PC,PC02,PC0260,B,24,Public Advocate Utility Analyst 2,13-2099,EEO4-Professionals,2,950,K0007
+PC,PC02,PC0261,B,16,Community Care Licensing Specialist 1,13-1041,EEO4-Professionals,2,565,P4275
+PC,PC02,PC0262,B,18,Community Care Licensing Specialist 2,13-1041,EEO4-Professionals,2,565,P4276
+PC,PC02,PC0263,B,20,Community Care Licensing Specialist 3,13-1041,EEO4-Professionals,2,565,P4277
+PC,PC02,PC0271,B,17,Financial Examiner 1,13-2061,EEO4-Professionals,2,900,K0158
+PC,PC02,PC0272,B,19,Financial Examiner 2,13-2061,EEO4-Professionals,2,900,K0159
+PC,PC02,PC0273,B,21,Financial Examiner 3,13-2061,EEO4-Professionals,2,900,K0160
+PC,PC02,PC0274,B,23,Financial Examiner 4,13-2061,EEO4-Professionals,2,900,K0161
+PC,PC02,PC0280,A,12,Wage-Hour Technician,13-1041,EEO4-Professionals,2,565,P4670
+PC,PC02,PC0291,B,24,"Deputy Director, Insurance",11-3031,EEO4-Professionals,1,120,P2307
+PC,PC02,PC0292,B,19,"Executive Administrator, Real Estate Commission",11-9141,EEO4-Professionals,1,410,P2327
+PC,PC02,PC0293,B,18,"Executive Administrator, State Board of Registration for Architects, Engineers and Land Surveyors",11-9199,EEO4-Professionals,1,430,P2328
+PC,PC02,PC0294,B,23,"Executive Administrator, State Medical Board",11-9199,EEO4-Professionals,1,430,P2329
+PC,PC02,PC02A1,A,14,Licensing Examiner 1,43-4031,EEO4-Administrative Support,6,5200,
+PC,PC02,PC02A2,A,15,Licensing Examiner 2,43-4031,EEO4-Administrative Support,6,5200,
+PC,PC02,PC02A3,A,17,Licensing Examiner 3,43-4031,EEO4-Administrative Support,6,5200,
+PC,PC03,PC0301,C,13,Commercial Vehicle Compliance Inspector 1,13-1041,EEO4-Professionals,2,565,P2460
+PC,PC03,PC0302,C,15,Commercial Vehicle Compliance Inspector 2,13-1041,EEO4-Professionals,2,565,P2461
+PC,PC03,PC0303,C,17,Commercial Vehicle Compliance Inspector 4,13-1041,EEO4-Professionals,2,565,P2462
+PC,PC03,PC0304,C,16,Commercial Vehicle Compliance Inspector 3,13-1041,EEO4-Professionals,2,565,
+PC,PC03,PC0305,B,19,Commercial Vehicle Compliance Inspector 5,13-1041,EEO4-Professionals,2,565,
+PC,PC03,PC0310,B,19,Radiological Health Physicist 1,19-2012,EEO4-Professionals,2,1700,P5415
+PC,PC03,PC0311,B,21,Radiological Health Physicist 2,19-2012,EEO4-Professionals,2,1700,P5416
+PC,PC03,PC0321,B,19,Industrial Hygienist,19-5011,EEO4-Professionals,3,1965,P2425
+PC,PC03,PC0322,C,49,Occupational Safety & Compliance Officer,47-4011,EEO4-Professionals,1,6660,P9961
+PC,PC03,PC0323,B,18,Safety Officer,29-9011,EEO4-Professionals,3,354,P1947
+PC,PC03,PC0324,B,20,Occupational Health and Safety Analyst,19-5011,EEO4-Professionals,3,1965,K0098
+PC,PC03,PC0325,B,22,Occupational Safety & Health Manager,11-1021,EEO4-Professionals,1,20,P2420
+PC,PC03,PC0331,C,49,"Safety Inspection & Compliance, Electrical Inspector",47-4011,EEO4-Professionals,1,6660,P9962
+PC,PC03,PC0332,C,49,"Safety Inspection & Compliance, Elevator Inspector",47-4011,EEO4-Professionals,1,6660,P9964
+PC,PC03,PC0333,C,49,"Safety Inspection & Compliance, Plumbing Inspector",47-4011,EEO4-Professionals,1,6660,P9966
+PC,PC03,PC0338,B,19,Boiler and Pressure Vessel Inspector 1,47-4011,EEO4-Professionals,1,6660,P9950
+PC,PC03,PC0339,B,20,Boiler and Pressure Vessel Inspector 2,47-4011,EEO4-Professionals,1,6660,P9951
+PC,PC03,PC0345,C,22,Mechanical Inspection Manager,11-1021,EEO4-Officials & Administrators,1,20,K0109
+PC,PC03,PC0351,C,14,Weights and Measures Inspector 1,13-1041,EEO4-Professionals,2,565,P2481
+PC,PC03,PC0352,C,16,Weights and Measures Inspector 2,13-1041,EEO4-Professionals,2,565,P2482
+PC,PC03,PC0353,C,12,Weights and Measures Inspector Trainee,13-1041,EEO4-Professionals,2,565,P2480
+PC,PC03,PC0355,A,18,Measurement Standards Supervisor,13-1041,EEO4-Professionals,2,565,P2484
+PC,PC03,PC0360,B,22,"Chief, Weights, Measures, and Permits",11-9199,EEO4-Professionals,1,430,P2476
+PC,PC03,PC0361,B,16,State Metrologist 1,19-4099,EEO4-Technicians,3,1965,P2486
+PC,PC03,PC0362,B,18,State Metrologist 2,19-4099,EEO4-Technicians,3,1965,P2485
+PC,PC03,PC0370,B,22,Department of Labor Safety Liaison,19-5011,EEO4-Professionals,3,1965,P2422
+PC,PC04,PC0401,A,13,Environmental Health Technician,19-5011,EEO4-Paraprofessionals,3,1965,P8205
+PC,PC04,PC0411,B,14,Environmental Health Officer 1,19-5011,EEO4-Professionals,3,1965,P8210
+PC,PC04,PC0412,B,16,Environmental Health Officer 2,19-5011,EEO4-Professionals,3,1965,P8211
+PC,PC04,PC0413,B,18,Environmental Health Officer 3,19-5011,EEO4-Professionals,3,1965,P8212
+PC,PC04,PC0414,B,20,Environmental Health Officer 4,19-5011,EEO4-Professionals,3,1965,P8213
+PC,PC05,PC0501,A,10,Tax Technician 1,43-4061,EEO4-Administrative Support,6,5250,P1254
+PC,PC05,PC0502,A,12,Tax Technician 2,43-4061,EEO4-Administrative Support,6,5250,P1257
+PC,PC05,PC0503,A,14,Tax Technician 3,43-4061,EEO4-Administrative Support,6,5250,P1255
+PC,PC05,PC0504,A,16,Tax Technician 4,43-4061,EEO4-Administrative Support,6,5250,P1256
+PC,PC05,PC0511,B,16,Tax Auditor 1,13-2081,EEO4-Professionals,1,930,P1258
+PC,PC05,PC0512,B,18,Tax Auditor 2,13-2081,EEO4-Professionals,1,930,P1259
+PC,PC05,PC0513,B,20,Tax Auditor 3,13-2081,EEO4-Professionals,1,930,P1260
+PC,PC05,PC0514,B,22,Tax Auditor 4,13-2081,EEO4-Professionals,1,930,P1261
+PC,PC05,PC0521,B,24,Revenue Audit Supervisor 1,13-2081,EEO4-Professionals,2,930,P1263
+PC,PC05,PC0522,B,25,Revenue Audit Supervisor 2,13-2081,EEO4-Professionals,2,930,P1264
+PC,PC05,PC0531,B,23,Revenue Appeals Officer 1,23-1021,EEO4-Professionals,2,2100,P7305
+PC,PC05,PC0532,B,25,Revenue Appeals Officer 2,23-1021,EEO4-Professionals,2,2100,P7306
+PC,PC05,PC0533,B,26,Revenue Appeals Supervisor,23-1021,EEO4-Professionals,2,2100,P7307
+PC,PC05,PC0541,B,18,Oil and Gas Revenue Auditor 1,13-2081,EEO4-Professionals,2,930,P1273
+PC,PC05,PC0542,B,20,Oil and Gas Revenue Auditor 2,13-2081,EEO4-Professionals,2,930,P1274
+PC,PC05,PC0543,B,22,Oil and Gas Revenue Auditor 3,13-2081,EEO4-Professionals,2,930,P1275
+PC,PC05,PC0544,B,24,Oil and Gas Revenue Auditor 4,13-2081,EEO4-Professionals,2,930,P1276
+PC,PC05,PC0545,B,25,Oil and Gas Revenue Specialist,13-2081,EEO4-Professionals,2,930,P1277
+PC,PC05,PC0551,B,18,Corporate Income Tax Auditor 1,13-2081,EEO4-Professionals,2,930,P1282
+PC,PC05,PC0552,B,20,Corporate Income Tax Auditor 2,13-2081,EEO4-Professionals,2,930,P1283
+PC,PC05,PC0553,B,22,Corporate Income Tax Auditor 3,13-2081,EEO4-Professionals,2,930,P1284
+PC,PC05,PC0554,B,24,Corporate Income Tax Auditor 4,13-2081,EEO4-Professionals,2,930,P1285
+PC,PC05,PC0556,B,25,Income and Excise Tax Specialist,13-2081,EEO4-Professionals,2,930,P1286
+PC,PC05,PC0562,B,19,Audit and Review Analyst 1,13-2011,EEO4-Professionals,2,800,P1291
+PC,PC05,PC0563,B,21,Audit and Review Analyst 2,13-2011,EEO4-Professionals,2,800,P1292
+PC,PC05,PC0564,B,23,Audit and Review Analyst 3,13-2011,EEO4-Professionals,2,800,P1293
+PC,PC05,PC0565,B,25,Audit and Review Analyst 4,13-2011,EEO4-Professionals,2,800,P1294
+PC,PC05,PC0567,B,24,Forensic Accountant,13-2011,EEO4-Professionals,2,800,K0140
+PC,PC05,PC0569,A,15,Unclaimed Property Agent,43-3011,EEO4-Administrative Support,6,5100,K0052
+PC,PC05,PC0570,B,18,Unclaimed Property Manager,43-1011,EEO4-Professionals,6,5000,P1271
+PC,PC05,PC0571,B,23,"Supervisor, Unemployment Insurance Tax",11-3031,EEO4-Professionals,1,120,P4633
+PC,PC05,PC0580,B,26,State Petroleum Property Assessor,13-2021,EEO4-Professionals,2,810,P1266
+PC,PC05,PC0590,B,27,"Deputy Director, Tax Division",11-1021,EEO4-Officials & Administrators,1,20,P1267
+PD,PD01,PD0101,B,13,Local Government Specialist 1,13-1111,EEO4-Professionals,2,710,P1871
+PD,PD01,PD0102,B,15,Local Government Specialist 2,13-1111,EEO4-Professionals,2,710,P1872
+PD,PD01,PD0103,B,17,Local Government Specialist 3,13-1111,EEO4-Professionals,2,710,P1873
+PD,PD01,PD0104,B,19,Local Government Specialist 4,13-1111,EEO4-Professionals,2,710,P1874
+PD,PD01,PD0105,B,21,Local Government Specialist 5,13-1111,EEO4-Professionals,2,710,P1875
+PD,PD01,PD0122,A,16,Regulations Specialist 2,23-2011,EEO4-Administrative Support,6,2145,P2341
+PD,PD01,PD0131,B,24,"Executive Director, Public Offices Commission",11-1021,EEO4-Officials & Administrators,1,20,P1012
+PD,PD02,PD0201,B,16,Economist 1,19-3011,EEO4-Professionals,2,1800,P2206
+PD,PD02,PD0202,B,18,Economist 2,19-3011,EEO4-Professionals,2,1800,P2207
+PD,PD02,PD0203,B,20,Economist 3,19-3011,EEO4-Professionals,2,1800,P2208
+PD,PD02,PD0204,B,22,Economist 4,19-3011,EEO4-Professionals,2,1800,P2209
+PD,PD02,PD0209,B,26,"Chief, Revenue Economic Research",11-3031,EEO4-Professionals,1,120,P2210
+PD,PD02,PD0221,B,20,Petroleum Economist 1,13-1161,EEO4-Professionals,2,735,P2214
+PD,PD02,PD0222,B,22,Petroleum Economist 2,13-1161,EEO4-Professionals,2,735,P2215
+PD,PD02,PD0224,B,24,Petroleum Economic Policy Analyst,19-3011,EEO4-Professionals,2,1800,K0065
+PD,PD02,PD0230,B,24,"Chief, Labor Research and Analysis",11-9199,EEO4-Professionals,1,430,P2229
+PD,PD03,PD0311,B,18,Development Specialist 1 (Option A),13-1161,EEO4-Professionals,2,735,P2286
+PD,PD03,PD0312,B,18,Development Specialist 1 (Option B),13-1161,EEO4-Professionals,2,735,P2287
+PD,PD03,PD0313,B,20,Development Specialist 2 (Option A),13-1161,EEO4-Professionals,2,735,P2288
+PD,PD03,PD0314,B,20,Development Specialist 2 (Option B),13-1161,EEO4-Professionals,2,735,P2289
+PD,PD03,PD0331,B,15,Planner 1,19-3051,EEO4-Professionals,2,1840,P2291
+PD,PD03,PD0332,B,17,Planner 2,19-3051,EEO4-Professionals,2,1840,P2292
+PD,PD03,PD0333,B,19,Planner 3,19-3051,EEO4-Professionals,2,1840,P2293
+PD,PD03,PD0334,B,22,Planner 4,19-3051,EEO4-Professionals,2,1840,P2294
+PD,PD03,PD0341,B,21,Transportation Planner 1,19-3051,EEO4-Professionals,2,1840,P2296
+PD,PD03,PD0342,B,22,Transportation Planner 2,19-3051,EEO4-Professionals,2,1840,P2297
+PD,PD03,PD0343,B,24,Transportation Planner 3,19-3051,EEO4-Professionals,2,1840,P2298
+PD,PD03,PD0350,B,21,Alaska International Airport System Planner,19-3051,EEO4-Professionals,2,1840,P2299
+PD,PD03,PD0361,B,21,Telecommunications Planner,15-1244,EEO4-Professionals,2,1105,P2255
+PD,PD04,PD0411,B,14,Emergency Management Specialist 1,11-9161,EEO4-Professionals,1,430,P1937
+PD,PD04,PD0412,B,16,Emergency Management Specialist 2,11-9161,EEO4-Professionals,1,430,P1938
+PD,PD04,PD0413,B,18,Emergency Management Specialist 3,11-9161,EEO4-Professionals,1,430,P1939
+PD,PD04,PD0421,B,20,Emergency Program Manager 1,11-9161,EEO4-Professionals,1,425,P1941
+PD,PD04,PD0422,B,22,Emergency Program Manager 2,11-9161,EEO4-Professionals,1,425,P1942
+PD,PD04,PD0442,A,15,Emergency Services Dispatcher 1,43-5031,EEO4-Administrative Support,6,5520,P1115
+PD,PD04,PD0443,A,16,Emergency Services Dispatcher 2,43-5031,EEO4-Administrative Support,6,5520,P1118
+PD,PD04,PD0450,B,18,Emergency Dispatch Supervisor,43-1011,EEO4-Administrative Support,6,5000,P1120
+PD,PD04,PD0460,A,17,Safety and Emergency Support Specialist,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P7852
+PD,PD04,PD04A1,A,11,Wildland Fire Dispatcher 1,43-5031,EEO4-Paraprofessionals,6,5520,
+PD,PD04,PD04A2,A,13,Wildland Fire Dispatcher 2,43-5031,EEO4-Paraprofessionals,6,5520,
+PD,PD04,PD04A3,A,15,Wildland Fire Dispatcher 3,43-5031,EEO4-Paraprofessionals,6,5520,
+PD,PD04,PD04B1,B,17,Wildland Fire Dispatch Coordinator 1,43-5031,EEO4-Professionals,6,5520,
+PD,PD04,PD04B2,B,19,Wildland Fire Dispatch Coordinator 2,43-5031,EEO4-Professionals,6,5520,
+PD,PD05,PD0501,B,25,Airport Manager - Anchorage International Airport,11-3071,EEO4-Professionals,1,160,P1975
+PD,PD05,PD0502,B,24,Airport Manager - Fairbanks International Airport,11-3071,EEO4-Professionals,1,160,P1974
+PD,PD05,PD0505,B,24,International Airports Controller,11-3031,EEO4-Professionals,1,120,P1962
+PD,PD05,PD0511,B,18,Airport Operations Officer,53-2022,EEO4-Professionals,3,9040,P1965
+PD,PD05,PD0512,B,19,Airport Operations Specialist,53-2022,EEO4-Professionals,3,9040,P1964
+PD,PD05,PD0513,B,21,Airport Operations Superintendent,53-2022,EEO4-Professionals,3,9040,P1966
+PD,PD05,PD0562,B,18,Regional Safety and Airport Security Officer,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P7870
+PD,PD06,PD0611,C,13,Ferry Terminal Agent 1,53-6099,EEO4-Service/Maintenance,8,9420,P2152
+PD,PD06,PD0612,C,14,Ferry Terminal Agent 2,53-6099,EEO4-Service/Maintenance,8,9420,P2149
+PD,PD06,PD0615,A,15,Ferry Terminal Manager 1,53-6099,EEO4-Service/Maintenance,8,9420,P2150
+PD,PD06,PD0616,A,16,Ferry Terminal Manager 2,53-6099,EEO4-Service/Maintenance,8,9420,P2151
+PD,PD06,PD0620,B, 18 ,AMHS Dispatch Manager,43-1011,EEO4-Professionals,6,5000,P1418
+PD,PD06,PD0632,A,16,Reservation Call Center Supervisor,43-1011,EEO4-Professionals,6,5000,
+PD,PD06,PD0639,B,23,Marine Traffic Manager,13-1199,EEO4-Professionals,2,740,P2148
+PD,PD06,PD0642,B,20,Marine Pilot Coordinator,13-1041,EEO4-Professionals,2,565,P1959
+PD,PD06,PD0643,B,17,Vessel Scheduling Coordinator,13-1199,EEO4-Professionals,2,740,P2140
+PD,PD06,PD0644,B,17,Passenger Services Inspector,11-3071,EEO4-Professionals,1,160,P1969
+PD,PD06,PD0646,B, 23 ,AMHS Passenger Services Manager,11-3071,EEO4-Professionals,2,160,P1970
+PD,PD06,PD0648,B,19,AMHS Security Officer,11-3071,EEO4-Professionals,1,160,P1960
+PD,PD06,PD0653,B,23,Port Captain,53-5021,EEO4-Professionals,1,9310,P8694
+PD,PD06,PD0655,B,22,Port Engineer,53-5031,EEO4-Professionals,7,9000,K0168
+PD,PD06,PD0656,B,19,AMHS Safety Management Coordinator,19-5011,EEO4-Professionals,3,1965,K0079
+PD,PD06,PD0669,B,23,Marine Engineering Assistant Manager,11-3071,EEO4-Officials & Administrators,1,160,K0100
+PD,PD06,PD0670,B, 25 ,Marine Transportation Services Manager,11-3071,EEO4-Officials & Administrators,1,160,P1971
+PD,PD07,PD0711,B,20,Equipment Fleet District Manager,11-1021,EEO4-Professionals,1,20,P9711
+PD,PD07,PD0714,B,23,State Equipment Fleet Manager,11-1021,EEO4-Professionals,1,20,P9714
+PD,PD07,PD0721,B,20,"Assistant Manager, Airfield Maintenance",11-3071,EEO4-Professionals,1,160,P9721
+PD,PD07,PD0722,B,22,"Manager, Airfield Maintenance",11-3071,EEO4-Professionals,1,160,P1972
+PD,PD07,PD0731,B,21,Maintenance and Operations Specialist,11-3071,EEO4-Professionals,1,160,P9747
+PD,PD07,PD0732,B,21,Maintenance and Operations Superintendent,11-1021,EEO4-Officials & Administrators,1,20,P9441
+PD,PD07,PD0733,B,23,Maintenance and Operations Manager,11-3071,EEO4-Professionals,1,160,P9748
+PD,PD08,PD0810,A,12,Right-of-Way Assistant,43-4199,EEO4-Professionals,6,5420,P2710
+PD,PD08,PD0811,B,14,Right-of-Way Agent 1,41-9022,EEO4-Professionals,6,4920,P2711
+PD,PD08,PD0812,B,16,Right-of-Way Agent 2,41-9022,EEO4-Professionals,6,4920,P2712
+PD,PD08,PD0813,B,18,Right-of-Way Agent 3,41-9022,EEO4-Professionals,6,4920,P2713
+PD,PD08,PD0814,B,20,Right-of-Way Agent 4,41-9022,EEO4-Professionals,6,4920,P2714
+PD,PD08,PD0815,B,21,Right-of-Way Agent 5,41-9022,EEO4-Professionals,6,4920,P2715
+PD,PD08,PD0816,B,23,Right-of-Way Agent 6,41-9022,EEO4-Professionals,6,4920,P2716
+PD,PD08,PD0821,B,21,Right-of-Way Review Appraiser 1,13-2023,EEO4-Professionals,2,810,P2708
+PD,PD08,PD0822,B,22,Right-of-Way Review Appraiser 2,13-2023,EEO4-Professionals,2,810,P2709
+PD,PD08,PD0841,B,16,Appraiser 1,13-2021,EEO4-Professionals,2,810,P2621
+PD,PD08,PD0842,B,18,Appraiser 2,13-2022,EEO4-Professionals,2,810,P2622
+PD,PD08,PD0843,B,21,Appraiser 3,13-2022,EEO4-Professionals,2,810,P2623
+PD,PD08,PD0850,B,23,State Assessor,13-2022,EEO4-Professionals,2,810,P2655
+PD,PD08,PD0851,B,21,Assistant State Assessor,13-2022,EEO4-Professionals,2,810,P2656
+PD,PD09,PD0901,A,14,Building Management Assistant,37-1011,EEO4-Professionals,8,4200,P8456
+PD,PD09,PD0902,B,19,Building Management Specialist,11-9021,EEO4-Professionals,1,220,P8458
+PD,PD09,PD0921,B,20,Facilities Manager 1,11-9199,EEO4-Professionals,1,430,P2252
+PD,PD09,PD0922,B,21,Facilities Manager 2,11-9199,EEO4-Professionals,1,430,P2253
+PD,PD09,PD0941,B,14,Airport Leasing Specialist 1,41-9021,EEO4-Professionals,6,4920,P2964
+PD,PD09,PD0942,B,16,Airport Leasing Specialist 2,41-9021,EEO4-Professionals,6,4920,P2965
+PD,PD09,PD0943,B,18,Airport Leasing Specialist 3,41-9021,EEO4-Professionals,6,4920,P2966
+PD,PD09,PD0944,B,20,Airport Leasing Specialist 4,41-9021,EEO4-Professionals,6,4920,P2967
+PD,PD09,PD0945,B,22,Airport Leasing Program Manager,11-9141,EEO4-Professionals,1,410,K0001
+PD,PD09,PD0951,B,25,State Leasing & Facilities Manager,11-9141,EEO4-Professionals,1,410,P2910
+PE,PE01,PE0101,B,21,Education Administrator 1,11-9039,EEO4-Professionals,1,230,P3170
+PE,PE01,PE0102,B,22,Education Administrator 2,11-9039,EEO4-Professionals,1,230,P3171
+PE,PE01,PE0110,A,12,Education Program Assistant,25-9042,EEO4-Professionals,6,2540,P3156
+PE,PE01,PE0111,A,13,Education Associate 1,25-9042,EEO4-Professionals,6,2540,P3157
+PE,PE01,PE0112,A,15,Education Associate 2,25-9042,EEO4-Professionals,6,2540,P3158
+PE,PE01,PE0113,A,17,Education Associate 3,25-9042,EEO4-Professionals,6,2540,P3159
+PE,PE01,PE0121,B,19,Education Specialist 1,25-9031,EEO4-Professionals,2,2550,P3160
+PE,PE01,PE0122,B,21,Education Specialist 2,25-9031,EEO4-Professionals,2,2550,P3161
+PE,PE01,PE0130,B,22,Nutrition Programs Manager,29-1031,EEO4-Professionals,2,3030,P5463
+PE,PE01,PE0140,B,16,Education Coordinator (Corrections),25-3099,EEO4-Professionals,2,2340,P3140
+PE,PE01,PE0191,B,24,Executive Secretary Professional Teaching Practice Commission,11-9039,EEO4-Professionals,1,230,P3110
+PE,PE02,PE0201,B,00,AVTEC Instructor,25-1194,EEO4-Professionals,2,2200,P3181
+PE,PE02,PE0210,B,16,Vocational Instructor,25-3099,EEO4-Professionals,2,2340,K0157
+PE,PE02,PE0231,B,16,Training Specialist 1,13-1151,EEO4-Professionals,2,650,P1471
+PE,PE02,PE0232,B,18,Training Specialist 2,13-1151,EEO4-Professionals,2,650,P1472
+PE,PE02,PE0233,B,20,Training Specialist 3,13-1151,EEO4-Professionals,2,650,P1473
+PE,PE02,PE0251,B,16,AK Military Youth Academy (AMYA) Instructor,25-3011,EEO4-Professionals,2,2340,P3123
+PE,PE02,PE0252,B,15,AK Military Youth Academy (AMYA) Chief Examiner,25-3011,EEO4-Professionals,2,2340,P3124
+PE,PE02,PE0253,B,16,AK Military Youth Academy (AMYA) Coordinator,21-1012,EEO4-Professionals,2,2000,P3125
+PE,PE02,PE0254,B,17,AK Military Youth Academy (AMYA) Supervisor 1,11-9032,EEO4-Professionals,1,230,P3126
+PE,PE02,PE0255,B,19,AK Military Youth Academy (AMYA) Supervisor 2,11-9032,EEO4-Professionals,1,230,P3127
+PE,PE02,PE0259,B,23,AK Military Youth Academy (AMYA) Manager,11-9032,EEO4-Professionals,1,230,P3128
+PE,PE03,PE0310,A,11,Recreation Assistant,39-9032,EEO4-Service/Maintenance,8,4620,P3220
+PE,PE03,PE0320,A,11,Dormitory Attendant,39-9041,EEO4-Service/Maintenance,8,4640,P7805
+PE,PE03,PE0341,A,13,AK Military Youth Academy (AMYA) Team Leader,25-9042,EEO4-Administrative Support,6,2540,P3121
+PE,PE03,PE0342,A,15,AK Military Youth Academy (AMYA) Platoon Leader,25-9042,EEO4-Administrative Support,6,2540,P3122
+PE,PE03,PE0350,B,17,Aquatic Facility Manager,11-9072,EEO4-Officials & Administrators,1,330,
+PE,PE03,PE0352,C,09,Lifeguard 1,33-9092,EEO4-Protective Service Workers - Nonsworn,5,3955,
+PE,PE03,PE0353,C,11,Lifeguard 2,33-9092,EEO4-Protective Service Workers - Nonsworn,5,3955,
+PE,PE03,PE0354,A,13,Head Lifeguard,33-9092,EEO4-Protective Service Workers - Nonsworn,5,3955,
+PE,PE04,PE0401,A,11,Library Assistant 1,43-4121,EEO4-Administrative Support,6,5350,P3570
+PE,PE04,PE0402,A,13,Library Assistant 2,43-4121,EEO4-Administrative Support,6,5350,P3571
+PE,PE04,PE0411,B,16,Librarian 1,25-4022,EEO4-Professionals,2,2430,P3573
+PE,PE04,PE0412,B,18,Librarian 2,25-4022,EEO4-Professionals,2,2430,P3574
+PE,PE04,PE0413,B,20,Librarian 3,25-4022,EEO4-Professionals,2,2430,P3575
+PE,PE04,PE0414,B,22,Librarian 4,25-4022,EEO4-Professionals,2,2430,P3577
+PE,PE04,PE0430,B,16,Records Analyst 1,25-4011,EEO4-Professionals,2,2400,K0044
+PE,PE04,PE0431,B,18,Records Analyst 2,25-4011,EEO4-Professionals,2,2400,P3584
+PE,PE04,PE0432,B,20,Records Analyst 3,25-4011,EEO4-Professionals,2,2400,P3585
+PE,PE04,PE0440,B,16,Archivist 1,25-4011,EEO4-Professionals,2,2400,K0043
+PE,PE04,PE0441,B,18,Archivist 2,25-4011,EEO4-Professionals,2,2400,P3581
+PE,PE04,PE0442,B,20,Archivist 3,25-4011,EEO4-Professionals,2,2400,P3582
+PE,PE04,PE0443,B,22,State Archivist,25-4011,EEO4-Professionals,2,2400,P3580
+PE,PE04,PE0450,B,16,Museum Registrar,25-4013,EEO4-Professionals,2,2400,P3520
+PE,PE05,PE0511,B,16,Museum Curator 1,25-4012,EEO4-Professionals,2,2400,P3523
+PE,PE05,PE0512,B,18,Museum Curator 2,25-4012,EEO4-Professionals,2,2400,P3524
+PE,PE05,PE0515,B,19,Museum Conservator,25-4013,EEO4-Professionals,2,2400,P3521
+PE,PE05,PE0519,B,22,Chief Curator,25-4012,EEO4-Professionals,2,2400,P3526
+PE,PE05,PE0531,B,16,Archaeologist 1,19-3091,EEO4-Professionals,2,1860,P6746
+PE,PE05,PE0532,B,18,Archaeologist 2,19-3091,EEO4-Professionals,2,1860,P6747
+PE,PE05,PE0533,B,19,Archaeologist 3,19-3091,EEO4-Professionals,2,1860,P6748
+PE,PE05,PE0541,B,16,Historian 1,19-3093,EEO4-Professionals,2,1860,P6744
+PE,PE05,PE0542,B,18,Historian 2,19-3093,EEO4-Professionals,2,1860,P6745
+PE,PE05,PE0543,B,19,Historian 3,19-3093,EEO4-Professionals,2,1860,P6743
+PE,PE05,PE0550,B,21,"Chief, Office of History and Archaeology",11-9121,EEO4-Professionals,1,360,P6766
+PE,PE05,PE0581,B,14,Subsistence Resource Specialist 1,19-3099,EEO4-Professionals,2,1860,P6193
+PE,PE05,PE0582,B,16,Subsistence Resource Specialist 2,19-3099,EEO4-Professionals,2,1860,P6194
+PE,PE05,PE0583,B,18,Subsistence Resource Specialist 3,19-3099,EEO4-Professionals,2,1860,P6197
+PE,PE05,PE0585,B,22,Subsistence Program Manager,11-9121,EEO4-Professionals,1,360,P6198
+PE,PE06,PE0611,B,17,Visual Information Specialist,27-4011,EEO4-Technicians,3,2900,P3612
+PE,PE06,PE0615,B,17,Exhibit Specialist,25-4013,EEO4-Professionals,2,2400,P3641
+PE,PE06,PE0621,A,11,Publications Technician 1,27-3099,EEO4-Professionals,2,2860,P3604
+PE,PE06,PE0622,A,13,Publications Technician 2,27-3099,EEO4-Professionals,2,2860,P3605
+PE,PE06,PE0631,B,13,Publications Specialist 1,27-3099,EEO4-Professionals,2,2860,P3606
+PE,PE06,PE0632,B,16,Publications Specialist 2,27-3099,EEO4-Professionals,2,2860,P3607
+PE,PE06,PE0633,B,19,Publications Specialist 3,27-3099,EEO4-Professionals,2,2860,P3608
+PE,PE06,PE0641,B,14,Information Officer 1,27-3031,EEO4-Professionals,2,2825,P3613
+PE,PE06,PE0642,B,17,Information Officer 2,27-3031,EEO4-Professionals,2,2825,P3614
+PE,PE06,PE0643,B,20,Information Officer 3,27-3031,EEO4-Professionals,2,2825,P3615
+PE,PE06,PE0645,B,22,Department Communications Manager,11-2031,EEO4-Professionals,1,60,K0078
+PF,PF01,PF0111,A,13,Eligibility Technician 1,43-4061,EEO4-Technicians,6,5250,P4171
+PF,PF01,PF0112,A,14,Eligibility Technician 2,43-4061,EEO4-Technicians,6,5250,P4172
+PF,PF01,PF0113,A,16,Eligibility Technician 3,43-4061,EEO4-Technicians,6,5250,P4173
+PF,PF01,PF0114,A,17,Eligibility Technician 4,43-4061,EEO4-Technicians,6,5250,P4174
+PF,PF01,PF0116,A,16,Eligibility Quality Control Technician 1,43-4061,EEO4-Professionals,6,5250,P4121
+PF,PF01,PF0117,A,18,Eligibility Quality Control Technician 2,43-4061,EEO4-Professionals,6,5250,P4122
+PF,PF01,PF0118,B,18,Eligibility Office Manager 1,43-1011,EEO4-Professionals,6,5000,K0086
+PF,PF01,PF0119,B,19,Eligibility Office Manager 2,43-1011,EEO4-Professionals,6,5000,K0087
+PF,PF01,PF0120,A,14,Medicaid Program Associate,11-9151,EEO4-Paraprofessionals,1,420,
+PF,PF01,PF0121,B,16,Medicaid Program Specialist 1,11-9151,EEO4-Professionals,1,420,P4180
+PF,PF01,PF0122,B,18,Medicaid Program Specialist 2,11-9151,EEO4-Professionals,1,420,P4181
+PF,PF01,PF0123,B,20,Medicaid Program Specialist 3,11-9151,EEO4-Professionals,1,420,P4182
+PF,PF01,PF0124,B,21,Medicaid Program Specialist 4,11-9151,EEO4-Professionals,1,420,P4183
+PF,PF01,PF0125,B,22,Medicaid Program Specialist 5,11-9151,EEO4-Professionals,1,420,
+PF,PF01,PF0131,A,10,PFD Technician 1,43-4061,EEO4-Administrative Support,6,5250,P1215
+PF,PF01,PF0132,A,12,PFD Technician 2,43-4061,EEO4-Administrative Support,6,5250,P1216
+PF,PF01,PF0133,A,14,PFD Technician 3,43-4061,EEO4-Administrative Support,6,520,P1217
+PF,PF01,PF0136,B,16,PFD Specialist 1,43-4061,EEO4-Professionals,6,5250,P1218
+PF,PF01,PF0137,B,18,PFD Specialist 2,43-4061,EEO4-Professionals,6,5250,P1219
+PF,PF01,PF0139,B,22,PFD Manager,11-1021,EEO4-Professionals,1,20,P1270
+PF,PF01,PF0151,B,16,Public Assistance Analyst 1,21-1091,EEO4-Professionals,2,2025,P4127
+PF,PF01,PF0152,B,18,Public Assistance Analyst 2,21-1091,EEO4-Professionals,2,2025,P4128
+PF,PF01,PF0153,B,19,Public Assistance Field Services Manager 1,11-9151,EEO4-Professionals,1,420,P4162
+PF,PF01,PF0154,B,21,Public Assistance Field Services Manager 2,11-9151,EEO4-Professionals,1,420,P4163
+PF,PF01,PF0157,B,21,Public Assistance Programs Officer,11-9151,EEO4-Professionals,1,420,P4125
+PF,PF01,PF0160,A,12,Workers' Compensation Technician,13-1031,EEO4-Professionals,2,540,P4694
+PF,PF01,PF0161,B,16,Workers' Compensation Officer 1,13-1031,EEO4-Professionals,2,540,P4695
+PF,PF01,PF0162,B,18,Workers' Compensation Officer 2,13-1031,EEO4-Professionals,2,540,P4696
+PF,PF01,PF0171,B,20,Social Services Program Coordinator,11-9151,EEO4-Professionals,1,420,P4135
+PF,PF01,PF0172,B,21,Social Services Program Officer,11-9151,EEO4-Professionals,1,420,P4136
+PF,PF01,PF0173,B,23,Social Services Program Administrator,11-9151,EEO4-Professionals,1,420,P4138
+PF,PF01,PF0186,B,22,"Chief, Disability Determination Services",11-9151,EEO4-Professionals,1,420,K0059
+PF,PF01,PF0193,B,22,"Chief, Public Assistance Field Operations",11-9151,EEO4-Professionals,1,420,P4124
+PF,PF01,PF01A1,B,16,Child Support Enforcement Specialist 1,21-1029,EEO4-Professionals,2,2014,
+PF,PF01,PF01A2,B,18,Child Support Enforcement Specialist 2,21-1029,EEO4-Professionals,2,2014,
+PF,PF01,PF01A3,B,20,Child Support Enforcement Specialist 3,21-1029,EEO4-Professionals,2,2014,
+PF,PF01,PF01B1,A,13,Disability Support Technician,43-4061,EEO4-Paraprofessionals,6,5940,P4244
+PF,PF01,PF01C1,B,15,Disability Adjudicator 1,13-1141,EEO4-Professionals,2,540,P4242
+PF,PF01,PF01C2,B,17,Disability Adjudicator 2,13-1141,EEO4-Professionals,2,540,P4243
+PF,PF01,PF01C3,B,19,Disability Adjudicator 3,13-1141,EEO4-Professionals,2,540,P4240
+PF,PF01,PF01C4,B,20,Disability Adjudicator 4,13-1141,EEO4-Professionals,2,540,P4241
+PF,PF01,PF01C5,B,21,Disability Adjudicator 5,13-1141,EEO4-Professionals,2,540,N/A
+PF,PF02,PF0201,B,15,Protective Services Specialist 1,21-1029,EEO4-Professionals,2,2010,K0111
+PF,PF02,PF0202,B,17,Protective Services Specialist 2,21-1029,EEO4-Professionals,2,2010,K0112
+PF,PF02,PF0203,B,19,Protective Services Specialist 3,21-1029,EEO4-Professionals,2,2010,K0113
+PF,PF02,PF0204,B,20,Protective Services Specialist 4,21-1029,EEO4-Professionals,2,2010,K0114
+PF,PF02,PF0205,B,21,Protective Services Manager 1,11-9151,EEO4-Officials & Administrators,1,420,K0115
+PF,PF02,PF0206,B,22,Protective Services Manager 2,11-9151,EEO4-Professionals,1,420,K0116
+PF,PF02,PF0222,A,12,Social Services Associate,21-1093,EEO4-Professionals,2,2025,P4106
+PF,PF03,PF0301,B,15,Civil Rights Programs and Compliance Specialist 1,13-1199,EEO4-Professionals,2,740,K0082
+PF,PF03,PF0302,B,17,Civil Rights Programs and Compliance Specialist 2,13-1199,EEO4-Professionals,2,740,K0083
+PF,PF03,PF0303,B,19,Civil Rights Programs and Compliance Specialist 3,13-1199,EEO4-Professionals,2,740,K0084
+PF,PF03,PF0310,B,19,Chaplain,21-2011,EEO4-Professionals,2,2040,P4250
+PF,PF03,PF0318,B,18,State ADA Coordinator,13-1199,EEO4-Professionals,2,740,K0081
+PF,PF03,PF0321,B,13,Human Rights Field Representative 1,13-1041,EEO4-Professionals,2,565,P4204
+PF,PF03,PF0322,B,16,Human Rights Field Representative 2,13-1041,EEO4-Professionals,2,565,P4206
+PF,PF03,PF0323,B,18,Human Rights Field Representative 3,13-1041,EEO4-Professionals,2,565,P4207
+PF,PF03,PF0324,B,20,Human Rights Field Representative 4,13-1041,EEO4-Professionals,2,565,P4208
+PF,PF03,PF0341,A,12,Senior Services Technician,43-4061,EEO4-Administrative Support,6,5250,P4280
+PF,PF03,PF0372,A,16,American Sign Language (ASL) Interpreter,27-3091,EEO4-Professionals,2,2860,P3602
+PF,PF03,PF03A1,B,16,Public Guardian 1,21-1093,EEO4-Professionals,2,2025,
+PF,PF03,PF03A2,B,18,Public Guardian 2,21-1093,EEO4-Professionals,2,2025,P4260
+PF,PF03,PF03A3,B,20,Public Guardian 3,21-1093,EEO4-Professionals,2,2025,
+PF,PF03,PF03A4,B,22,Public Guardian 4,21-1093,EEO4-Professionals,2,2025,
+PF,PF04,PF0411,A,10,Vocational Rehabilitation Assistant 1,21-1093,EEO4-Professionals,6,2016,P3331
+PF,PF04,PF0412,A,12,Vocational Rehabilitation Assistant 2,21-1093,EEO4-Professionals,6,2016,P3332
+PF,PF04,PF0413,A,13,Vocational Rehabilitation Assistant 3,21-1093,EEO4-Professionals,6,2016,P3333
+PF,PF04,PF0431,B,15,Vocational Rehabilitation Counselor 1,21-1015,EEO4-Professionals,2,2000,P3340
+PF,PF04,PF0432,B,17,Vocational Rehabilitation Counselor 2,21-1015,EEO4-Professionals,2,2000,P3341
+PF,PF04,PF0433,B,19,Vocational Rehabilitation Counselor 3,21-1015,EEO4-Professionals,2,2000,P3343
+PF,PF04,PF0460,B,21,Vocational Rehabilitation Manager,11-9151,EEO4-Professionals,1,420,P3342
+PF,PF04,PF0471,B,22,"Assistant Chief, Vocational Rehabilitation Services",11-9151,EEO4-Professionals,1,420,P3327
+PF,PF04,PF0472,B,23,"Chief, Vocational Rehabilitation Services",11-9151,EEO4-Professionals,1,420,P3328
+PF,PF05,PF0501,B,15,Employment Counselor 1,21-1012,EEO4-Professionals,2,2000,P4616
+PF,PF05,PF0502,B,17,Employment Counselor 2,21-1012,EEO4-Professionals,2,2000,P4617
+PF,PF05,PF0511,B,15,Employment Security Analyst 1,13-1141,EEO4-Professionals,2,640,P4659
+PF,PF05,PF0512,B,17,Employment Security Analyst 2,13-1141,EEO4-Professionals,2,640,P4660
+PF,PF05,PF0513,B,18,Employment Security Analyst 3,13-1141,EEO4-Professionals,2,640,P4661
+PF,PF05,PF0516,B,20,Employment/Unemployment Insurance Technical Manager,11-9151,EEO4-Professionals,1,420,K0080
+PF,PF05,PF0521,A,14,Employment Services Technician 1,13-1071,EEO4-Professionals,2,630,P4649
+PF,PF05,PF0522,A,15,Employment Services Technician 2,13-1071,EEO4-Professionals,2,630,P4650
+PF,PF05,PF0523,A,16,Employment Services Technician 3,13-1071,EEO4-Professionals,2,630,P4651
+PF,PF05,PF0526,A,14,Unemployment Insurance Technician 1,43-4061,EEO4-Administrative Support,6,5250,P4611
+PF,PF05,PF0527,A,15,Unemployment Insurance Technician 2,43-4061,EEO4-Administrative Support,6,5250,P4612
+PF,PF05,PF0528,A,16,Unemployment Insurance Technician 3,43-4061,EEO4-Administrative Support,6,5250,P4613
+PF,PF05,PF0531,B,16,Employment Services Manager 1,11-9151,EEO4-Professionals,1,420,P4655
+PF,PF05,PF0532,B,18,Employment Services Manager 2,11-9151,EEO4-Professionals,1,420,P4656
+PF,PF05,PF0533,B,20,Employment Services Manager 3,11-9151,EEO4-Professionals,1,420,P4657
+PF,PF05,PF0537,B,16,Unemployment Insurance Claim Center Manager 1,11-9151,EEO4-Professionals,1,420,P4614
+PF,PF05,PF0538,B,20,Unemployment Insurance Claim Center Manager 2,11-9151,EEO4-Officials & Administrators,1,420,P4615
+PF,PF05,PF0541,B,16,Field Auditor 1,13-2011,EEO4-Professionals,2,800, P4636 
+PF,PF05,PF0542,B,17,Field Auditor 2,13-2011,EEO4-Professionals,2,800,P4635
+PF,PF05,PF0543,B,19,"Supervisor, Audit Operations",11-3031,EEO4-Professionals,1,120,P4634
+PF,PF05,PF0548,B,22,Reemployment Benefits Administrator,11-1021,EEO4-Officials & Administrators,1,20,P4698
+PF,PF05,PF0555,A,15,Unemployment Insurance Quality Control Auditor,13-2011,EEO4-Professionals,2,800,P4626
+PF,PF05,PF0556,A,19,Unemployment Insurance Quality Control Supervisor,13-2011,EEO4-Professionals,2,800,P4625
+PF,PF05,PF0561,B,17,Appeals Officer 1,23-1021,EEO4-Professionals,2,2100,P4662
+PF,PF05,PF0562,B,19,Appeals Officer 2,23-1021,EEO4-Professionals,2,2100,P4663
+PF,PF05,PF0563,B,21,Appeals Officer 3,23-1021,EEO4-Professionals,2,2100,P4664
+PF,PF05,PF0571,B,22,"Assistant Director, Employment and Training Services",11-1021,EEO4-Officials & Administrators,1,20,P4667
+PF,PF06,PF0611,A,06,Student Intern 1,43-9061,EEO4-Administrative Support,6,5860,P6951
+PF,PF06,PF0612,A,07,Student Intern 2,43-9061,EEO4-Administrative Support,6,5860,P6952
+PF,PF06,PF0621,A,08,College Intern 1,43-9199,EEO4-Administrative Support,6,5940,P6954
+PF,PF06,PF0622,A,09,College Intern 2,43-9199,EEO4-Administrative Support,6,5940,P6955
+PF,PF06,PF0623,A,10,College Intern 3,43-9199,EEO4-Administrative Support,6,5940,P6956
+PF,PF06,PF0624,A,12,College Intern 4,43-9199,EEO4-Administrative Support,6,5940,P6957
+PF,PF06,PF0631,B,14,Graduate Intern 1,43-9199,EEO4-Administrative Support,6,5940,P6958
+PF,PF06,PF0632,B,16,Graduate Intern 2,43-9199,EEO4-Administrative Support,6,5940,P6959
+PG,PG01,PG0101,B,23,Certification & Licensing Administrator,11-9111,EEO4-Professionals,1,350,P5925
+PG,PG01,PG0105,B,20,Health Facilities Surveyor 1,29-1299,EEO4-Professionals,2,3260,P5451
+PG,PG01,PG0106,B,21,Health Facilities Surveyor 2,29-1299,EEO4-Professionals,2,3260,P5452
+PG,PG01,PG0108,B,22,Health Facilities Survey Manager,11-9111,EEO4-Professionals,1,350,K0057
+PG,PG01,PG0111,B,17,Health and Social Services Planner 1,11-9111,EEO4-Professionals,1,350,P5980
+PG,PG01,PG0112,B,19,Health and Social Services Planner 2,11-9111,EEO4-Professionals,1,350,P5981
+PG,PG01,PG0113,B,21,Health and Social Services Planner 3,11-9111,EEO4-Professionals,1,350,P5982
+PG,PG01,PG0120,A,16,Health Program Associate,21-1099,EEO4-Professionals,6,2016,na
+PG,PG01,PG0121,B,17,Health Program Manager 1,11-9111,EEO4-Professionals,1,350,P5941
+PG,PG01,PG0122,B,19,Health Program Manager 2,11-9111,EEO4-Professionals,1,350,P5942
+PG,PG01,PG0123,B,21,Health Program Manager 3,11-9111,EEO4-Professionals,1,350,P5943
+PG,PG01,PG0124,B,23,Health Program Manager 4,11-9111,EEO4-Professionals,1,350,P5944
+PG,PG01,PG0131,B,18,Public Health Specialist 1,29-9099,EEO4-Professionals,3,3540,P5645
+PG,PG01,PG0132,B,20,Public Health Specialist 2,29-9099,EEO4-Professionals,3,3540,P5946
+PG,PG01,PG0133,B,18,Public Health Informaticist 1,29-9099,EEO4-Professionals,3,3540,K0136
+PG,PG01,PG0134,B,20,Public Health Informaticist 2,29-9099,EEO4-Professionals,3,3540,K0137
+PG,PG01,PG0136,B,21,Public Health Data Analyst,15-2041,EEO4-Professionals,2,1240,K0145
+PG,PG01,PG0140,A,10,Medical Information and Services Assistant,29-2072,EEO4-Paraprofessionals,3,3510,P1140
+PG,PG01,PG0141,B,17,Medical Records Administrator,11-9111,EEO4-Officials & Administrators,1,350,P5423
+PG,PG01,PG0142,A,13,Medical Information and Services Supervisor,29-2072,EEO4-Paraprofessionals,3,3510,P1180
+PG,PG01,PG0150,B,22,"Executive Director, DHSS Boards",11-1021,EEO4-Officials & Administrators,1,20,P1016
+PG,PG01,PG0152,B,23,"Executive Administrator, Board of Pharmacy",11-1021,EEO4-Officials & Administrators,1,20,NA
+PG,PG01,PG0161,B,21,Pioneers' Home Assistant Administrator,11-9111,EEO4-Professionals,1,350,NA
+PG,PG01,PG0162,B,23,Pioneers' Home Administrator,11-9111,EEO4-Officials & Administrators,1,350,P1985
+PG,PG01,PG0165,B,17,Assisted Living Care Coordinator,29-9099,EEO4-Professionals,3,3540,P5481
+PG,PG01,PG0170,B,23,Long-Term Care Ombudsman,23-1022,EEO4-Professionals,2,2100,P5990
+PG,PG01,PG0175,B,22,Family Nutrition Programs Manager,29-1031,EEO4-Professionals,2,3030,K0147
+PG,PG01,PG0176,B,18,Dietitian 1,29-1031,EEO4-Professionals,2,3030,K0126
+PG,PG01,PG0177,B,20,Dietitian 2,29-1031,EEO4-Professionals,2,3030,K0127
+PG,PG01,PG0180,B,23,"Executive Director, Alaska Commission on Aging",11-1021,EEO4-Officials & Administrators,1,20,P1998
+PG,PG01,PG0195,B,20,Emergency Medical Services Officer 1,11-9111,EEO4-Professionals,1,350,K0134
+PG,PG01,PG0196,B,21,Emergency Medical Services Officer 2,11-9111,EEO4-Professionals,1,350,K0135
+PG,PG02,PG0210,C,09,Assisted Living Aide,31-1134,EEO4-Service/Maintenance,8,3600,P5181
+PG,PG02,PG0211,C,11,Certified Nurse Aide 1,31-1131,EEO4-Service/Maintenance,8,3600,P5182
+PG,PG02,PG0212,C,12,Certified Nurse Aide 2,31-1131,EEO4-Service/Maintenance,8,3600,P5183
+PG,PG02,PG0231,C,10,Psychiatric Nursing Assistant 1,31-1133,EEO4-Service/Maintenance,8,3600,P5170
+PG,PG02,PG0232,C,11,Psychiatric Nursing Assistant 2,31-1133,EEO4-Service/Maintenance,8,3600,P5171
+PG,PG02,PG0233,C,12,Psychiatric Nursing Assistant 3,31-1133,EEO4-Service/Maintenance,8,3600,P5172
+PG,PG02,PG0234,C,14,Psychiatric Nursing Assistant 4,31-1133,EEO4-Service/Maintenance,8,3600,P5173
+PG,PG02,PG0240,C,12,Public Health Nurse Aide,31-1131,EEO4-Service/Maintenance,8,3600,P5160
+PG,PG03,PG0301,B,17,Licensed Practical Nurse,29-2061,EEO4-Technicians,3,3500,P5116
+PG,PG03,PG0311,B,21,Nurse 1,29-1141,EEO4-Professionals,2,3255,P5110
+PG,PG03,PG0312,B,22,Nurse 2,29-1141,EEO4-Professionals,2,3255,P5111
+PG,PG03,PG0313,B,24,Nurse 3,29-1141,EEO4-Professionals,2,3255,P5112
+PG,PG03,PG0314,B,25,Nurse 4,29-1141,EEO4-Professionals,2,3255,P5113
+PG,PG03,PG0321,B,22,Psychiatric Nurse 1,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG0322,B,23,Psychiatric Nurse 2,29-1141,EEO4-Professionals,2,3255,P5117
+PG,PG03,PG0323,B,25,Psychiatric Nurse 3,29-1141,EEO4-Professionals,2,3255,P5118
+PG,PG03,PG0324,B,26,Psychiatric Nurse 4,29-1141,EEO4-Professionals,2,3255,P5119
+PG,PG03,PG0326,B,22,Corrections Nurse 1,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG0327,B,23,Corrections Nurse 2,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG0328,B,25,Corrections Nurse 3,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG0329,B,26,Corrections Nurse 4,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG0351,B,26,Assistant Nursing Administrator,11-9111,EEO4-Professionals,1,350,P5114
+PG,PG03,PG0352,B,27,Nursing Administrator,11-9111,EEO4-Professionals,1,350,P5126
+PG,PG03,PG0380,B,25,"Executive Administrator, Board of Nursing",11-9111,EEO4-Professionals,1,350,P5130
+PG,PG03,PG03A1,B,22,Public Health Nurse 1,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03A2,B,23,Public Health Nurse 2,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03A3,B,24,Public Health Nurse 3,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03A4,B,25,Public Health Nurse 4,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03A5,B,26,Public Health Nurse 5,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03A6,B,27,Public Health Nurse 6,29-1141,EEO4-Professionals,2,3255,N/A
+PG,PG03,PG03B1,B,24,Nurse Consultant 1,29-1141,EEO4-Professionals,2,3255,P5142
+PG,PG03,PG03B2,B,26,Nurse Consultant 2,29-1141,EEO4-Professionals,2,3255,P5143
+PG,PG04,PG0421,B,26,Physician Assistant/Advanced Practice Registered Nurse 1,29-1071,EEO4-Professionals,2,3110,P5212
+PG,PG04,PG0422,B,27,Physician Assistant/Advanced Practice Registered Nurse 2,29-1071,EEO4-Professionals,2,3110,P5213
+PG,PG04,PG0430,B,28,Medical Officer,29-1212,EEO4-Professionals,2,3060,P5217
+PG,PG04,PG0450,B,22,Wildlife Veterinarian,29-1131,EEO4-Professionals,2,3250,P6149
+PG,PG04,PG0461,B,22,Assistant State Veterinarian,29-1191,EEO4-Professionals,2,3250,P6463
+PG,PG04,PG0462,B,24,State Veterinarian,29-1131,EEO4-Professionals,2,3250,P6464
+PG,PG05,PG0511,B,17,Mental Health Clinician 1,21-1014,EEO4-Professionals,2,2000,P5336
+PG,PG05,PG0512,B,19,Mental Health Clinician 2,21-1014,EEO4-Professionals,2,2000,P5337
+PG,PG05,PG0513,B,21,Mental Health Clinician 3,21-1014,EEO4-Professionals,2,2000,P5338
+PG,PG05,PG0514,B,23,Mental Health Clinician 4,21-1014,EEO4-Professionals,2,2000,P5339
+PG,PG05,PG0527,B,17,Substance Abuse and Behavioral Health Counselor,21-1014,EEO4-Professionals,2,2000,K0163
+PG,PG05,PG0530,B,24,Psychology Resident,19-3033,EEO4-Professionals,2,1821,N/A
+PG,PG05,PG0531,B,25,Clinical Psychologist,19-3033,EEO4-Professionals,2,1821,N/A
+PG,PG05,PG0532,B,26,Forensic Psychologist,19-3039,EEO4-Professionals,2,1825,N/A
+PG,PG05,PG0533,B,27,Psychology Program Manager,19-3033,EEO4-Professionals,2,1821,N/A
+PG,PG05,PG0540,B,23,Community Mental Health Services Program Administrator,11-9111,EEO4-Professionals,1,350,P5369
+PG,PG05,PG0560,B,22,"Executive Director, Governor's Council on Disabilities and Special Education",11-1021,EEO4-Officials & Administrators,1,20,P5381
+PG,PG05,PG0570,B,21,Regional Alcoholism Program Coordinator,11-9151,EEO4-Professionals,1,420,P5367
+PG,PG06,PG0601,B,18,Disease Intervention Specialist 1,29-9099,EEO4-Professionals,3,3540,K0132
+PG,PG06,PG0602,B,20,Disease Intervention Specialist 2,29-9099,EEO4-Professionals,3,3540,K0133
+PG,PG06,PG0603,B,18,Epidemiology Specialist 1,19-1041,EEO4-Professionals,2,1650,K0130
+PG,PG06,PG0604,B,20,Epidemiology Specialist 2,19-1041,EEO4-Professionals,2,1650,K0131
+PG,PG06,PG0606,B,22,Public Health Scientist,19-1041,EEO4-Professionals,2,1650,K0146
+PG,PG06,PG0610,A,11,Medical Transcriptionist,31-9094,EEO4-Administrative Support,6,3646,K0121
+PG,PG06,PG0611,A,13,Medical Services Coding Technician,29-2071,EEO4-Paraprofessionals,3,3510,K0129
+PG,PG06,PG0614,B,15,Cancer Registrar 1,29-9021,EEO4-Paraprofessionals,3,3510,K0141
+PG,PG06,PG0615,B,16,Cancer Registrar 2,29-9021,EEO4-Paraprofessionals,3,3510,K0142
+PG,PG06,PG0621,A,13,Dental Assistant,31-9091,EEO4-Service/Maintenance,8,3640,
+PG,PG06,PG0622,A,21,Dental Hygienist,29-1292,EEO4-Technicians,3,3310,
+PG,PG06,PG0625,D,16,Emergency Medical Technician,29-2042,EEO4-Technicians,3,3400,K0128
+PG,PG06,PG0640,B,16,Industrial Therapist,29-1122,EEO4-Professionals,2,3150,P5440
+PG,PG06,PG0651,B,21,Occupational Therapist 1,29-1122,EEO4-Professionals,2,3150,P5442
+PG,PG06,PG0652,B,23,Occupational Therapist 2,29-1122,EEO4-Professionals,2,3150,P5441
+PG,PG06,PG0660,B,18,Physical Therapist,29-1123,EEO4-Professionals,2,3160,P5446
+PG,PG06,PG0681,B,14,Recreation Therapist 1,29-1125,EEO4-Professionals,2,3210,P5431
+PG,PG06,PG0682,B,16,Recreation Therapist 2,29-1125,EEO4-Professionals,2,3210,P5432
+PG,PG06,PG06A1,A,12,Pharmacy Technician 1,29-2052,EEO4-Paraprofessionals,3,3420,
+PG,PG06,PG06A2,A,14,Pharmacy Technician 2,29-2052,EEO4-Paraprofessionals,3,3420,
+PG,PG06,PG06Y1,B,14,Contact Tracer 1,19-1041,EEO4-Professionals,2,1650,N/A
+PG,PG06,PG06Y2,B,16,Contact Tracer 2,19-1041,EEO4-Professionals,2,1650,N/A
+PG,PG06,PG06Y3,B,19,Contact Tracer 3,19.1041,EEO4-Professionals,2,1650,N/A
+PG,PG07,PG0711,A,14,Autopsy Technician,31-9092,EEO4-Technicians,8,3645,P5650
+PG,PG07,PG0715,A,16,Autopsy Technician Supervisor,31-9092,EEO4-Technicians,8,3645,K0101
+PG,PG07,PG0730,A,13,Laboratory Technician,19-4021,EEO4-Technicians,3,1910,P5630
+PG,PG07,PG0741,B,14,Microbiologist 1,19-1022,EEO4-Professionals,2,1610,P5610
+PG,PG07,PG0742,B,16,Microbiologist 2,19-1022,EEO4-Professionals,2,1610,P5611
+PG,PG07,PG0743,B,18,Microbiologist 3,19-1022,EEO4-Professionals,2,1610,P5612
+PG,PG07,PG0745,B,20,Clinical Laboratory Evaluation Specialist,19-1042,EEO4-Professionals,2,1650,K0143
+PG,PG07,PG0746,B,22,Laboratory Quality Systems Manager,19-1099,EEO4-Professionals,2,1650,K0088
+PG,PG07,PG0748,B,21,EH Biological Analysis Manager,19-1029,EEO4-Professionals,2,1610,K0002
+PG,PG07,PG0749,B,23,"Chief, Environmental Health Laboratories",11-9199,EEO4-Professionals,1,430,P5625
+PG,PG07,PG0751,B,17,Public Health Microbiologist 1,19-1022,EEO4-Professionals,2,1610,P5641
+PG,PG07,PG0752,B,19,Public Health Microbiologist 2,19-1022,EEO4-Professionals,2,1610,P5642
+PG,PG07,PG0753,B,21,Public Health Microbiologist 3,19-1022,EEO4-Professionals,2,1610,P5643
+PG,PG07,PG0755,B,22,Public Health Laboratory Scientist,19-1029,EEO4-Professionals,2,1610,K0144
+PG,PG07,PG0759,B,23,"Chief, Public Health Laboratories",11-9111,EEO4-Professionals,1,350,P5648
+PH,PH01,PH0101,A,07,Fish and Wildlife Technician 1,19-4099,EEO4-Paraprofessionals,3,1965,P6112
+PH,PH01,PH0102,A,09,Fish and Wildlife Technician 2,19-4099,EEO4-Paraprofessionals,3,1965,P6113
+PH,PH01,PH0103,A,11,Fish and Wildlife Technician 3,19-4099,EEO4-Professionals,3,1965,P6114
+PH,PH01,PH0104,A,13,Fish and Wildlife Technician 4,19-4099,EEO4-Paraprofessionals,3,1965,P6115
+PH,PH01,PH0105,A,14,Fish and Wildlife Technician 5,19-4099,EEO4-Paraprofessionals,3,1965,P6116
+PH,PH01,PH0108,A,12,Fish and Game Program Technician,19-4099,EEO4-Paraprofessionals,3,1965,P6100
+PH,PH01,PH0109,B,14,Fish and Game Regulatory Program Assistant,27-3031,EEO4-Professionals,2,2825,P6150
+PH,PH01,PH0111,B,14,Fishery Biologist 1,19-1023,EEO4-Professionals,2,1610,P6160
+PH,PH01,PH0112,B,16,Fishery Biologist 2,19-1023,EEO4-Professionals,2,1610,P6161
+PH,PH01,PH0113,B,18,Fishery Biologist 3,19-1023,EEO4-Professionals,2,1610,P6162
+PH,PH01,PH0114,B,20,Fishery Biologist 4,19-1023,EEO4-Professionals,2,1610,P6163
+PH,PH01,PH0121,B,14,Habitat Biologist 1,19-1023,EEO4-Professionals,2,1610,P6165
+PH,PH01,PH0122,B,16,Habitat Biologist 2,19-1023,EEO4-Professionals,2,1610,P6166
+PH,PH01,PH0123,B,18,Habitat Biologist 3,19-1023,EEO4-Professionals,2,1610,P6167
+PH,PH01,PH0124,B,20,Habitat Biologist 4,19-1023,EEO4-Professionals,2,1610,P6168
+PH,PH01,PH0131,B,14,Wildlife Biologist 1,19-1023,EEO4-Professionals,2,1610,P6141
+PH,PH01,PH0132,B,16,Wildlife Biologist 2,19-1023,EEO4-Professionals,2,1610,P6142
+PH,PH01,PH0133,B,18,Wildlife Biologist 3,19-1023,EEO4-Professionals,2,1610,P6143
+PH,PH01,PH0134,B,20,Wildlife Biologist 4,19-1023,EEO4-Professionals,2,1610,P6144
+PH,PH01,PH0141,B,17,Biometrician 1,19-1029,EEO4-Professionals,2,1610,P6135
+PH,PH01,PH0142,B,19,Biometrician 2,19-1029,EEO4-Professionals,2,1610,P6136
+PH,PH01,PH0143,B,20,Biometrician 3,19-1029,EEO4-Professionals,2,1610,P6137
+PH,PH01,PH0144,B,22,Biometrician 4,19-1029,EEO4-Professionals,2,1610,P6138
+PH,PH01,PH0151,B,14,Fish Culturist 1,45-2093,EEO4-Professionals,8,6050,P6125
+PH,PH01,PH0152,B,16,Fish Culturist 2,45-2093,EEO4-Professionals,8,6050,P6126
+PH,PH01,PH0153,B,18,Fish Culturist 3,45-2093,EEO4-Professionals,8,6050,P6127
+PH,PH01,PH0157,B,20,Fish Pathologist,19-1023,EEO4-Professionals,2,1610,P6121
+PH,PH01,PH0161,B,17,Fisheries Geneticist 1,19-1029,EEO4-Professionals,2,1610,P6183
+PH,PH01,PH0162,B,19,Fisheries Geneticist 2,19-1029,EEO4-Professionals,2,1610,P6184
+PH,PH01,PH0163,B,21,Fisheries Geneticist 3,19-1029,EEO4-Professionals,2,1610,P6185
+PH,PH01,PH0166,B,22,Fisheries Scientist 1,19-1023,EEO4-Professionals,2,1610,P6156
+PH,PH01,PH0167,B,24,Fisheries Scientist 2,19-1023,EEO4-Professionals,2,1610,P6157
+PH,PH01,PH0171,B,17,Wildlife Physiologist 1,19-1021,EEO4-Professionals,2,1610,P6172
+PH,PH01,PH0172,B,19,Wildlife Physiologist 2,19-1021,EEO4-Professionals,2,1610,P6173
+PH,PH01,PH0173,B,21,Wildlife Physiologist 3,19-1021,EEO4-Professionals,2,1610,P6174
+PH,PH01,PH0176,B,22,Wildlife Scientist 1,19-1023,EEO4-Professionals,2,1610,P6145
+PH,PH01,PH0178,B,24,Wildlife Scientist 2,19-1023,EEO4-Professionals,2,1610,P6146
+PH,PH01,PH0190,B,22,Fish and Game Coordinator,11-9121,EEO4-Professionals,1,360,P6164
+PH,PH01,PH0191,B,22,"Assistant Director, Department of Fish and Game",11-9121,EEO4-Professionals,1,360,P6170
+PH,PH01,PH0195,B,24,Extended Jurisdiction Program Manager,11-9121,EEO4-Professionals,1,360,P6152
+PH,PH01,PH0198,B,21,"Executive Director 1, Boards of Fish & Game",11-9121,EEO4-Officials & Administrators,1,360,P6153
+PH,PH01,PH0199,B,23,"Executive Director 2, Boards of Fisheries & Game",11-9121,EEO4-Officials & Administrators,1,360,P6154
+PH,PH02,PH0211,B,16,Agronomist 1,19-1013,EEO4-Professionals,2,1600,P6450
+PH,PH02,PH0212,B,18,Agronomist 2,19-1013,EEO4-Professionals,2,1600,P6451
+PH,PH02,PH0213,B,20,Agronomist 3,19-1013,EEO4-Professionals,2,1600,P6452
+PH,PH02,PH0220,B,16,Agricultural Inspector,45-2011,EEO4-Professionals,1,6010,P6445
+PH,PH03,PH0301,A,10,Natural Resource Technician 1,19-4099,EEO4-Paraprofessionals,3,1965,P6631
+PH,PH03,PH0302,A,12,Natural Resource Technician 2,19-4099,EEO4-Paraprofessionals,3,1965,P6632
+PH,PH03,PH0303,A,14,Natural Resource Technician 3,19-4099,EEO4-Paraprofessionals,3,1965,P6633
+PH,PH03,PH0311,B, 14 ,Natural Resource Specialist 1,19-1099,EEO4-Professionals,2,1650, P6641 
+PH,PH03,PH0312,B,16,Natural Resource Specialist 2,19-1099,EEO4-Professionals,2,1650,P6642
+PH,PH03,PH0313,B, 18 ,Natural Resource Specialist 3,19-1099,EEO4-Professionals,2,1650, P6643 
+PH,PH03,PH0314,B, 21 ,Natural Resource Specialist 4,19-1099,EEO4-Professionals,2,1650, P6644 
+PH,PH03,PH0315,B, 23 ,Natural Resource Specialist 5,19-1099,EEO4-Professionals,2,1650, P6645 
+PH,PH03,PH0321,B, 18 ,Natural Resource Manager 1,11-9121,EEO4-Professionals,1,360, P6654 
+PH,PH03,PH0322,B, 20 ,Natural Resource Manager 2,11-9121,EEO4-Professionals,1,360, P6655 
+PH,PH03,PH0323,B, 22 ,Natural Resource Manager 3,11-9121,EEO4-Professionals,1,360, P6656 
+PH,PH03,PH0351,A,08,Wildland Fire and Resource Technician 1,19-4071,EEO4-Technicians,3,1965,P6605
+PH,PH03,PH0352,A,10,Wildland Fire and Resource Technician 2,19-4071,EEO4-Technicians,3,1965,P6606
+PH,PH03,PH0353,A,12,Wildland Fire and Resource Technician 3,19-4071,EEO4-Technicians,3,1965,P6607
+PH,PH03,PH0354,A,14,Wildland Fire and Resource Technician 4,19-4071,EEO4-Technicians,3,1965,P6608
+PH,PH03,PH0355,A,15,Wildland Fire and Resource Technician 5,19-4071,EEO4-Technicians,3,1965,K0011
+PH,PH03,PH0357,A,12,Wildland Forestry Technician 1,19-4071,EEO4-Technicians,3,1965,N/A
+PH,PH03,PH0358,A,14,Wildland Forestry Technician 2,19-4071,EEO4-Technicians,3,1965,N/A
+PH,PH03,PH0359,A,15,Wildland Forestry Technician 3,19-4071,EEO4-Technicians,3,1965,N/A
+PH,PH03,PH0361,B,14,Forester 1,19-1032,EEO4-Professionals,2,1640,P6621
+PH,PH03,PH0362,B,16,Forester 2,19-1032,EEO4-Professionals,2,1640,P6622
+PH,PH03,PH0363,B,18,Forester 3,19-1032,EEO4-Professionals,3,1640,P6623
+PH,PH03,PH0364,B,20,Forester 4,19-1032,EEO4-Professionals,3,1640,P6624
+PH,PH03,PH0365,B,22,Forester 5,19-1032,EEO4-Professionals,2,1640,K0016
+PH,PH03,PH0367,B,16,Fire Management Officer,19-1032,EEO4-Professionals,2,1640,N/A
+PH,PH03,PH0380,C,56,Wildland Fire Support Services 1,43-5071,EEO4-Administrative Support,6,5610,K0152
+PH,PH03,PH0381,C,55,Wildland Fire Support Services 2,43-5071,EEO4-Administrative Support,6,5610,K0153
+PH,PH03,PH0382,C,54,Wildland Fire Support Services 3,43-5071,EEO4-Administrative Support,6,5610,K0154
+PH,PH03,PH0383,C,53,Wildland Fire Support Services 4,43-5071,EEO4-Administrative Support,6,5610,K0155
+PH,PH03,PH0384,C,52,Wildland Fire Support Services 5,43-5071,EEO4-Administrative Support,6,5610,K0156
+PH,PH04,PH0410,B,14,Park Specialist,19-4099,EEO4-Paraprofessionals,3,1965,P6708
+PH,PH04,PH0411,B,16,Park Ranger 1,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P6705
+PH,PH04,PH0412,B,18,Park Ranger 2,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P6706
+PH,PH04,PH0420,B,20,Park Superintendent,11-9121,EEO4-Professionals,1,360,P6707
+PH,PH04,PH0451,A,11,Museum Protection and Visitor Services Assistant,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P3531
+PH,PH04,PH0453,A,14,Museum Protection & Visitor Services Supervisor,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P3532
+PH,PH04,PH0455,A,16,Museum Protection & Visitor Services Manager,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P3533
+PI,PI01,PI0101,A,12,Criminal Justice Technician 1,43-9199,EEO4-Administrative Support,6,5940,P7011
+PI,PI01,PI0102,A,14,Criminal Justice Technician 2,43-9199,EEO4-Administrative Support,6,5940,P7012
+PI,PI01,PI0103,B,16,Criminal Justice Specialist,23-2099,EEO4-Professionals,6,2160,P7013
+PI,PI01,PI0105,B,21,Criminal Justice Planner,13-1111,EEO4-Professionals,2,710,P2221
+PI,PI01,PI0127,B,19,Legal Editor,27-3041,EEO4-Professionals,2,2830,N/A
+PI,PI01,PI0129,A,18,Process Coordinator - Regulatory Commission of Alaska,23-2011,EEO4-Administrative Support,6,2145,P7103
+PI,PI01,PI0146,A, 16 ,Law Office Manager,43-1011,EEO4-Administrative Support,6,5000,
+PI,PI01,PI0151,A,09,Public Safety Technician 1,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P7725
+PI,PI01,PI0152,A,11,Public Safety Technician 2,33-9099,EEO4-Protective Service Workers - Nonsworn,5,3955,P7726
+PI,PI01,PI01A1,A,11,Law Office Assistant 1,43-6012,EEO4-Administrative Support,6,5700,
+PI,PI01,PI01A2,A,13,Law Office Assistant 2,43-6012,EEO4-Administrative Support,6,5700,
+PI,PI01,PI01A3,A,14,Law Office Assistant 3,43-6012,EEO4-Administrative Support,6,5700,
+PI,PI01,PI01B1,A,14,Paralegal 1,23-2011,EEO4-Paraprofessionals,3,2145,
+PI,PI01,PI01B2,A,16,Paralegal 2,23-2011,EEO4-Paraprofessionals,3,2145,
+PI,PI01,PI01B3,A,17,Paralegal 3,23-2011,EEO4-Paraprofessionals,3,2145,
+PI,PI01,PI01C1,B,19,Paralegal Specialist 1,23-2011,EEO4-Professionals,2,2145,
+PI,PI01,PI01C2,B,20,Paralegal Specialist 2,23-2011,EEO4-Professionals,2,2145,
+PI,PI01,PI01D1,B,19,Guardian ad Litem 1,23-2011,EEO4-Professionals,2,2145,
+PI,PI01,PI01D2,B,20,Guardian ad Litem 2,23-2011,EEO4-Professionals,2,2145,
+PI,PI02,PI0211,B,18,Attorney 1,23-1011,EEO4-Professionals,2,2100,P7142
+PI,PI02,PI0212,B,20,Attorney 2,23-1011,EEO4-Professionals,2,2100,P7143
+PI,PI02,PI0213,B,22,Attorney 3,23-1011,EEO4-Professionals,2,2100,P7144
+PI,PI02,PI0214,B,24,Attorney 4,23-1011,EEO4-Professionals,2,2100,P7145
+PI,PI02,PI0215,B,25,Attorney 5,23-1011,EEO4-Professionals,2,2100,P7146
+PI,PI02,PI0216,B,26,Attorney 6,23-1011,EEO4-Professionals,2,2100,P7147
+PI,PI02,PI0230,B,24,"Chief of Enforcement, ASCHR",23-1011,EEO4-Officials & Administrators,2,2100,P7170
+PI,PI03,PI0301,B,25,Administrative Law Judge 2,23-1021,EEO4-Professionals,1,2100,P7232
+PI,PI03,PI0302,B,24,Administrative Law Judge 1,23-1021,EEO4-Professionals,1,2100,P7233
+PI,PI03,PI0303,B,25,Administrative Law Judge - Tax Qualified,23-1021,EEO4-Professionals,2,2100,K0119
+PI,PI03,PI0304,B,26,Deputy Chief Administrative Law Judge,23-1021,EEO4-Officials & Administrators,2,2100,P7234
+PI,PI03,PI0305,B,27,Chief Administrative Law Judge,23-1021,EEO4-Professionals,2,2100,P7234
+PI,PI03,PI0311,B, 24 ,Hearing Examiner 1,23-1021,EEO4-Professionals,2,2100, P2380 
+PI,PI03,PI0312,B,26,Hearing Examiner 2,23-1021,EEO4-Professionals,2,2100,K0076
+PI,PI03,PI0321,B,21,Hearing Officer,23-1021,EEO4-Professionals,2,2100,P1925
+PI,PI03,PI0331,B,20,Disability Hearing Officer,23-1021,EEO4-Professionals,2,2110,P7220
+PI,PI03,PI0335,B,18,Motor Vehicle Hearing Officer,23-1021,EEO4-Professionals,2,2100,P7210
+PI,PI03,PI0351,B,22,Workers' Compensation Hearing Officer 1,23-1021,EEO4-Professionals,2,2100,P7228
+PI,PI03,PI0352,B,24,Workers' Compensation Hearing Officer 2,23-1021,EEO4-Professionals,2,2100,P7229
+PI,PI03,PI0355,B,25,Chief of Workers' Compensation Adjudication,23-1021,EEO4-Professionals,2,2100,P7230
+PI,PI04,PI0405,B,22,Forensic Science Laboratory Administrator 1,19-4092,EEO4-Professionals,3,1965,
+PI,PI04,PI0406,B,23,Forensic Science Laboratory Administrator 2,19-4092,EEO4-Professionals,3,1965,K0041
+PI,PI04,PI0411,B,18,Forensic Scientist 1 - Chemistry,19-4092,EEO4-Professionals,3,1965,K0028
+PI,PI04,PI0412,B,20,Forensic Scientist 2 - Chemistry,19-4092,EEO4-Professionals,3,1965,K0029
+PI,PI04,PI0413,B,22,Forensic Scientist 3 - Chemistry,19-4092,EEO4-Professionals,3,1965,K0030
+PI,PI04,PI0414,B,24,Forensic Scientist 4 - Chemistry,19-4092,EEO4-Professionals,3,1965,K0031
+PI,PI04,PI0420,A,13,Fingerprint Technician 1,19-4092,EEO4-Technicians,3,1963,P7751
+PI,PI04,PI0421,A,16,Fingerprint Technician 2,19-4092,EEO4-Technicians,3,1963,P7752
+PI,PI04,PI0422,A,18,Fingerprint Technician 3,19-4092,EEO4-Technicians,3,1963,P7753
+PI,PI04,PI0431,B,14,Investigator 1,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,P7766
+PI,PI04,PI0432,B,16,Investigator 2,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,P7767
+PI,PI04,PI0433,B,18,Investigator 3,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,P7768
+PI,PI04,PI0434,B,20,Investigator 4,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,P7769
+PI,PI04,PI0435,B,21,Investigator 5,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0436,B,19,Special Investigator 1,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0437,B,21,Special Investigator 2,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0440,B,18,Forensic Scientist 1 - Physical,19-4092,EEO4-Professionals,3,1965,K0032
+PI,PI04,PI0441,B,20,Forensic Scientist 2 - Physical,19-4092,EEO4-Professionals,3,1965,K0033
+PI,PI04,PI0442,B,22,Forensic Scientist 3 - Physical,19-4092,EEO4-Professionals,3,1965,K0034
+PI,PI04,PI0443,B,24,Forensic Scientist 4 - Physical,19-4092,EEO4-Professionals,3,1965,K0035
+PI,PI04,PI0451,B,18,Forensic Scientist 1 - DNA,19-4092,EEO4-Professionals,3,1965,K0036
+PI,PI04,PI0452,B,20,Forensic Scientist 2 - DNA,19-4092,EEO4-Professionals,3,1965,K0037
+PI,PI04,PI0453,B,22,Forensic Scientist 3 - DNA,19-4092,EEO4-Professionals,3,1965,K0038
+PI,PI04,PI0454,B,24,Forensic Scientist 4 - DNA,19-4092,EEO4-Professionals,3,1965,K0039
+PI,PI04,PI0455,B,22,"Forensic Scientist, DNA Technical Manager",19-4092,EEO4-Professionals,3,1965,K0040
+PI,PI04,PI0460,A,15,Forensic Technician 2,19-4092,EEO4-Paraprofessionals,3,1965,K0027
+PI,PI04,PI0461,A,13,Forensic Technician 1,19-4092,EEO4-Paraprofessionals,3,1965,P5660
+PI,PI04,PI0463,B,14,Medicolegal Investigator 1,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0464,B,16,Medicolegal Investigator 2,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0465,B,18,Medicolegal Investigator 3,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0466,B,20,Medicolegal Investigator 4,33-9021,EEO4-Protective Service Workers - Nonsworn,5,3910,
+PI,PI04,PI0471,B,14,Criminal Intelligence Analyst 1,33-3021,EEO4-Protective Service Workers - Nonsworn,5,3820,
+PI,PI04,PI0472,B,17,Criminal Intelligence Analyst 2,33-3021,EEO4-Protective Service Workers - Nonsworn,5,3820,
+PI,PI04,PI0473,B,19,Criminal Intelligence Analyst 3,33-3021,EEO4-Protective Service Workers - Nonsworn,5,3820,
+PI,PI04,PI04A1,B,22,Criminal Justice Information Services Administrator 1,11-1021,EEO4-Professionals,1,20,N/A
+PI,PI04,PI04A2,B,23,Criminal Justice Information Services Administrator 2,11-1021,EEO4-Professionals,1,20,N/A
+PI,PI05,PI0505,A,16,Recorder Supervisor,43-1011,EEO4-Administrative Support,6,5000,P7528
+PI,PI05,PI0517,B,18,Recorder Manager,43-1011,EEO4-Professionals,6,5000,P7524
+PI,PI05,PI0519,B,22,State Recorder,11-9199,EEO4-Professionals,1,430,P7526
+PI,PI05,PI0531,A,10,Motor Vehicle Customer Service Representative 1,43-4031,EEO4-Administrative Support,6,5220,P7541
+PI,PI05,PI0532,A,12,Motor Vehicle Customer Service Representative 2,43-4031,EEO4-Administrative Support,6,5220,P7542
+PI,PI05,PI0533,A,14,Motor Vehicle Customer Service Representative 3,43-4031,EEO4-Administrative Support,6,5220,P7543
+PI,PI05,PI0541,B,15,Motor Vehicle Office Manager 1,43-1011,EEO4-Professionals,6,5000,P7561
+PI,PI05,PI0542,B,17,Motor Vehicle Office Manager 2,43-1011,EEO4-Professionals,6,5000,P7562
+PI,PI05,PI0543,B,20,Motor Vehicle Office Manager 3,43-1011,EEO4-Professionals,6,5000,P7563
+PI,PI05,PI0555,B,21,DMV Program Manager,13-1041,EEO4-Professionals,2,565,P7761
+PI,PI05,PI05A1,A,12,Recorder 1,43-4031,EEO4-Administrative Support,6,5220,
+PI,PI05,PI05A2,A,13,Recorder 2,43-4031,EEO4-Administrative Support,6,5220,
+PJ,PJ01,PJ0101,D,75,State Trooper Recruit,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7710
+PJ,PJ01,PJ0103,D,77,State Trooper,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7703
+PJ,PJ01,PJ0103c,D,77,State Trooper (APSC Certified Recruitment),33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7703
+PJ,PJ01,PJ0104,D,78,"Corporal, Department of Public Safety",33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7704
+PJ,PJ01,PJ0105,D,79,"Sergeant, Department of Public Safety",33-1012,EEO4-Protective Service Workers - Sworn,4,3710,P7705
+PJ,PJ01,PJ0106,B,24,Lieutenant - Department of Public Safety,33-1012,EEO4-Protective Service Workers - Sworn,4,3710,P7706
+PJ,PJ01,PJ0107,B,25,Captain - Department of Public Safety,33-1012,EEO4-Protective Service Workers - Sworn,4,3710,P7708
+PJ,PJ01,PJ0108,B,26,Major - Department of Public Safety,33-1012,EEO4-Protective Service Workers - Sworn,4,3710,P7709
+PJ,PJ01,PJ0121,D,74,Court Services Officer,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7702
+PJ,PJ01,PJ0130,B,23,"Executive Director, Alaska Police Standards Council",33-3021,EEO4-Protective Service Workers,4,3820,P7780
+PJ,PJ01,PJ0135,B,19,"Training Coordinator, Alaska Police Standards Council",33-3021,EEO4-Protective Service Workers - Sworn,4,3820,P7795
+PJ,PJ01,PJ0141,B,21,Administrative Investigator 1 - DPS,33-9021,EEO4-Professionals,5,3910,K0074
+PJ,PJ01,PJ0142,B,22,Administrative Investigator 2 - DPS,33-1099,EEO4-Professionals,5,3730,K0075
+PJ,PJ02,PJ0221,D,75,Airport Police & Fire Officer 1,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7831
+PJ,PJ02,PJ0222,D,77,Airport Police & Fire Officer 2,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7832
+PJ,PJ02,PJ0223,D,78,Airport Police & Fire Officer 3,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7836
+PJ,PJ02,PJ0224,D,79,Airport Police & Fire Officer 4,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7837
+PJ,PJ02,PJ0225,B,22,Airport Police & Fire Officer 5,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7838
+PJ,PJ02,PJ0226,B,23,Airport Police & Fire Officer 6,33-3051,EEO4-Protective Service Workers - Sworn,4,3850,P7839
+PJ,PJ02,PJ0231,D,19,Fire Training Specialist,33-2011,EEO4-Protective Service Workers - Sworn,4,3740,P7860
+PJ,PJ02,PJ0232,B,21,Fire Training Administrator,33-1021,EEO4-Protective Service Workers - Sworn,4,3720,P7861
+PJ,PJ02,PJ0241,B,23,Deputy Fire Marshal 3,33-1021,EEO4-Protective Service Workers - Sworn,4,3720,P7862
+PJ,PJ02,PJ0243,B, 26 ,Assistant State Fire Marshal,33-1021,EEO4-Protective Service Workers - Sworn,4,3720,P7865
+PJ,PJ02,PJ0250,B,19,Building Plans Examiner 1,47-4011,EEO4-Professionals,1,6660,P7866
+PJ,PJ02,PJ0251,B,21,Building Plans Examiner 2,47-4011,EEO4-Professionals,1,6660,K0117
+PJ,PJ02,PJ0260,B,21,TransAlaska Pipeline Fire Safety Specialist,33-2021,EEO4-Protective Service Workers - Sworn,4,3750,P7868
+PJ,PJ02,PJ02A1,D,75,Deputy Fire Marshal 1,33-2021,EEO4-Protective Service Workers - Sworn,4,3750,
+PJ,PJ02,PJ02A2,D,77,Deputy Fire Marshal 2,33-2021,EEO4-Protective Service Workers - Sworn,4,3750,P7864
+PJ,PJ03,PJ0311,D,11,Correctional Officer 1,33-3012,EEO4-Protective Service Workers - Sworn,4,3800,P7646
+PJ,PJ03,PJ0312,D,13,Correctional Officer 2,33-3012,EEO4-Protective Service Workers - Sworn,4,3800,P7653
+PJ,PJ03,PJ0315,D,14,Correctional Officer 3,33-3012,EEO4-Protective Service Workers - Sworn,4,3800,K0169
+PJ,PJ03,PJ0316,D,15,Correctional Officer 4,33-3012,EEO4-Protective Service Workers - Sworn,4,3800,K0170
+PJ,PJ03,PJ0317,D,18,Correctional Supervisor,33-1011,EEO4-Protective Service Workers - Sworn,4,3700,K0171
+PJ,PJ03,PJ0324,B,19,Correctional Superintendent 1,11-1021,EEO4-Officials & Administrators,1,20,K0177
+PJ,PJ03,PJ0325,B,21,Correctional Superintendent 2,11-1021,EEO4-Officials & Administrators,1,20,K0178
+PJ,PJ03,PJ0326,B,22,Correctional Superintendent 3,11-1021,EEO4-Officials & Administrators,1,20,K0179
+PJ,PJ03,PJ0345,D,18,Juvenile Justice Unit Supervisor,33-1011,EEO4-Protective Service Workers - Sworn,5,3700,P7614
+PJ,PJ03,PJ0351,B,20,Juvenile Justice Superintendent 1,33-1011,EEO4-Professionals,4,3700,P7631
+PJ,PJ03,PJ0352,B,21,Juvenile Justice Superintendent 2,33-1011,EEO4-Professionals,4,3700,P7632
+PJ,PJ03,PJ0353,B,22,Juvenile Justice Superintendent 3,33-1011,EEO4-Professionals,4,3700,P7633
+PJ,PJ03,PJ0360,B,18,Chief Time Accounting Officer,13-1111,EEO4-Professionals,2,710,P1956
+PJ,PJ03,PJ0388,B,16,Correctional Industries Production Manager 1,11-3051,EEO4-Professionals,1,140,P7665
+PJ,PJ03,PJ03A1,D,12,Juvenile Justice Counselor 1,33-3012,EEO4-Protective Service Workers - Nonsworn,5,3801,P7611
+PJ,PJ03,PJ03A2,D,14,Juvenile Justice Counselor 2,33-3012,EEO4-Protective Service Workers - Nonsworn,4,3801,P7612
+PJ,PJ03,PJ03A3,D,16,Juvenile Justice Counselor 3,33-3012,EEO4-Protective Service Workers - Nonsworn,4,3801,P7613
+PJ,PJ04,PJ0421,D,13,"Adult Probation Officer 1, Alcohol Safety Action Program (ASAP)",21-1092,EEO4-Professionals,2,2015,P4348
+PJ,PJ04,PJ0422,D,16,"Adult Probation Officer 2, Alcohol Safety Action Program (ASAP)",21-1092,EEO4-Professionals,2,2015,P4349
+PJ,PJ04,PJ0451,D,14,Juvenile Probation Officer 1,21-1092,EEO4-Professionals,2,2015,P4356
+PJ,PJ04,PJ0452,D,16,Juvenile Probation Officer 2,21-1092,EEO4-Professionals,2,2015,P4357
+PJ,PJ04,PJ0453,D,18,Juvenile Probation Officer 3,21-1092,EEO4-Professionals,2,2015,P4358
+PJ,PJ04,PJ0454,B,20,Juvenile Probation Officer 4,21-1092,EEO4-Professionals,2,2015,P4359
+PJ,PJ04,PJ0455,B,22,Juvenile Probation Officer 5,33-1011,EEO4-Professionals,4,3700,
+PJ,PJ04,PJ0490,B,23,"Executive Director, Alaska Board of Parole",11-9151,EEO4-Officials & Administrators,1,420,P4355
+PJ,PJ04,PJ04A1,B,15,Adult Probation Officer 1,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04A2,B,17,Adult Probation Officer 2A,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04A3,B,18,Adult Probation Officer 2B,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04A4,B,20,Adult Probation Officer 3,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04B1,B,15,Pretrial Services Officer 1,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04B2,B,18,Pretrial Services Officer 2,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04B3,B,20,Pretrial Services Officer 3,21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04C1,B,21,"Pretrial, Probation and Parole Administrator 1",21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04C2,B,23,"Pretrial, Probation and Parole Administrator 2",21-1092,EEO4-Professionals,2,2015,
+PJ,PJ04,PJ04C3,B,25,"Pretrial, Probation and Parole Administrator 3",21-1092,EEO4-Professionals,2,2015,
+PK,PK01,PK0111,B,17,Hydrologist 1,19-2043,EEO4-Professionals,2,1740,P8326
+PK,PK01,PK0112,B,19,Hydrologist 2,19-2043,EEO4-Professionals,2,1740,P8327
+PK,PK01,PK0113,B,21,Hydrologist 4,19-2043,EEO4-Professionals,2,1740,P8328
+PK,PK01,PK0114,B,20,Hydrologist 3,19-2043,EEO4-Professionals,2,1740,K0122
+PK,PK01,PK0121,B,14,Chemist 1,19-2031,EEO4-Professionals,2,1720,P8331
+PK,PK01,PK0122,B,16,Chemist 2,19-2031,EEO4-Professionals,2,1720,P8332
+PK,PK01,PK0123,B,18,Chemist 3,19-2031,EEO4-Professionals,2,1720,P8333
+PK,PK01,PK0124,B,20,Chemist 4,19-2031,EEO4-Professionals,2,1720,P8334
+PK,PK01,PK0125,B,22,Chemist 5,19-2031,EEO4-Professionals,2,1720,P8335
+PK,PK01,PK0131,B,15,Geologist 1,19-2042,EEO4-Professionals,2,1740,P8340
+PK,PK01,PK0132,B,17,Geologist 2,19-2042,EEO4-Professionals,2,1740,P8341
+PK,PK01,PK0133,B,19,Geologist 3,19-2042,EEO4-Professionals,2,1740,P8342
+PK,PK01,PK0134,B,21,Geologist 4,19-2042,EEO4-Professionals,2,1740,P8343
+PK,PK01,PK0135,B,22,Geologist 5,19-2042,EEO4-Professionals,2,1740,P8344
+PK,PK01,PK0137,B,22,Geological Scientist 1,19-2042,EEO4-Professionals,2,1740,K0014
+PK,PK01,PK0138,B,24,Geological Scientist 2,19-2042,EEO4-Professionals,2,1740,K0015
+PK,PK01,PK0141,B,16,Engineering Geologist 1,19-2042,EEO4-Professionals,2,1740,P8386
+PK,PK01,PK0142,B,18,Engineering Geologist 2,19-2042,EEO4-Professionals,2,1740,P8387
+PK,PK01,PK0143,B,20,Engineering Geologist 3,19-2042,EEO4-Professionals,2,1740,P8388
+PK,PK01,PK0145,B,22,Regional Engineering Geologist,19-2042,EEO4-Professionals,2,1740,K0042
+PK,PK01,PK0146,B,24,Chief Engineering Geologist,11-9121,EEO4-Professionals,1,360,K0047
+PK,PK02,PK0201,A,13,Environmental Program Technician,19-4042,EEO4-Paraprofessionals,3,1965,P8511
+PK,PK02,PK0211,B,14,Environmental Program Specialist 1,19-2041,EEO4-Professionals,2,1740,P8521
+PK,PK02,PK0212,B,16,Environmental Program Specialist 2,19-2041,EEO4-Professionals,2,1740,P8522
+PK,PK02,PK0213,B,18,Environmental Program Specialist 3,19-2041,EEO4-Professionals,2,1740,P8523
+PK,PK02,PK0214,B,20,Environmental Program Specialist 4,19-2041,EEO4-Professionals,2,1740,P8524
+PK,PK02,PK0221,B,21,Environmental Program Manager 1,11-9121,EEO4-Professionals,1,360,P8531
+PK,PK02,PK0222,B,22,Environmental Program Manager 2,11-9121,EEO4-Professionals,1,360,P8532
+PK,PK02,PK0223,B,23,Environmental Program Manager 3,11-9121,EEO4-Professionals,1,360,P8533
+PK,PK02,PK0241,B,15,Environmental Impact Analyst 1,19-2041,EEO4-Professionals,2,1740,P8541
+PK,PK02,PK0242,B,17,Environmental Impact Analyst 2,19-2041,EEO4-Professionals,2,1740,P8542
+PK,PK02,PK0243,B,19,Environmental Impact Analyst 3,19-2041,EEO4-Professionals,2,1740,P8543
+PK,PK02,PK0251,B,21,Environmental Impact Analysis Manager 1,11-9121,EEO4-Professionals,1,360,P8551
+PK,PK02,PK0252,B,22,Environmental Impact Analysis Manager 2,11-9121,EEO4-Professionals,1,360,P8552
+PK,PK03,PK0301,B,17,Engineering Assistant 1,17-2051,EEO4-Professionals,2,1360,P8910
+PK,PK03,PK0302,B,19,Engineering Assistant 2,17-2051,EEO4-Professionals,2,1360,P8911
+PK,PK03,PK0303,B,21,Engineering Assistant 3,17-2051,EEO4-Professionals,2,1360,P8912
+PK,PK03,PK0305,B,21,Engineering Associate,17-2051,EEO4-Professionals,2,1360,P8925
+PK,PK03,PK0331,B,17,"Engineering Assistant 1, DEC",17-2081,EEO4-Professionals,2,1420,P8654
+PK,PK03,PK0332,B,19,"Engineering Assistant 2, DEC",17-2081,EEO4-Professionals,2,1420,P8655
+PK,PK03,PK0333,B,21,"Engineering Associate 1, DEC",17-2081,EEO4-Professionals,2,1420,P8656
+PK,PK03,PK0334,B,23,"Engineering Associate 2, DEC",17-2081,EEO4-Professionals,2,1420,P8659
+PK,PK03,PK0341,B,17,Village Safe Water Engineering Assistant,17-2051,EEO4-Professionals,2,1360,P8660
+PK,PK03,PK0342,B,21,Village Safe Water Engineering Associate,17-2051,EEO4-Professionals,2,1360,P8661
+PK,PK03,PK0351,B,21,Communications Engineering Associate 1,17-2072,EEO4-Professionals,2,1410,P8673
+PK,PK03,PK0352,B,23,Communications Engineering Associate 2,17-2072,EEO4-Professionals,2,1410,P8674
+PK,PK03,PK0362,B,18,Utility Engineering Analyst 1,17-2199,EEO4-Professionals,2,1530,P8704
+PK,PK03,PK0363,B,20,Utility Engineering Analyst 2,17-2199,EEO4-Professionals,2,1530,P8705
+PK,PK03,PK0364,B,22,Utility Engineering Analyst 3,17-2199,EEO4-Professionals,2,1530,P8706
+PK,PK03,PK0365,B,24,Utility Engineering Analyst 4,17-2199,EEO4-Professionals,2,1530,P8707
+PK,PK04,PK0411,B,22,Engineer/Architect 1,17-2051,EEO4-Professionals,2,1360,P8913
+PK,PK04,PK0412,B,23,Engineer/Architect 2,17-2051,EEO4-Professionals,2,1360,P8914
+PK,PK04,PK0413,B,25,Engineer/Architect 3,17-2051,EEO4-Professionals,2,1360,P8915
+PK,PK04,PK0414,B,26,Engineer/Architect 4,17-2051,EEO4-Professionals,2,1360,P8916
+PK,PK04,PK0415,B,27,Engineer/Architect 5,17-2051,EEO4-Professionals,2,1360,P8918
+PK,PK04,PK0435,B,22,"Engineer 1, DEC",17-2081,EEO4-Professionals,2,1420,P8657
+PK,PK04,PK0436,B,23,"Engineer 2, DEC",17-2081,EEO4-Professionals,2,1420,P8658
+PK,PK04,PK0443,B,22,Village Safe Water Engineer 1,17-2051,EEO4-Professionals,2,1360,P8662
+PK,PK04,PK0444,B,23,Village Safe Water Engineer 2,17-2051,EEO4-Professionals,2,1360,P8663
+PK,PK04,PK0445,B,24,Village Safe Water Engineer 3,17-2051,EEO4-Professionals,2,1360,P8664
+PK,PK04,PK0453,B,24,Communications Engineer 1,17-2072,EEO4-Professionals,2,1410, P8675 
+PK,PK04,PK0454,B,25,Communications Engineer 2,17-2072,EEO4-Professionals,2,1410,P8676
+PK,PK04,PK0471,B,24,Technical Engineer 1 / Architect 1,17-2051,EEO4-Professionals,2,1360,P8920
+PK,PK04,PK0472,B,25,Technical Engineer 2 / Architect 2,17-2051,EEO4-Professionals,2,1360,P8921
+PK,PK05,PK0503,B,19,Architectural Assistant,17-1011,EEO4-Professionals,2,1300,P8434
+PK,PK06,PK0611,B,21,Vessel Construction Manager 1,17-2121,EEO4-Professionals,2,1440,P8683
+PK,PK06,PK0612,B,22,Vessel Construction Manager 2,17-2121,EEO4-Professionals,2,1440,P8684
+PK,PK06,PK0613,B,24,Vessel Construction Manager 3,17-2121,EEO4-Professionals,2,1440,P8685
+PK,PK07,PK0707,A,14,Land Survey Technician,17-3031,EEO4-Paraprofessionals,3,1560,K0060
+PK,PK07,PK0708,B,18,Land Survey Specialist 1,17-1022,EEO4-Professionals,2,1310,P8833
+PK,PK07,PK0709,B,20,Land Survey Specialist 2,17-1022,EEO4-Professionals,2,1310,K0061
+PK,PK07,PK0711,B,21,Land Surveyor 1,17-1022,EEO4-Professionals,2,1310,P8835
+PK,PK07,PK0712,B,22,Land Surveyor 2,17-1022,EEO4-Professionals,2,1310,P8836
+PK,PK07,PK0714,B,23,Land Survey Manager 1,17-1022,EEO4-Professionals,2,1310,K0062
+PK,PK07,PK0715,B,24,Land Survey Manager 2,17-1022,EEO4-Professionals,2,1310,K0063
+PK,PK07,PK0741,C,58,"Survey, Sub-Journey 1",17-3031,EEO4-Technicians,3,1560,P9591
+PK,PK07,PK0742,C,56,"Survey, Sub-Journey 2",17-3031,EEO4-Technicians,3,1560,P9591
+PK,PK07,PK0743,C,54,"Survey, Journey",17-3031,EEO4-Technicians,3,1560,P9591
+PK,PK07,PK0744,C,53,"Survey, Lead",17-3031,EEO4-Technicians,3,1560,P9591
+PK,PK08,PK0801,A,10,Drafting Technician 1,17-3011,EEO4-Technicians,3,1540,P8423
+PK,PK08,PK0802,A,13,Drafting Technician 2,17-3011,EEO4-Technicians,3,1540,P8424
+PK,PK08,PK0803,A,15,Drafting Technician 3,17-3011,EEO4-Technicians,3,1540,P8425
+PL,PL01,PL0111,C,61,"Food Service, Sub-Journey",35-3023,EEO4-Service/Maintenance,8,4030,P9101
+PL,PL01,PL0112,C,57,"Food Service, Journey",35-3023,EEO4-Skilled Craft Workers,8,4030,P9101
+PL,PL01,PL0113,C,56,"Food Service, Lead",35-3023,EEO4-Skilled Craft Workers,8,4030,P9101
+PL,PL01,PL0114,C,53,"Food Service, Foreman",35-3023,EEO4-Service/Maintenance,8,4030,P9101
+PL,PL01,PL0115,C,16,Food Service Supervisor,35-2012,EEO4-Service/Maintenance,8,4020,P9104
+PL,PL01,PL0121,C,61,"Environmental Services, Journey 1",37-2011,EEO4-Service/Maintenance,8,4220,P9171
+PL,PL01,PL0122,C,60,"Environmental Services, Journey 2",37-2011,EEO4-Service/Maintenance,8,4220,P9171
+PL,PL01,PL0123,C,58,"Environmental Services, Lead",37-2011,EEO4-Service/Maintenance,8,4220,P9171
+PL,PL01,PL0124,C,57,"Environmental Services, Foreman",37-2011,EEO4-Service/Maintenance,8,4220,P9171
+PL,PL01,PL0125,C,16,Custodial Services Supervisor,37-1011,EEO4-Service/Maintenance,8,4200,P9189
+PL,PL02,PL0211,C,56,"Mechanic, Automotive, Sub-Journey",49-3023,EEO4-Skilled Craft Workers,7,7200,P9331
+PL,PL02,PL0212,C,54,"Mechanic, Automotive, Journey",49-3023,EEO4-Skilled Craft Workers,7,7200,P9331
+PL,PL02,PL0213,C,53,"Mechanic, Automotive, Advanced Journey/Lead",49-3023,EEO4-Skilled Craft Workers,7,7200,P9331
+PL,PL02,PL0214,C,52,"Mechanic, Automotive, Foreman 1",49-3023,EEO4-Skilled Craft Workers,7,7200,P9331
+PL,PL02,PL0215,C,51,"Mechanic, Automotive, Foreman 2",49-3023,EEO4-Skilled Craft Workers,7,7200,P9331
+PL,PL02,PL0216,C,52,"Mechanic, Rural ARFF, Advanced Journey",49-3023,EEO4-Skilled Craft Workers,7,7200,P9332
+PL,PL02,PL0221,C,56,"Mechanic, Aircraft, Sub-Journey",49-3011,EEO4-Skilled Craft Workers,7,7140,P9336
+PL,PL02,PL0222,C,54,"Mechanic, Aircraft, Journey",49-3011,EEO4-Skilled Craft Workers,7,7140,P9336
+PL,PL02,PL0223,C,53,"Mechanic, Aircraft, Advanced Journey/Lead",49-3011,EEO4-Skilled Craft Workers,7,7140,P9336
+PL,PL02,PL0224,C,52,"Mechanic, Aircraft, Foreman 1",49-3011,EEO4-Skilled Craft Workers,7,7140,P9336
+PL,PL02,PL0225,C,51,"Mechanic, Aircraft, Foreman 2",49-3011,EEO4-Skilled Craft Workers,7,7140,P9336
+PL,PL02,PL0240,C,19,Aircraft Maintenance Inspector,53-6051,EEO4-Service/Maintenance,8,9410,P9636
+PL,PL02,PL0262,C,16,Vessel Technician,53-5031,EEO4-Service/Maintenance,8,9300,P9665
+PL,PL03,PL0301,C,58,"Equipment Operator, Sub-Journey 1",47-2073,EEO4-Skilled Craft Workers,7,6320,P9511
+PL,PL03,PL0302,C,56,"Equipment Operator, Sub-Journey 2",47-2073,EEO4-Skilled Craft Workers,7,6320,P9511
+PL,PL03,PL0303,C,54,"Equipment Operator, Journey 1",47-2073,EEO4-Skilled Craft Workers,7,6320,P9511
+PL,PL03,PL0304,C,53,"Equipment Operator, Journey 2",47-2073,EEO4-Skilled Craft Workers,7,6320,P9511
+PL,PL03,PL0305,C,52,"Equipment Operator, Lead/Journey 3",47-2073,EEO4-Skilled Craft Workers,7,6320,P9511
+PL,PL03,PL0306,C,51,Equipment Operator Foreman 1,47-2073,EEO4-Skilled Craft Workers,7,6320,P9516
+PL,PL03,PL0307,C,50,Equipment Operator Foreman 2,47-2073,EEO4-Skilled Craft Workers,7,6320,P9517
+PL,PL03,PL0311,C,49,Rural Airport Foreman,47-2073,EEO4-Skilled Craft Workers,7,6320,P9518
+PL,PL03,PL0312,C,49,International Airport Foreman,47-2073,EEO4-Skilled Craft Workers,7,6320,P9519
+PL,PL04,PL0401,C,58,"Maintenance Generalist, Sub-Journey 1",47-4099,EEO4-Skilled Craft Workers,7,6765,P9311
+PL,PL04,PL0402,C,56,"Maintenance Generalist, Sub-Journey 2",47-4099,EEO4-Skilled Craft Workers,7,6765,P9311
+PL,PL04,PL0403,C,54,"Maintenance Generalist, Journey",47-4099,EEO4-Skilled Craft Workers,7,6765,P9311
+PL,PL04,PL0404,C,53,"Maintenance Generalist, Lead",47-4099,EEO4-Skilled Craft Workers,7,6465,P9311
+PL,PL04,PL0405,C,52,"Maintenance Generalist, Foreman",47-4099,EEO4-Skilled Craft Workers,7,6765,P9311
+PL,PL04,PL0411,C,53,"Maintenance Specialist, Bldg/Facility/Const, Journey 1",47-4099,EEO4-Skilled Craft Workers,7,6765,P9323
+PL,PL04,PL0412,C,51,"Maintenance Specialist, Bldg/Facility/Const, Journey 2/Lead",47-4099,EEO4-Skilled Craft Workers,7,6765,P9323
+PL,PL04,PL0413,C,50,"Maintenance Specialist, Bldg/Facility/Const, Foreman",47-4099,EEO4-Skilled Craft Workers,7,6765,P9323
+PL,PL04,PL0421,C,53,"Maintenance Specialist, Electronics, Journey 1",47-2111,EEO4-Skilled Craft Workers,7,6355,P9324
+PL,PL04,PL0422,C,51,"Maintenance Specialist, Electronics, Journey 2/Lead",47-2111,EEO4-Skilled Craft Workers,7,6355,P9324
+PL,PL04,PL0423,C,50,"Maintenance Specialist, Electronics, Foreman",47-2111,EEO4-Skilled Craft Workers,7,6355,P9324
+PL,PL04,PL0431,C,53,"Maintenance Specialist, Electrician, Journey 1",47-2111,EEO4-Skilled Craft Workers,7,6355,P9325
+PL,PL04,PL0432,C,51,"Maintenance Specialist, Electrician, Journey 2/Lead",47-2111,EEO4-Skilled Craft Workers,7,6355,P9325
+PL,PL04,PL0433,C,50,"Maintenance Specialist, Electrician, Foreman",47-2111,EEO4-Skilled Craft Workers,7,6355,P9325
+PL,PL04,PL0441,C,53,"Maintenance Specialist, Electrical Utility, Journey 1",47-2111,EEO4-Skilled Craft Workers,7,6355,P9326
+PL,PL04,PL0442,C,51,"Maintenance Specialist, Electrical Utility, Journey 2/Lead",47-2111,EEO4-Skilled Craft Workers,7,6355,P9326
+PL,PL04,PL0443,C,50,"Maintenance Specialist, Electrical Utility, Foreman",47-2111,EEO4-Skilled Craft Workers,7,6355,P9326
+PL,PL04,PL0451,C,53,"Maintenance Specialist, Plumbing, Journey 1",47-2152,EEO4-Skilled Craft Workers,7,6440,P9328
+PL,PL04,PL0452,C,51,"Maintenance Specialist, Plumbing, Journey 2/Lead",47-2152,EEO4-Skilled Craft Workers,7,6440,P9328
+PL,PL04,PL0453,C,50,"Maintenance Specialist, Plumbing, Foreman",47-2152,EEO4-Skilled Craft Workers,7,6440,P9328
+PL,PL04,PL0461,B,20,Building Maintenance Superintendent,11-9021,EEO4-Professionals,1,220,P8460
+PL,PL04,PL0462,B,22,Building Maintenance Manager,11-9021,EEO4-Professionals,1,220,P8461
+PL,PL04,PL0471,C,53,"Maintenance Specialist, Traffic Cntrl & Elec Sys, Journey 1",47-2111,EEO4-Skilled Craft Workers,7,6355,P9329
+PL,PL04,PL0472,C,51,"Maintenance Specialist, Traffic Cntrl & Elec Sys, Journey 2/Lead",47-2111,EEO4-Skilled Craft Workers,7,6355,P9329
+PL,PL04,PL0473,C,50,"Maintenance Specialist, Traffic Cntrl & Elec Sys, Foreman",47-2111,EEO4-Skilled Craft Workers,7,6355,P9329
+PL,PL05,PL0510,C,14,Survey Instrument Technician Trainee,49-9069,EEO4-Skilled Craft Workers,7,7430,P9461
+PL,PL05,PL0511,C,16,Survey Instrument Technician 1,49-9069,EEO4-Skilled Craft Workers,7,7430,P9462
+PL,PL05,PL0512,C,17,Survey Instrument Technician 2,49-9069,EEO4-Skilled Craft Workers,7,7430,P9463
+PL,PL06,PL0611,C,59,"Engineering Technician, Sub-Journey 1",17-3022,EEO4-Technicians,3,1550,P9571
+PL,PL06,PL0612,C,57,"Engineering Technician, Sub-Journey 2",17-3022,EEO4-Technicians,3,1550,P9571
+PL,PL06,PL0613,C,55,"Engineering Technician, Sub-Journey 3",17-3022,EEO4-Technicians,3,1550,P9571
+PL,PL06,PL0614,C,54,"Engineering Technician, Journey",17-3022,EEO4-Technicians,3,1550,P9571
+PL,PL06,PL0631,C,59,"Materials Laboratory Technician, Sub-Journey 1",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0632,C,57,"Materials Laboratory Technician, Sub-Journey 2",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0633,C,56,"Materials Laboratory Technician, Sub-Journey 3",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0634,C,54,"Materials Laboratory Technician, Sub-Journey 4",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0635,C,53,"Materials Laboratory Technician, Journey",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL03,PL0636,C,52,"Materials Laboratory Technician, Specialist/Lead",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0637,C,51,"Materials Laboratory Technician, Foreman Class",17-3029,EEO4-Technicians,3,1550,P9581
+PL,PL06,PL0641,C,54,"Driller, Sub-Journey",47-5023,EEO4-Skilled Craft Workers,7,6820,P9551
+PL,PL06,PL0642,C,53,"Driller, Journey",47-5023,EEO4-Skilled Craft Workers,7,6820,P9551
+PL,PL07,PL0715,B,24,Aviation Program Manager,53-2012,EEO4-Professionals,2,9030,P9638
+PL,PL07,PL0721,C,13,Boat Officer 1,53-5011,EEO4-Service/Maintenance,8,9300,P9655
+PL,PL07,PL0722,C,15,Boat Officer 2,53-5021,EEO4-Service/Maintenance,1,9310,P9656
+PL,PL07,PL0723,C,17,Boat Officer 3,53-5021,EEO4-Service/Maintenance,1,9310,P9657
+PL,PL07,PL0724,C,19,Boat Officer 4,53-5021,EEO4-Service/Maintenance,1,9310,P9658
+PL,PL07,PL0728,B,20,Vessel Supervisor,11-3071,EEO4-Professionals,8,160,
+PL,PL07,PL07A1,C,22,Aircraft Pilot 1,23-2012,EEO4-Professionals,2,9030,N/A
+PL,PL07,PL07A2,C,23,Aircraft Pilot 2,23-2012,EEO4-Professionals,2,9030,N/A
+PL,PL08,PL0820,C,08,Microfilm/Imaging Operator Trainee,51-9151,EEO4-Service/Maintenance,8,8830,P9810
+PL,PL08,PL0821,C,10,Microfilm/Imaging Operator 1,51-9151,EEO4-Service/Maintenance,8,8830,P9811
+PL,PL08,PL0822,C,12,Microfilm/Imaging Operator 2,51-9151,EEO4-Service/Maintenance,8,8830,P9812
+PL,PL08,PL0823,C,14,Microfilm/Imaging Operator 3,51-9151,EEO4-Skilled Craft Workers,8,8830,P9813
+PL,PL08,PL0825,C,17,Micrographics Services Manager,51-1011,EEO4-Skilled Craft Workers,8,7700,P9814
+PL,PL08,PL0832,C,12,Offset Duplicating Machine Operator,43-9071,EEO4-Administrative Support,6,5900,P1170
+PL,PL08,PL0841,C,09,Mail Services Courier,43-9051,EEO4-Administrative Support,6,5850,P1132
+PL,PL08,PL0842,C,10,Mail Services Lead Courier,43-9051,EEO4-Administrative Support,6,5850,P1130
+PL,PL08,PL0845,B,15,Mail Services Manager,43-1011,EEO4-Administrative Support,6,5000,P1915
+PL,PL09,PL0911,D,06,Guard 1,33-3012,EEO4-Protective Service Workers - Sworn,4,3930,P7812
