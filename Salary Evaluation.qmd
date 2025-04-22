@@ -1,0 +1,91 @@
+---
+title: "Salary Study"
+author: "SU Member"
+format: html
+editor: visual
+---
+
+```{r load data}
+
+library(dplyr)
+#install.packages("arrow")
+library(arrow)
+library(knitr)
+
+rm(list = ls())
+
+filledPositions <- read.csv("filled_positions_info.csv")
+full_p65 <- read_parquet("full_p65_with_nearest.parquet")
+# Filling in where we can with ranges.
+classOutline <- read.csv("classOutline.csv")
+missingCount <- read.csv("missing_class_count.csv")
+
+```
+
+```{r organize and prep data}
+
+# BU wasn't repeated in the salary study. 
+posCount <- filledPositions %>%
+  group_by(JCC) %>%
+  summarize(nMatches = n()) %>%
+  ungroup()
+
+full_p65 <- full_p65 %>%
+  left_join(posCount, by=c("code" = "JCC"))
+
+full_p65 <- full_p65 %>%
+  left_join(missingCount, by=c("code"))
+
+full_p65 <- full_p65 %>%
+  mutate(
+    nMatches = if_else(is.na(nMatches), nMatchesSalStudy, nMatches)
+  )
+
+# Set nMatches = NA if no market salary is posted.
+full_p65$nMatches[which(is.na(full_p65$market_target_annual_salary))] = NA
+
+#  missingFromPosCount <- full_p65 %>%
+#    filter(is.na(nMatches) & step == "A")
+
+# Small data frame to try and get step into the 
+rangeByClass <- classOutline %>%
+  select(Class_Code, Range)
+
+# Exclude positions not included in the class outline.
+# 
+filledPositions_withRange <- filledPositions %>%
+  left_join(rangeByClass, by=c("JCC" = "Class_Code")) %>%
+  filter(!is.na(Range))
+
+```
+
+## Salary Study Information
+
+In 2024, the Legislature of the State of Alaska Commissioned a salary study to ...
+
+## What was included?
+
+The salary study conducted by The Segal Group included ___ positions descriptions which covers ___ occupied positions and ____ active employees. Of these, 36 positions are not found within active State of Alaska employees (https://doa.alaska.gov/dop/classification/classOutline/classOutline.xlsx) 
+
+```{r}
+
+
+
+```
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
