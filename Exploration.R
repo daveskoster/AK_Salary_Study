@@ -38,16 +38,35 @@ full_p65 <- full_p65 %>%
     nMatches = if_else(is.na(nMatches), nMatchesSalStudy, nMatches)
   )
 
-  missingFromPosCount <- full_p65 %>%
-    filter(is.na(nMatches) & step == "A")
-  
-#write.csv(missingFromPosCount, "missingFromPosList.csv")
-
-# Have a peek at the familys/groups.
-#unique(full_p65$group)
-#unique(full_p65$family)
-
+# Set nMatches = NA if no market salary is posted.
 full_p65$nMatches[which(is.na(full_p65$market_target_annual_salary))] = NA
+
+#  missingFromPosCount <- full_p65 %>%
+#    filter(is.na(nMatches) & step == "A")
+
+# Small data frame to try and get step into the 
+rangeByClass <- classOutline %>%
+  select(Class_Code, Range)
+
+# Exclude positions not included in the class outline.
+# 
+filledPositions_withRange <- filledPositions %>%
+  left_join(rangeByClass, by=c("JCC" = "Class_Code")) %>%
+  filter(!is.na(Range))
+
+# ########################################################
+# Coverage - positions in study vs. occupied positions
+# ########################################################
+
+# Positions included in study.
+countStudyPositions = nrow(filter(full_p65, 
+                                  step == "A"))
+  
+occupiedByPosition <- filledPositions_withRange %>% 
+  group_by(JCC) %>%
+  summarize(count = n())
+
+countOccupiedPositions = nrow(occupiedByPosition)
 
 # ########################################################
 # Weight for aggregation to job and groups.
