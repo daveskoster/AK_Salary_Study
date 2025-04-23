@@ -14,6 +14,7 @@ library(ggplot2)
 library(arrow)
 library(knitr)
 library(kableExtra)
+library(stats)
 
 rm(list = ls())
 
@@ -306,10 +307,60 @@ rangeCompare.PublicSafety <- rangeCompare %>%
 
 ```
 
+## Building a model
 
-## Running Code
+The code below is meant to help build a model for positions not otherwise included
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+```{r building a model}
+
+full_p65 <- full_p65 %>%
+  mutate(
+    pctDifference = (ak_annual_salary - market_target_annual_salary) / ak_annual_salary
+  )
+
+#diff.lm = lm(pctDifference ~ group + BU + original_range + BU + nMatches,full_p65)
+diff.lm = lm(pctDifference ~ group + BU + step + original_range, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ BU + step + original_range, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ step + original_range, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ original_range, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ group + BU, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ family + original_range + BU, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ family + original_range + BU + step + schedule, full_p65)
+summary(diff.lm)
+AIC(diff.lm)
+
+# Need to build a data-frame suitable for predict
+#family = "PB05 ‐ Statistics and Research Analysis"
+#original_range = 18
+#BU = "GP"
+#step = "F"
+
+
+
+```
+
+
+## Placeholder code below
+
+Below is a work in progress.
 
 ```{r}
 
