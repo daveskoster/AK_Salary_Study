@@ -8,6 +8,8 @@ editor: visual
 ```{r load data}
 
 library(dplyr)
+library(tidyr)
+library(ggplot2)
 #install.packages("arrow")
 library(arrow)
 library(knitr)
@@ -214,6 +216,96 @@ combinedBUComparison %>%
   )
 
 ```
+
+### Employees by range
+
+Because only about 14,300 SoA positions are described by the classOutline, only those positions can be evaluated for adequate representation. An improvement to our evaluation of this data would involve a full listing of all occupied positions by allocated range.
+
+
+```{r employees by range}
+
+# Just one copy of the p_65.
+p65_A <- full_p65 %>% filter(step == "A")
+filledPositions_withRange_adj <- filledPositions_withRange %>%
+  filter(Range > 0)
+
+# Basic histogram may be misleading - let's get this 'right'
+#hist(filledPositions_withRange_adj$Range, breaks=15)
+#hist(p65_A$original_range, breaks=15)
+
+p65_A.frequency <- p65_A %>%
+  group_by(original_range) %>%
+  summarize(countStudy = sum(nMatches, na.rm=TRUE))
+filledPos_wRange.frequency <- filledPositions_withRange_adj %>%
+  group_by(Range) %>%
+  summarize(countFilled = n())
+
+rangeCompare <- filledPos_wRange.frequency %>%
+  left_join(p65_A.frequency, by=c("Range" = "original_range"))
+
+rangeCompare.Standard <- rangeCompare %>%
+  filter(Range < 29) %>%
+  mutate(
+    totalCountFilled = sum(countFilled, na.rm=TRUE),
+    totalCountStudy = sum(countStudy, na.rm=TRUE)
+  ) %>%
+  mutate(
+    pctTotalAll = countFilled / totalCountFilled,
+    pctTotalStudy = countStudy / totalCountStudy
+  ) %>% 
+  mutate(
+    wgtRangeAll = Range * pctTotalAll,
+    wgtRangeStudy = Range * pctTotalStudy
+  ) %>%
+  mutate(
+    meanRangeAll = sum(wgtRangeAll, na.rm=TRUE),
+    meanRangeStudy = sum(wgtRangeStudy, na.rm=TRUE)
+  ) %>% 
+  pivot_longer(
+    cols = c(pctTotalAll, pctTotalStudy),
+    names_to = "Group",
+    values_to = "Percentage"
+  ) %>% 
+  mutate(
+    Group = recode(Group,
+                   pctTotalAll = "All Employees",
+                   pctTotalStudy = "Study Employees")
+  )
+
+x_pos_all = max(rangeCompare.Standard$meanRangeAll)
+x_pos_study = max(rangeCompare.Standard$meanRangeStudy)
+
+ggplot(rangeCompare.Standard, aes(x = Range, y = Percentage, fill = Group)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  labs(
+    x = "Salary Range",
+    y = "Percentage of Employees",
+    fill = "Group",
+    title = "Employee Distribution by Salary Range"
+  ) +
+  geom_vline(xintercept = x_pos_all, linetype = "dashed", color = "blue", size = 1) +
+  geom_vline(xintercept = x_pos_study, linetype = "dashed", color = "red", size = 1) +
+  annotate("text", x = x_pos_all + 0.2, y = .20, label = "All Employees", color = "blue", angle = 90, vjust = 0.5, hjust = 1) +
+  annotate("text", x = x_pos_study + 0.2, y = .20, label = "Salary Study", color = "red", angle = 90, vjust = -0.5, hjust = 1) +  
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+
+
+# Can fill these in using the code above, if desired.
+rangeCompare.LTC <- rangeCompare %>%
+  filter(between(Range, 45, 61))
+
+rangeCompare.PublicSafety <- rangeCompare %>%
+  filter(Range > 65)
+
+
+
+
+```
+
 
 ## Running Code
 
