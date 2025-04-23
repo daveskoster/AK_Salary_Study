@@ -47,7 +47,7 @@ full_p65$nMatches[which(is.na(full_p65$market_target_annual_salary))] = NA
 #  missingFromPosCount <- full_p65 %>%
 #    filter(is.na(nMatches) & step == "A")
 
-# Small data frame to try and get step into the 
+# Small data frame to try and get step into the jobs classes.
 rangeByClass <- classOutline %>%
   select(Class_Code, Range)
 
@@ -65,7 +65,32 @@ In 2024, the Legislature of the State of Alaska Commissioned a salary study to .
 
 ## What was included?
 
-The salary study conducted by The Segal Group included ___ positions descriptions which covers ___ occupied positions and ____ active employees. Of these, 36 positions are not found within active State of Alaska employees (https://doa.alaska.gov/dop/classification/classOutline/classOutline.xlsx) 
+The salary study conducted by The Segal Group included 403 positions descriptions. This group includes 36 positions that either have not been allocated or are not currently occupied. The occupied positions included cover 7350 active employees out of roughly 17,100 positions (43%). Of these 17,000 positions, just over 14,300 are described by the SoA Class outline. (https://doa.alaska.gov/dop/classification/classOutline/classOutline.xlsx). The remaining 2,700 employees, consisting largely of executive judicial, legislative, labor, trades, along with many non-classified positions. 
+
+```{r supporting code for above statement}
+
+includedPositions = (full_p65 %>%
+  filter(step == "A") %>%
+  select(code))$code
+
+countStudyPositions = nrow(filter(full_p65, 
+                                  step == "A"))
+
+occupiedByPosition <- filledPositions_withRange %>% 
+  group_by(JCC) %>%
+  summarize(count = n())
+
+countOccupiedPositions = nrow(occupiedByPosition)
+
+EmplCovered <- full_p65 %>%
+  filter(step == "A" & is.na(nMatchesSalStudy)) %>%
+  summarize(totalCovered = sum(nMatches, na.rm=TRUE))
+
+```
+
+## What is not included?
+
+Among the 14,300 state employees holding positions described in the SoA Class outline
 
 ```{r}
 
@@ -78,7 +103,41 @@ The salary study conducted by The Segal Group included ___ positions description
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
-1 + 1
+
+# Weight each job code according to the number of occupied positions.
+full_p65 <- full_p65 %>%
+  mutate(
+    wgt_ak_annual_salary = ak_annual_salary * nMatches,
+    wgt_mkt_target_annual_salary = market_target_annual_salary * nMatches
+  )
+
+p65_by_family = full_p65 %>%
+  group_by(family, step) %>%
+  summarize(
+    nMatches = sum(nMatches, na.rm=TRUE),
+    wgt_ak_annual_salary = sum(wgt_ak_annual_salary, na.rm=TRUE),
+    wgt_mkt_target_annual_salary = sum(wgt_mkt_target_annual_salary, na.rm=TRUE)
+  ) %>%
+  ungroup() %>%
+  mutate(
+    wgt_ak_annual_salary = wgt_ak_annual_salary / nMatches,
+    wgt_mkt_target_annual_salary = wgt_mkt_target_annual_salary / nMatches
+  )
+
+p65_by_group = full_p65 %>%
+  group_by(group, step) %>%
+    summarize(
+      nMatches = sum(nMatches, na.rm=TRUE),
+      wgt_ak_annual_salary = sum(wgt_ak_annual_salary, na.rm=TRUE),
+      wgt_mkt_target_annual_salary = sum(wgt_mkt_target_annual_salary, na.rm=TRUE)
+    ) %>%
+    ungroup() %>%
+    mutate(
+      wgt_ak_annual_salary = wgt_ak_annual_salary / nMatches,
+      wgt_mkt_target_annual_salary = wgt_mkt_target_annual_salary / nMatches
+    )
+
+
 ```
 
 You can add options to executable code like this
