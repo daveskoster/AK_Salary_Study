@@ -28,7 +28,7 @@ BU = c("AA",
 "CC",
 "EE",
 "GC",
-"GG",
+"GP",
 "KK",
 "LL",
 "MM",
@@ -67,7 +67,7 @@ buLookup <- data.frame(BU, BU_Desc)
 
 # Re-label some of the BU designations.
 filledPositions$BU[filledPositions$BU %in%
-                     c("GG", "GP", "GY", "GZ")] = "GG"
+                     c("GG", "GP", "GY", "GZ")] = "GP"
 
 # BU wasn't repeated in the salary study. 
 posCount <- filledPositions %>%
@@ -135,7 +135,11 @@ EmplCovered <- full_p65 %>%
 
 ## Comparing the information
 
-Among the 14,300 state employees holding positions described in the SoA Class outline
+To better understand which state employees where covered and how that might influence what we are seeing, several tables have been provided below comparing different aspects of positions. 
+
+### Employees by bargaining unit
+
+To understand the first table below the 'Total employees' column represents the number of active employees for each bargaining unit. The 'Percent of all employees' column represents the percentage of all employees accounted for in this table (not including employees in bargaining units not covered at all by the Salary study). The column 'Study employees' are the number of employees who's positions are directly evaluated by the salary study. The percent of all employees included column shows the percentage of all employees who's positions are covered. In a reasonably representative sample of positions, the first two percent columns should be nearly equal. For instance, CEA Confidential employees both columns are 1.3%, this shows parity. However, APEA Supervisory is 17% vs. 13%, indicating that more SU members are included. This disparity is not great, and may be the product of random chance. The final column is the percentage of directly included employees compared to the total. Ideally, all of these going down the columns should be close to equal and also close to the figure of 43% included. Most BU's are reasonably equally represented with public safety and corrections having substantially more coverage, likely due to a narrower range of classifications. Covered executive positions were covered with the smallest percentage, likely due to a broad range of position types. However, when comparing the total populations for each group 
 
 
 ```{r}
@@ -163,18 +167,30 @@ combinedBUComparison <- combinedBUComparison %>%
 combinedBUComparison %>%
   filter(!is.na(pctIncluded)) %>%
   mutate(
-    pctIncluded = sprintf("%.1f%%", pctIncluded * 100)
+    grandTotalAll = sum(totalEmployees, na.rm=TRUE),
+    grandTotalStudy = sum(studyEmployees, na.rm=TRUE)
+    ) %>%
+  mutate (
+    pctOfAllEmpl = totalEmployees / grandTotalAll,
+    pctOfStudyEmpl = studyEmployees / grandTotalStudy
+  ) %>%
+  mutate(
+    pctIncluded = sprintf("%.1f%%", pctIncluded * 100),
+    pctOfAllEmpl = sprintf("%.1f%%", pctOfAllEmpl * 100),
+    pctOfStudyEmpl = sprintf("%.1f%%", pctOfStudyEmpl * 100)
   ) %>%
   dplyr::select(
-    `Bargaining unit` = BU_Desc,
-    `Total employees` = totalEmployees,
-    `Study employees` = studyEmployees,
-    `Percent included` = pctIncluded
+    'Bargaining unit' = BU_Desc,
+    'Total employees' = totalEmployees,
+    'Percent of all employees' = pctOfAllEmpl,
+    'Study employees' = studyEmployees,
+    'Percent of all employees included' = pctOfStudyEmpl,
+    'Percent of BU included' = pctIncluded
   ) %>%
   kable(
     format = "html",  # use "latex" if you're compiling to PDF
     caption = "Relative inclusion of employees in the salary study by bargaining unit",
-    align = "lrrr"
+    align = "lrrrrr"
   ) %>%
   kable_styling(
     full_width = FALSE,
@@ -189,7 +205,7 @@ combinedBUComparison %>%
   ) %>%
   kable(
     format = "html",  # use "latex" if you're compiling to PDF
-    caption = "Bargianing units not included",
+    caption = "Bargaining units not included",
     align = "lr"
   ) %>%
   kable_styling(
