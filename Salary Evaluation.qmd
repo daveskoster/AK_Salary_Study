@@ -11,6 +11,7 @@ library(dplyr)
 #install.packages("arrow")
 library(arrow)
 library(knitr)
+library(kableExtra)
 
 rm(list = ls())
 
@@ -20,9 +21,53 @@ full_p65 <- read_parquet("full_p65_with_nearest.parquet")
 classOutline <- read.csv("classOutline.csv")
 missingCount <- read.csv("missing_class_count.csv")
 
+# Create BU description table.
+BU = c("AA",
+"AP",
+"BB",
+"CC",
+"EE",
+"GC",
+"GG",
+"KK",
+"LL",
+"MM",
+"SS",
+"TA",
+"TM",
+"XA",
+"XE",
+"XJ",
+"XL",
+"XP")
+BU_Desc = c("PSEA Public Safety Officers",
+"PSEA Airport Police & Fire Officers",
+"National Marine Engineers' Beneficial Association",
+"Masters, Mates & Pilots",
+"Executive Branch Employees Excluded from Existing Units",
+"ACOA Correctional Officers Unit",
+"ASEA General Government (GG/GP/GY/GZ)",
+"CEA Confidential Employees",
+"LTC Labor, Trades & Crafts",
+"Inlandboatmen's Union",
+"APEA Supervisory",
+"Alaska Vocational Technical Teacher Association",
+"Teachers' Education Association of Mt. Edgecumbe",
+"Alaska Aerospace Corporation",
+"Partially Exempt & Exempt Executive Branch Employees / Postsecondary Education",
+"Judicial Branch Exempt Employees / Judicial Branch (Judges)",
+"Legislative Branch Employees",
+"Attorneys and legal employees")
+
+buLookup <- data.frame(BU, BU_Desc)
+
 ```
 
 ```{r organize and prep data}
+
+# Re-label some of the BU designations.
+filledPositions$BU[filledPositions$BU %in%
+                     c("GG", "GP", "GY", "GZ")] = "GG"
 
 # BU wasn't repeated in the salary study. 
 posCount <- filledPositions %>%
@@ -63,9 +108,9 @@ filledPositions_withRange <- filledPositions %>%
 
 In 2024, the Legislature of the State of Alaska Commissioned a salary study to ...
 
-## What was included?
+## Understanding the data
 
-The salary study conducted by The Segal Group included 403 positions descriptions. This group includes 36 positions that either have not been allocated or are not currently occupied. The occupied positions included cover 7350 active employees out of roughly 17,100 positions (43%). Of these 17,000 positions, just over 14,300 are described by the SoA Class outline. (https://doa.alaska.gov/dop/classification/classOutline/classOutline.xlsx). The remaining 2,700 employees, consisting largely of executive judicial, legislative, labor, trades, along with many non-classified positions. 
+The salary study conducted by The Segal Group included 403 positions descriptions. This group includes 36 positions that either have not been allocated or are not currently occupied. The occupied positions included cover 7350 active employees out of roughly 17,100 positions (43%). Of these 17,000 positions, just over 14,300 are described by the SoA Class outline. (https://doa.alaska.gov/dop/classification/classOutline/classOutline.xlsx). The remaining 2,700 employees, consisting largely of executive judicial, legislative, labor, trades, along with many non-classified positions.
 
 ```{r supporting code for above statement}
 
@@ -88,13 +133,69 @@ EmplCovered <- full_p65 %>%
 
 ```
 
-## What is not included?
+## Comparing the information
 
 Among the 14,300 state employees holding positions described in the SoA Class outline
 
+
 ```{r}
 
+studyEmplByBU <- full_p65 %>%
+  filter(step == "A") %>%
+  group_by(BU) %>%
+  summarize(studyEmployees = sum(nMatches, na.rm=TRUE)) %>%
+  ungroup()
 
+employedByBU <- filledPositions %>%
+  group_by(BU) %>%
+  summarize(totalEmployees = n()) %>%
+  ungroup()
+
+combinedBUComparison <- employedByBU %>%
+  left_join(studyEmplByBU, by=c("BU"))
+
+combinedBUComparison <- combinedBUComparison %>%
+  mutate(
+    pctIncluded = studyEmployees / totalEmployees
+  ) %>%
+  left_join(buLookup, by=c("BU"))
+
+combinedBUComparison %>%
+  filter(!is.na(pctIncluded)) %>%
+  mutate(
+    pctIncluded = sprintf("%.1f%%", pctIncluded * 100)
+  ) %>%
+  dplyr::select(
+    `Bargaining unit` = BU_Desc,
+    `Total employees` = totalEmployees,
+    `Study employees` = studyEmployees,
+    `Percent included` = pctIncluded
+  ) %>%
+  kable(
+    format = "html",  # use "latex" if you're compiling to PDF
+    caption = "Relative inclusion of employees in the salary study by bargaining unit",
+    align = "lrrr"
+  ) %>%
+  kable_styling(
+    full_width = FALSE,
+    bootstrap_options = c("striped", "hover", "condensed", "responsive")
+  )
+
+combinedBUComparison %>%
+  filter(is.na(pctIncluded)) %>%
+  dplyr::select(
+    `Bargaining unit` = BU_Desc,
+    `Total employees` = totalEmployees,
+  ) %>%
+  kable(
+    format = "html",  # use "latex" if you're compiling to PDF
+    caption = "Bargianing units not included",
+    align = "lr"
+  ) %>%
+  kable_styling(
+    full_width = FALSE,
+    bootstrap_options = c("striped", "hover", "condensed", "responsive")
+  )
 
 ```
 
