@@ -16,6 +16,10 @@ library(knitr)
 library(kableExtra)
 library(stats)
 
+#install.packages(c("cluster", "factoextra"))
+library(cluster)
+library(factoextra)
+
 rm(list = ls())
 
 filledPositions <- read.csv("filled_positions_info.csv")
@@ -344,6 +348,10 @@ diff.lm = lm(pctDifference ~ family + original_range + BU, full_p65)
 AIC(diff.lm)
 
 diff.lm = lm(pctDifference ~ family + original_range + BU + step + schedule, full_p65)
+#summary(diff.lm)
+AIC(diff.lm)
+
+diff.lm = lm(pctDifference ~ family + original_range + BU + step + schedule, full_p65)
 summary(diff.lm)
 AIC(diff.lm)
 
@@ -353,6 +361,57 @@ AIC(diff.lm)
 #BU = "GP"
 #step = "F"
 
+```
+
+```{r clustering}
+
+full_p65$BU = as.factor(full_p65$BU)
+
+# get rid of NA
+full_p65 <- filter(full_p65, !is.na(pctDifference))
+
+# Convert step to years of experience
+full_p65$longevity = 0 # Step A.
+full_p65$longevity[full_p65$step == "E"] = 4
+full_p65$longevity[full_p65$step == "F"] = 5
+full_p65$longevity[full_p65$step == "O"] = 17 #Split the difference.
+
+gower_dist <- daisy(full_p65[, c("original_range", "BU", "pctDifference", "longevity")], metric = "gower")
+
+sil_width <- c()
+for (k in 2:10) {
+  pam_fit <- pam(gower_dist, diss = TRUE, k = k)
+  sil_width[k] <- pam_fit$silinfo$avg.width
+}
+
+plot(2:10, sil_width[2:10], type = "b",
+     xlab = "Number of Clusters", ylab = "Average Silhouette Width",
+     main = "Optimal Clusters Using Silhouette")
+
+# Use best from above (6)
+best_k <- which.max(sil_width)
+pam_fit <- pam(gower_dist, diss = TRUE, k = best_k)  
+full_p65$cluster <- factor(pam_fit$clustering)
+
+pca_data <- full_p65 %>%
+  select(original_range, pctDifference, longevity) %>%
+  #filter(!is.na(pctDifference)) %>%
+  scale() 
+
+pca_result <- prcomp(pca_data)
+
+pca_df <- as.data.frame(pca_result$x[, 1:2])  # First two components
+
+# Add cluster assignments from pam_fit
+pca_df$cluster <- factor(pam_fit$clustering)
+
+ggplot(pca_df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point(size = 3, alpha = 0.8) +
+  theme_minimal() +
+  labs(title = "PCA Plot of Clusters",
+       x = "Principal Component 1",
+       y = "Principal Component 2",
+       color = "Cluster")
 
 
 ```
