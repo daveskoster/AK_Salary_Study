@@ -1,1108 +1,1048 @@
 BU,code,title,step,original_range,nearest_range,range_change
-XE,PA0112,Division Director ‐ PX,A,27,30,3
-XE,PA0112,Division Director ‐ PX,F,27,30,3
-XE,PA0112,Division Director ‐ PX,O,27,30,3
-SS,PA0113,Division Operations Manager,A,24,24,0
-SS,PA0113,Division Operations Manager,E,24,25,1
-SS,PA0113,Division Operations Manager,O,24,24,0
-GP,PB0102,Office Assistant 1,A,8,12,4
-GP,PB0102,Office Assistant 1,F,8,11,3
-GP,PB0102,Office Assistant 1,O,8,9,1
-XE,PB0130,Secretary,A,11,15,4
-XE,PB0130,Secretary,F,11,14,3
-XE,PB0130,Secretary,O,11,13,2
-XE,PB0137,Executive Secretary 3,A,16,19,3
-XE,PB0137,Executive Secretary 3,F,16,19,3
-XE,PB0137,Executive Secretary 3,O,16,18,2
-GP,PB0152,Administrative Assistant 2,A,14,13,-1
-GP,PB0152,Administrative Assistant 2,F,14,13,-1
-GP,PB0152,Administrative Assistant 2,O,14,13,-1
-SS,PB0154,Administrative Officer 1,A,17,17,0
-SS,PB0154,Administrative Officer 1,E,17,17,0
-SS,PB0154,Administrative Officer 1,O,17,16,-1
-SS,PB0157,Administrative Operations Manager 1,A,22,20,-2
-SS,PB0157,Administrative Operations Manager 1,E,22,21,-1
-SS,PB0157,Administrative Operations Manager 1,O,22,21,-1
-GP,PB0202,Accounting Clerk,A,10,12,2
-GP,PB0202,Accounting Clerk,F,10,11,1
-GP,PB0202,Accounting Clerk,O,10,11,1
-GP,PB0206,Accounting Technician 2,A,14,15,1
-GP,PB0206,Accounting Technician 2,F,14,15,1
-GP,PB0206,Accounting Technician 2,O,14,14,0
-GP,PB0212,Accountant 2,A,16,19,3
-GP,PB0212,Accountant 2,F,16,18,2
-GP,PB0212,Accountant 2,O,16,16,0
-SS,PB0214,Accountant 4,A,20,19,-1
-SS,PB0214,Accountant 4,E,20,21,1
-SS,PB0214,Accountant 4,O,20,20,0
-KK,PB0230,Payroll Manager,A,22,23,1
-KK,PB0230,Payroll Manager,F,22,23,1
-KK,PB0230,Payroll Manager,O,22,23,1
-KK,PB0231,Payroll Specialist 1,A,16,18,2
-KK,PB0231,Payroll Specialist 1,F,16,17,1
-KK,PB0231,Payroll Specialist 1,O,16,16,0
-GP,PB0243,Budget Analyst 2,A,19,21,2
-GP,PB0243,Budget Analyst 2,F,19,21,2
-GP,PB0243,Budget Analyst 2,O,19,19,0
-SS,PB0245,Budget Analyst 4,A,22,25,3
-SS,PB0245,Budget Analyst 4,E,22,24,2
-SS,PB0245,Budget Analyst 4,O,22,23,1
-KK,PB0303,Human Resource Technician 2,A,14,15,1
-KK,PB0303,Human Resource Technician 2,F,14,15,1
-KK,PB0303,Human Resource Technician 2,O,14,14,0
-KK,PB0305,Payroll Services Supervisor,A,17,18,1
-KK,PB0305,Payroll Services Supervisor,F,17,19,2
-KK,PB0305,Payroll Services Supervisor,O,17,18,1
-KK,PB0311,Human Resource Consultant 1,A,16,18,2
-KK,PB0311,Human Resource Consultant 1,F,16,19,3
-KK,PB0311,Human Resource Consultant 1,O,16,18,2
-KK,PB0315,Human Resource Consultant 5,A,22,24,2
-KK,PB0315,Human Resource Consultant 5,F,22,24,2
-KK,PB0315,Human Resource Consultant 5,O,22,23,1
-KK,PB0322,Labor Relations Analyst 2,A,20,20,0
-KK,PB0322,Labor Relations Analyst 2,F,20,19,-1
-KK,PB0322,Labor Relations Analyst 2,O,20,18,-2
-XE,PB0325,Labor Relations Manager,A,24,26,2
-XE,PB0325,Labor Relations Manager,F,24,28,4
-XE,PB0325,Labor Relations Manager,O,24,27,3
-GP,PB0333,Retirement and Benefits Technician 2,A,14,16,2
-GP,PB0333,Retirement and Benefits Technician 2,F,14,17,3
-GP,PB0333,Retirement and Benefits Technician 2,O,14,15,1
-GP,PB0341,Retirement and Benefits Specialist 1,A,16,18,2
-GP,PB0341,Retirement and Benefits Specialist 1,F,16,18,2
-GP,PB0341,Retirement and Benefits Specialist 1,O,16,17,1
-KK,PB0351,Alaska Marine Highway System Dispatcher,A,15,15,0
-KK,PB0351,Alaska Marine Highway System Dispatcher,F,15,14,-1
-KK,PB0351,Alaska Marine Highway System Dispatcher,O,15,12,-3
-GP,PB0496,GIS Analyst 2,A,17,19,2
-GP,PB0496,GIS Analyst 2,F,17,18,1
-GP,PB0496,GIS Analyst 2,O,17,17,0
-GP,PB0503,Statistical Technician 2,A,14,18,4
-GP,PB0503,Statistical Technician 2,F,14,17,3
-GP,PB0503,Statistical Technician 2,O,14,15,1
-GP,PB0511,Research Analyst 1,A,13,17,4
-GP,PB0511,Research Analyst 1,F,13,16,3
-GP,PB0511,Research Analyst 1,O,13,15,2
-GP,PB0512,Research Analyst 2,A,16,19,3
-GP,PB0512,Research Analyst 2,F,16,18,2
-GP,PB0512,Research Analyst 2,O,16,17,1
-GP,PB0513,Research Analyst 3,A,18,21,3
-GP,PB0513,Research Analyst 3,F,18,21,3
-GP,PB0513,Research Analyst 3,O,18,20,2
-SS,PB0514,Research Analyst 4,A,21,27,6
-SS,PB0514,Research Analyst 4,E,21,26,5
-SS,PB0514,Research Analyst 4,O,21,24,3
-SS,PB0540,"Chief, Health Analytics and Vital Records",A,22,26,4
-SS,PB0540,"Chief, Health Analytics and Vital Records",E,22,26,4
-SS,PB0540,"Chief, Health Analytics and Vital Records",O,22,25,3
-GP,PB0551,Demographer,A,19,,
-GP,PB0551,Demographer,F,19,,
-GP,PB0551,Demographer,O,19,,
-SS,PB0552,State Demographer,A,22,,
-SS,PB0552,State Demographer,E,22,,
-SS,PB0552,State Demographer,O,22,,
-GP,PB0611,Supply Technician 1,A,10,13,3
-GP,PB0611,Supply Technician 1,F,10,12,2
-GP,PB0611,Supply Technician 1,O,10,10,0
-GP,PB0622,Contracting Officer 2,A,16,17,1
-GP,PB0622,Contracting Officer 2,F,16,18,2
-GP,PB0622,Contracting Officer 2,O,16,16,0
-SS,PB0624,Contracting Officer 4,A,22,24,2
-SS,PB0624,Contracting Officer 4,E,22,24,2
-SS,PB0624,Contracting Officer 4,O,22,24,2
-GP,PB0632,Procurement Specialist 2,A,16,17,1
-GP,PB0632,Procurement Specialist 2,F,16,18,2
-GP,PB0632,Procurement Specialist 2,O,16,16,0
-SS,PB0635,Procurement Specialist 5,A,21,21,0
-SS,PB0635,Procurement Specialist 5,E,21,22,1
-SS,PB0635,Procurement Specialist 5,O,21,21,0
-XE,PB0701,State Chief Information Officer,A,28,30,2
-XE,PB0701,State Chief Information Officer,F,28,30,2
-XE,PB0701,State Chief Information Officer,O,28,30,2
-XE,PB0702,Deputy Chief Information Officer,A,27,30,3
-XE,PB0702,Deputy Chief Information Officer,F,27,30,3
-XE,PB0702,Deputy Chief Information Officer,O,27,30,3
-XE,PB0707,Chief Technology Officer 3,A,26,30,4
-XE,PB0707,Chief Technology Officer 3,F,26,30,4
-XE,PB0707,Chief Technology Officer 3,O,26,30,4
-XE,PB0709,"Staff Manager, OIT",A,25,29,4
-XE,PB0709,"Staff Manager, OIT",F,25,28,3
-XE,PB0709,"Staff Manager, OIT",O,25,27,2
-SS,PB0712,Department Technology Officer 2,A,24,27,3
-SS,PB0712,Department Technology Officer 2,E,24,27,3
-SS,PB0712,Department Technology Officer 2,O,24,27,3
-SS,PB0725,P3 Manager,A,24,27,3
-SS,PB0725,P3 Manager,E,24,27,3
-SS,PB0725,P3 Manager,O,24,26,2
-GP,PB07A3,Application Developer 3,A,22,25,3
-GP,PB07A3,Application Developer 3,F,22,24,2
-GP,PB07A3,Application Developer 3,O,22,23,1
-GP,PB07B2,IT Business Analyst 2,A,21,23,2
-GP,PB07B2,IT Business Analyst 2,F,21,22,1
-GP,PB07B2,IT Business Analyst 2,O,21,21,0
-GP,PB07C2,IT Client Support Specialist 2,A,16,18,2
-GP,PB07C2,IT Client Support Specialist 2,F,16,17,1
-GP,PB07C2,IT Client Support Specialist 2,O,16,16,0
-GP,PB07D2,Database Administrator 2,A,23,24,1
-GP,PB07D2,Database Administrator 2,F,23,24,1
-GP,PB07D2,Database Administrator 2,O,23,22,-1
-GP,PB07E1,IT Support Technician 1,A,13,16,3
-GP,PB07E1,IT Support Technician 1,F,13,16,3
-GP,PB07E1,IT Support Technician 1,O,13,15,2
-SS,PB07J2,IT Project Manager 2,A,24,23,-1
-SS,PB07J2,IT Project Manager 2,E,24,24,0
-SS,PB07J2,IT Project Manager 2,O,24,24,0
-SS,PB07M1,IT Manager 1,A,23,24,1
-SS,PB07M1,IT Manager 1,E,23,26,3
-SS,PB07M1,IT Manager 1,O,23,26,3
-GP,PB07N2,Network and Telecommunications Specialist 2,A,21,23,2
-GP,PB07N2,Network and Telecommunications Specialist 2,F,21,22,1
-GP,PB07N2,Network and Telecommunications Specialist 2,O,21,21,0
-SS,PB07P1,IT Policy and Planning Analyst 1,A,23,20,-3
-SS,PB07P1,IT Policy and Planning Analyst 1,E,23,22,-1
-SS,PB07P1,IT Policy and Planning Analyst 1,O,23,22,-1
-GP,PB07R1,IT Architecture Specialist 1,A,24,27,3
-GP,PB07R1,IT Architecture Specialist 1,F,24,27,3
-GP,PB07R1,IT Architecture Specialist 1,O,24,25,1
-GP,PB07S1,IT Security Specialist 1,A,24,25,1
-GP,PB07S1,IT Security Specialist 1,F,24,25,1
-GP,PB07S1,IT Security Specialist 1,O,24,23,-1
-GP,PB07U2,IT Quality Assurance Analyst 2,A,21,23,2
-GP,PB07U2,IT Quality Assurance Analyst 2,F,21,23,2
-GP,PB07U2,IT Quality Assurance Analyst 2,O,21,21,0
-GP,PB07V2,IT Vendor Manager 2,A,20,22,2
-GP,PB07V2,IT Vendor Manager 2,F,20,21,1
-GP,PB07V2,IT Vendor Manager 2,O,20,20,0
-GP,PB07Y2,IT Systems Administrator 2,A,23,24,1
-GP,PB07Y2,IT Systems Administrator 2,F,23,23,0
-GP,PB07Y2,IT Systems Administrator 2,O,23,21,-2
-GP,PB9908,Project Assistant,A,16,15,-1
-GP,PB9908,Project Assistant,F,16,15,-1
-GP,PB9908,Project Assistant,O,16,14,-2
-GP,PB9909,Program Coordinator 1,A,18,18,0
-GP,PB9909,Program Coordinator 1,F,18,19,1
-GP,PB9909,Program Coordinator 1,O,18,18,0
-SS,PB9912,Program Manager,A,22,22,0
-SS,PB9912,Program Manager,E,22,23,1
-SS,PB9912,Program Manager,O,22,23,1
-GP,PB9915,Business Services Project Manager 1,A,20,21,1
-GP,PB9915,Business Services Project Manager 1,F,20,21,1
-GP,PB9915,Business Services Project Manager 1,O,20,20,0
-GP,PC0102,Grants Administrator 2,A,17,19,2
-GP,PC0102,Grants Administrator 2,F,17,20,3
-GP,PC0102,Grants Administrator 2,O,17,19,2
-SS,PC0105,Grants Administration Manager,A,21,21,0
-SS,PC0105,Grants Administration Manager,E,21,22,1
-SS,PC0105,Grants Administration Manager,O,21,22,1
-GP,PC0112,Loan Closer/Processor 2,A,12,13,1
-GP,PC0112,Loan Closer/Processor 2,F,12,13,1
-GP,PC0112,Loan Closer/Processor 2,O,12,11,-1
-GP,PC0121,Loan/Collection Officer 1,A,16,14,-2
-GP,PC0121,Loan/Collection Officer 1,F,16,14,-2
-GP,PC0121,Loan/Collection Officer 1,O,16,12,-4
-SS,PC0125,Loan/Collection Manager,A,22,23,1
-SS,PC0125,Loan/Collection Manager,E,22,23,1
-SS,PC0125,Loan/Collection Manager,O,22,22,0
-GP,PC0132,School Finance Specialist 2,A,18,20,2
-GP,PC0132,School Finance Specialist 2,F,18,21,3
-GP,PC0132,School Finance Specialist 2,O,18,20,2
-SS,PC0135,School Finance Manager,A,23,24,1
-SS,PC0135,School Finance Manager,E,23,24,1
-SS,PC0135,School Finance Manager,O,23,25,2
-GP,PC0206,Insurance Licensing Examiner 2,A,14,15,1
-GP,PC0206,Insurance Licensing Examiner 2,F,14,14,0
-GP,PC0206,Insurance Licensing Examiner 2,O,14,13,-1
-SS,PC0209,Records and Licensing Supervisor,A,16,18,2
-SS,PC0209,Records and Licensing Supervisor,E,16,20,4
-SS,PC0209,Records and Licensing Supervisor,O,16,20,4
-GP,PC0220,Financial Registration Examiner,A,14,12,-2
-GP,PC0220,Financial Registration Examiner,F,14,14,0
-GP,PC0220,Financial Registration Examiner,O,14,13,-1
-GP,PC0233,Insurance Specialist 2,A,19,19,0
-GP,PC0233,Insurance Specialist 2,F,19,20,1
-GP,PC0233,Insurance Specialist 2,O,19,19,0
-GP,PC0237,Insurance Financial Examiner 2,A,21,22,1
-GP,PC0237,Insurance Financial Examiner 2,F,21,21,0
-GP,PC0237,Insurance Financial Examiner 2,O,21,19,-2
-GP,PC0252,Utility Financial Analyst 2,A,19,23,4
-GP,PC0252,Utility Financial Analyst 2,F,19,22,3
-GP,PC0252,Utility Financial Analyst 2,O,19,20,1
-SS,PC0254,Utility Financial Analyst 4,A,23,25,2
-SS,PC0254,Utility Financial Analyst 4,E,23,24,1
-SS,PC0254,Utility Financial Analyst 4,O,23,23,0
-GP,PC0257,Utility Tariff Analyst 2,A,18,22,4
-GP,PC0257,Utility Tariff Analyst 2,F,18,22,4
-GP,PC0257,Utility Tariff Analyst 2,O,18,21,3
-GP,PC0261,Community Care Licensing Specialist 1,A,16,16,0
-GP,PC0261,Community Care Licensing Specialist 1,F,16,16,0
-GP,PC0261,Community Care Licensing Specialist 1,O,16,15,-1
-SS,PC0263,Community Care Licensing Specialist 3,A,20,20,0
-SS,PC0263,Community Care Licensing Specialist 3,E,20,21,1
-SS,PC0263,Community Care Licensing Specialist 3,O,20,20,0
-GP,PC0272,Financial Examiner 2,A,19,21,2
-GP,PC0272,Financial Examiner 2,F,19,20,1
-GP,PC0272,Financial Examiner 2,O,19,19,0
-SS,PC0274,Financial Examiner 4,A,23,22,-1
-SS,PC0274,Financial Examiner 4,E,23,23,0
-SS,PC0274,Financial Examiner 4,O,23,22,-1
-GP,PC02A2,Licensing Examiner 2,A,15,14,-1
-GP,PC02A2,Licensing Examiner 2,F,15,15,0
-GP,PC02A2,Licensing Examiner 2,O,15,14,-1
-GP,PC0302,Commercial Vehicle Compliance Inspector 2,A,15,17,2
-GP,PC0302,Commercial Vehicle Compliance Inspector 2,F,15,17,2
-GP,PC0302,Commercial Vehicle Compliance Inspector 2,O,15,16,1
-SS,PC0305,Commercial Vehicle Compliance Inspector 5,A,19,20,1
-SS,PC0305,Commercial Vehicle Compliance Inspector 5,E,19,21,2
-SS,PC0305,Commercial Vehicle Compliance Inspector 5,O,19,20,1
-GP,PC0310,Radiological Health Physicist 1,A,19,24,5
-GP,PC0310,Radiological Health Physicist 1,F,19,23,4
-GP,PC0310,Radiological Health Physicist 1,O,19,21,2
-GP,PC0321,Industrial Hygienist,A,19,23,4
-GP,PC0321,Industrial Hygienist,F,19,22,3
-GP,PC0321,Industrial Hygienist,O,19,21,2
-GP,PC0323,Safety Officer,A,18,21,3
-GP,PC0323,Safety Officer,F,18,21,3
-GP,PC0323,Safety Officer,O,18,20,2
-SS,PC0324,Occupational Health and Safety Analyst,A,20,20,0
-SS,PC0324,Occupational Health and Safety Analyst,E,20,20,0
-SS,PC0324,Occupational Health and Safety Analyst,O,20,19,-1
-SS,PC0325,Occupational Safety & Health Manager,A,22,22,0
-SS,PC0325,Occupational Safety & Health Manager,E,22,24,2
-SS,PC0325,Occupational Safety & Health Manager,O,22,23,1
-GP,PC0338,Boiler and Pressure Vessel Inspector 1,A,19,19,0
-GP,PC0338,Boiler and Pressure Vessel Inspector 1,F,19,18,-1
-GP,PC0338,Boiler and Pressure Vessel Inspector 1,O,19,17,-2
-SS,PC0339,Boiler and Pressure Vessel Inspector 2,A,20,19,-1
-SS,PC0339,Boiler and Pressure Vessel Inspector 2,E,20,19,-1
-SS,PC0339,Boiler and Pressure Vessel Inspector 2,O,20,18,-2
-SS,PC0345,Mechanical Inspection Manager,A,22,23,1
-SS,PC0345,Mechanical Inspection Manager,E,22,23,1
-SS,PC0345,Mechanical Inspection Manager,O,22,23,1
-GP,PC0352,Weights and Measures Inspector 2,A,16,18,2
-GP,PC0352,Weights and Measures Inspector 2,F,16,17,1
-GP,PC0352,Weights and Measures Inspector 2,O,16,15,-1
-SS,PC0355,Measurement Standards Supervisor,A,18,,
-SS,PC0355,Measurement Standards Supervisor,E,18,,
-SS,PC0355,Measurement Standards Supervisor,O,18,,
-SS,PC0360,"Chief, Weights, Measures, and Permits",A,22,21,-1
-SS,PC0360,"Chief, Weights, Measures, and Permits",E,22,23,1
-SS,PC0360,"Chief, Weights, Measures, and Permits",O,22,22,0
-GP,PC0362,State Metrologist 2,A,18,22,4
-GP,PC0362,State Metrologist 2,F,18,21,3
-GP,PC0362,State Metrologist 2,O,18,19,1
-GP,PC0401,Environmental Health Technician,A,13,14,1
-GP,PC0401,Environmental Health Technician,F,13,13,0
-GP,PC0401,Environmental Health Technician,O,13,12,-1
-GP,PC0412,Environmental Health Officer 2,A,16,18,2
-GP,PC0412,Environmental Health Officer 2,F,16,18,2
-GP,PC0412,Environmental Health Officer 2,O,16,17,1
-SS,PC0414,Environmental Health Officer 4,A,20,20,0
-SS,PC0414,Environmental Health Officer 4,E,20,22,2
-SS,PC0414,Environmental Health Officer 4,O,20,22,2
-GP,PC0503,Tax Technician 3,A,14,16,2
-GP,PC0503,Tax Technician 3,F,14,16,2
-GP,PC0503,Tax Technician 3,O,14,16,2
-SS,PC0504,Tax Technician 4,A,16,25,9
-SS,PC0504,Tax Technician 4,E,16,25,9
-SS,PC0504,Tax Technician 4,O,16,23,7
-GP,PC0513,Tax Auditor 3,A,20,22,2
-GP,PC0513,Tax Auditor 3,F,20,21,1
-GP,PC0513,Tax Auditor 3,O,20,20,0
-SS,PC0522,Revenue Audit Supervisor 2,A,25,21,-4
-SS,PC0522,Revenue Audit Supervisor 2,E,25,23,-2
-SS,PC0522,Revenue Audit Supervisor 2,O,25,22,-3
-GP,PC0532,Revenue Appeals Officer 2,A,25,21,-4
-GP,PC0532,Revenue Appeals Officer 2,F,25,22,-3
-GP,PC0532,Revenue Appeals Officer 2,O,25,21,-4
-SS,PC0533,Revenue Appeals Supervisor,A,26,21,-5
-SS,PC0533,Revenue Appeals Supervisor,E,26,23,-3
-SS,PC0533,Revenue Appeals Supervisor,O,26,24,-2
-GP,PC0543,Oil and Gas Revenue Auditor 3,A,22,24,2
-GP,PC0543,Oil and Gas Revenue Auditor 3,F,22,23,1
-GP,PC0543,Oil and Gas Revenue Auditor 3,O,22,22,0
-GP,PC0545,Oil and Gas Revenue Specialist,A,25,27,2
-GP,PC0545,Oil and Gas Revenue Specialist,F,25,27,2
-GP,PC0545,Oil and Gas Revenue Specialist,O,25,24,-1
-GP,PC0553,Corporate Income Tax Auditor 3,A,22,24,2
-GP,PC0553,Corporate Income Tax Auditor 3,F,22,23,1
-GP,PC0553,Corporate Income Tax Auditor 3,O,22,21,-1
-GP,PC0563,Audit and Review Analyst 2,A,21,19,-2
-GP,PC0563,Audit and Review Analyst 2,F,21,19,-2
-GP,PC0563,Audit and Review Analyst 2,O,21,18,-3
-SS,PC0565,Audit and Review Analyst 4,A,25,27,2
-SS,PC0565,Audit and Review Analyst 4,E,25,26,1
-SS,PC0565,Audit and Review Analyst 4,O,25,24,-1
-GP,PD0103,Local Government Specialist 3,A,17,17,0
-GP,PD0103,Local Government Specialist 3,F,17,19,2
-GP,PD0103,Local Government Specialist 3,O,17,19,2
-GP,PD0122,Regulations Specialist 2,A,16,17,1
-GP,PD0122,Regulations Specialist 2,F,16,17,1
-GP,PD0122,Regulations Specialist 2,O,16,16,0
-GP,PD0202,Economist 2,A,18,27,9
-GP,PD0202,Economist 2,F,18,27,9
-GP,PD0202,Economist 2,O,18,24,6
-GP,PD0222,Petroleum Economist 2,A,22,27,5
-GP,PD0222,Petroleum Economist 2,F,22,27,5
-GP,PD0222,Petroleum Economist 2,O,22,25,3
-GP,PD0332,Planner 2,A,17,19,2
-GP,PD0332,Planner 2,F,17,19,2
-GP,PD0332,Planner 2,O,17,17,0
-GP,PD0341,Transportation Planner 1,A,21,21,0
-GP,PD0341,Transportation Planner 1,F,21,21,0
-GP,PD0341,Transportation Planner 1,O,21,20,-1
-SS,PD0342,Transportation Planner 2,A,22,22,0
-SS,PD0342,Transportation Planner 2,E,22,23,1
-SS,PD0342,Transportation Planner 2,O,22,22,0
-GP,PD0412,Emergency Management Specialist 2,A,16,22,6
-GP,PD0412,Emergency Management Specialist 2,F,16,22,6
-GP,PD0412,Emergency Management Specialist 2,O,16,20,4
-SS,PD0421,Emergency Program Manager 1,A,20,22,2
-SS,PD0421,Emergency Program Manager 1,E,20,23,3
-SS,PD0421,Emergency Program Manager 1,O,20,23,3
-GP,PD0442,Emergency Services Dispatcher 1,A,15,14,-1
-GP,PD0442,Emergency Services Dispatcher 1,F,15,15,0
-GP,PD0442,Emergency Services Dispatcher 1,O,15,14,-1
-SS,PD0450,Emergency Dispatch Supervisor,A,18,18,0
-SS,PD0450,Emergency Dispatch Supervisor,E,18,19,1
-SS,PD0450,Emergency Dispatch Supervisor,O,18,19,1
-SS,PD0473,State Logistics Center Coordinator,A,16,23,7
-SS,PD0473,State Logistics Center Coordinator,E,16,22,6
-SS,PD0473,State Logistics Center Coordinator,O,16,21,5
-GP,PD04A3,Wildland Fire Dispatcher 3,A,15,15,0
-GP,PD04A3,Wildland Fire Dispatcher 3,F,15,14,-1
-GP,PD04A3,Wildland Fire Dispatcher 3,O,15,12,-3
-XE,PD0501,Airport Manager ‐ Anchorage International Airport,A,25,28,3
-XE,PD0501,Airport Manager ‐ Anchorage International Airport,F,25,26,1
-XE,PD0501,Airport Manager ‐ Anchorage International Airport,O,25,25,0
-XE,PD0502,Airport Manager ‐ Fairbanks International Airport,A,24,24,0
-XE,PD0502,Airport Manager ‐ Fairbanks International Airport,F,24,24,0
-XE,PD0502,Airport Manager ‐ Fairbanks International Airport,O,24,23,-1
-XE,PD0505,International Airports Controller,A,24,29,5
-XE,PD0505,International Airports Controller,F,24,29,5
-XE,PD0505,International Airports Controller,O,24,26,2
-GP,PD0511,Airport Operations Officer,A,18,21,3
-GP,PD0511,Airport Operations Officer,F,18,20,2
-GP,PD0511,Airport Operations Officer,O,18,19,1
-GP,PD0512,Airport Operations Specialist,A,19,18,-1
-GP,PD0512,Airport Operations Specialist,F,19,18,-1
-GP,PD0512,Airport Operations Specialist,O,19,17,-2
-SS,PD0513,Airport Operations Superintendent,A,21,22,1
-SS,PD0513,Airport Operations Superintendent,E,21,23,2
-SS,PD0513,Airport Operations Superintendent,O,21,23,2
-GP,PD0562,Regional Safety and Airport Security Officer,A,18,20,2
-GP,PD0562,Regional Safety and Airport Security Officer,F,18,20,2
-GP,PD0562,Regional Safety and Airport Security Officer,O,18,19,1
-GP,PD0611,Ferry Terminal Agent 1,A,13,,
-GP,PD0611,Ferry Terminal Agent 1,F,13,,
-GP,PD0611,Ferry Terminal Agent 1,O,13,,
-SS,PD0615,Ferry Terminal Manager 1,A,15,18,3
-SS,PD0615,Ferry Terminal Manager 1,E,15,17,2
-SS,PD0615,Ferry Terminal Manager 1,O,15,15,0
-KK,PD0620,AMHS Dispatch Manager,A,18,17,-1
-KK,PD0620,AMHS Dispatch Manager,F,18,16,-2
-KK,PD0620,AMHS Dispatch Manager,O,18,15,-3
-SS,PD0632,Reservation Call Center Supervisor,A,16,19,3
-SS,PD0632,Reservation Call Center Supervisor,E,16,19,3
-SS,PD0632,Reservation Call Center Supervisor,O,16,18,2
-SS,PD0639,Marine Traffic Manager,A,23,20,-3
-SS,PD0639,Marine Traffic Manager,E,23,22,-1
-SS,PD0639,Marine Traffic Manager,O,23,21,-2
-XE,PD0642,Marine Pilot Coordinator,A,20,,
-XE,PD0642,Marine Pilot Coordinator,F,20,,
-XE,PD0642,Marine Pilot Coordinator,O,20,,
-GP,PD0643,Vessel Scheduling Coordinator,A,17,,
-GP,PD0643,Vessel Scheduling Coordinator,F,17,,
-GP,PD0643,Vessel Scheduling Coordinator,O,17,,
-GP,PD0644,Passenger Services Inspector,A,17,15,-2
-GP,PD0644,Passenger Services Inspector,F,17,16,-1
-GP,PD0644,Passenger Services Inspector,O,17,15,-2
-SS,PD0646,AMHS Passenger Services Manager,A,23,23,0
-SS,PD0646,AMHS Passenger Services Manager,E,23,22,-1
-SS,PD0646,AMHS Passenger Services Manager,O,23,21,-2
-SS,PD0653,Port Captain,A,23,,
-SS,PD0653,Port Captain,E,23,,
-SS,PD0653,Port Captain,O,23,,
-SS,PD0655,Port Engineer,A,22,24,2
-SS,PD0655,Port Engineer,E,22,24,2
-SS,PD0655,Port Engineer,O,22,23,1
-GP,PD0656,AMHS Safety Management Coordinator,A,19,16,-3
-GP,PD0656,AMHS Safety Management Coordinator,F,19,18,-1
-GP,PD0656,AMHS Safety Management Coordinator,O,19,18,-1
-SS,PD0669,Marine Engineering Assistant Manager,A,23,23,0
-SS,PD0669,Marine Engineering Assistant Manager,E,23,24,1
-SS,PD0669,Marine Engineering Assistant Manager,O,23,23,0
-XE,PD0670,Marine Transportation Services Manager,A,25,24,-1
-XE,PD0670,Marine Transportation Services Manager,F,25,24,-1
-XE,PD0670,Marine Transportation Services Manager,O,25,23,-2
-SS,PD0711,Equipment Fleet District Manager,A,20,20,0
-SS,PD0711,Equipment Fleet District Manager,E,20,21,1
-SS,PD0711,Equipment Fleet District Manager,O,20,21,1
-SS,PD0714,State Equipment Fleet Manager,A,23,23,0
-SS,PD0714,State Equipment Fleet Manager,E,23,23,0
-SS,PD0714,State Equipment Fleet Manager,O,23,23,0
-SS,PD0722,"Manager, Airfield Maintenance",A,22,21,-1
-SS,PD0722,"Manager, Airfield Maintenance",E,22,22,0
-SS,PD0722,"Manager, Airfield Maintenance",O,22,21,-1
-GP,PD0731,Maintenance and Operations Specialist,A,21,23,2
-GP,PD0731,Maintenance and Operations Specialist,F,21,23,2
-GP,PD0731,Maintenance and Operations Specialist,O,21,21,0
-SS,PD0732,Maintenance and Operations Superintendent,A,21,23,2
-SS,PD0732,Maintenance and Operations Superintendent,E,21,24,3
-SS,PD0732,Maintenance and Operations Superintendent,O,21,23,2
-SS,PD0733,Maintenance and Operations Manager,A,23,23,0
-SS,PD0733,Maintenance and Operations Manager,E,23,24,1
-SS,PD0733,Maintenance and Operations Manager,O,23,24,1
-GP,PD0810,Right‐of‐Way Assistant,A,12,13,1
-GP,PD0810,Right‐of‐Way Assistant,F,12,12,0
-GP,PD0810,Right‐of‐Way Assistant,O,12,11,-1
-GP,PD0812,Right‐of‐Way Agent 2,A,16,19,3
-GP,PD0812,Right‐of‐Way Agent 2,F,16,20,4
-GP,PD0812,Right‐of‐Way Agent 2,O,16,19,3
-SS,PD0815,Right‐of‐Way Agent 5,A,21,23,2
-SS,PD0815,Right‐of‐Way Agent 5,E,21,23,2
-SS,PD0815,Right‐of‐Way Agent 5,O,21,22,1
-GP,PD0821,Right‐of‐Way Review Appraiser 1,A,21,20,-1
-GP,PD0821,Right‐of‐Way Review Appraiser 1,F,21,22,1
-GP,PD0821,Right‐of‐Way Review Appraiser 1,O,21,22,1
-GP,PD0842,Appraiser 2,A,18,21,3
-GP,PD0842,Appraiser 2,F,18,21,3
-GP,PD0842,Appraiser 2,O,18,19,1
-SS,PD0850,State Assessor,A,23,24,1
-SS,PD0850,State Assessor,E,23,25,2
-SS,PD0850,State Assessor,O,23,24,1
-GP,PD0902,Building Management Specialist,A,19,21,2
-GP,PD0902,Building Management Specialist,F,19,21,2
-GP,PD0902,Building Management Specialist,O,19,20,1
-GP,PD0921,Facilities Manager 1,A,20,23,3
-GP,PD0921,Facilities Manager 1,F,20,22,2
-GP,PD0921,Facilities Manager 1,O,20,21,1
-GP,PD0942,Airport Leasing Specialist 2,A,16,20,4
-GP,PD0942,Airport Leasing Specialist 2,F,16,18,2
-GP,PD0942,Airport Leasing Specialist 2,O,16,16,0
-SS,PD0945,Airport Leasing Program Manager,A,22,22,0
-SS,PD0945,Airport Leasing Program Manager,E,22,22,0
-SS,PD0945,Airport Leasing Program Manager,O,22,21,-1
-XE,PD0951,State Leasing & Facilities Manager,A,25,23,-2
-XE,PD0951,State Leasing & Facilities Manager,F,25,23,-2
-XE,PD0951,State Leasing & Facilities Manager,O,25,24,-1
-SS,PE0101,Education Administrator 1,A,21,20,-1
-SS,PE0101,Education Administrator 1,E,21,20,-1
-SS,PE0101,Education Administrator 1,O,21,19,-2
-SS,PE0102,Education Administrator 2,A,22,23,1
-SS,PE0102,Education Administrator 2,E,22,22,0
-SS,PE0102,Education Administrator 2,O,22,21,-1
-GP,PE0110,Education Program Assistant,A,12,14,2
-GP,PE0110,Education Program Assistant,F,12,14,2
-GP,PE0110,Education Program Assistant,O,12,13,1
-GP,PE0112,Education Associate 2,A,15,16,1
-GP,PE0112,Education Associate 2,F,15,16,1
-GP,PE0112,Education Associate 2,O,15,14,-1
-GP,PE0121,Education Specialist 1,A,19,21,2
-GP,PE0121,Education Specialist 1,F,19,20,1
-GP,PE0121,Education Specialist 1,O,19,19,0
-GP,PE0140,Education Coordinator (Corrections),A,16,19,3
-GP,PE0140,Education Coordinator (Corrections),F,16,21,5
-GP,PE0140,Education Coordinator (Corrections),O,16,21,5
-GP,PE0210,Vocational Instructor,A,16,17,1
-GP,PE0210,Vocational Instructor,F,16,16,0
-GP,PE0210,Vocational Instructor,O,16,14,-2
-GP,PE0231,Training Specialist 1,A,16,17,1
-GP,PE0231,Training Specialist 1,F,16,16,0
-GP,PE0231,Training Specialist 1,O,16,14,-2
-SS,PE0233,Training Specialist 3,A,20,21,1
-SS,PE0233,Training Specialist 3,E,20,21,1
-SS,PE0233,Training Specialist 3,O,20,20,0
-GP,PE0251,AK Military Youth Academy (AMYA) Instructor,A,16,18,2
-GP,PE0251,AK Military Youth Academy (AMYA) Instructor,F,16,18,2
-GP,PE0251,AK Military Youth Academy (AMYA) Instructor,O,16,17,1
-GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,A,15,18,3
-GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,F,15,19,4
-GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,O,15,19,4
-GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,A,16,17,1
-GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,F,16,17,1
-GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,O,16,16,0
-SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,A,19,19,0
-SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,E,19,20,1
-SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,O,19,19,0
-SS,PE0259,AK Military Youth Academy (AMYA) Manager,A,23,22,-1
-SS,PE0259,AK Military Youth Academy (AMYA) Manager,E,23,22,-1
-SS,PE0259,AK Military Youth Academy (AMYA) Manager,O,23,21,-2
-GP,PE0310,Recreation Assistant,A,11,12,1
-GP,PE0310,Recreation Assistant,F,11,12,1
-GP,PE0310,Recreation Assistant,O,11,11,0
-GP,PE0320,Dormitory Attendant,A,11,12,1
-GP,PE0320,Dormitory Attendant,F,11,11,0
-GP,PE0320,Dormitory Attendant,O,11,11,0
-GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,A,13,16,3
-GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,F,13,16,3
-GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,O,13,15,2
-SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,A,15,16,1
-SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,E,15,17,2
-SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,O,15,17,2
-SS,PE0350,Aquatic Facility Manager,A,17,16,-1
-SS,PE0350,Aquatic Facility Manager,E,17,16,-1
-SS,PE0350,Aquatic Facility Manager,O,17,16,-1
-GP,PE0353,Lifeguard 2,A,11,11,0
-GP,PE0353,Lifeguard 2,F,11,10,-1
-GP,PE0353,Lifeguard 2,O,11,8,-3
-GP,PE0402,Library Assistant 2,A,13,17,4
-GP,PE0402,Library Assistant 2,F,13,17,4
-GP,PE0402,Library Assistant 2,O,13,15,2
-GP,PE0411,Librarian 1,A,16,18,2
-GP,PE0411,Librarian 1,F,16,18,2
-GP,PE0411,Librarian 1,O,16,17,1
-SS,PE0414,Librarian 4,A,22,22,0
-SS,PE0414,Librarian 4,E,22,23,1
-SS,PE0414,Librarian 4,O,22,22,0
-GP,PE0431,Records Analyst 2,A,18,17,-1
-GP,PE0431,Records Analyst 2,F,18,17,-1
-GP,PE0431,Records Analyst 2,O,18,16,-2
-GP,PE0441,Archivist 2,A,18,21,3
-GP,PE0441,Archivist 2,F,18,21,3
-GP,PE0441,Archivist 2,O,18,19,1
-SS,PE0443,State Archivist,A,22,24,2
-SS,PE0443,State Archivist,E,22,24,2
-SS,PE0443,State Archivist,O,22,23,1
-GP,PE0512,Museum Curator 2,A,18,22,4
-GP,PE0512,Museum Curator 2,F,18,21,3
-GP,PE0512,Museum Curator 2,O,18,19,1
-GP,PE0515,Museum Conservator,A,19,21,2
-GP,PE0515,Museum Conservator,F,19,20,1
-GP,PE0515,Museum Conservator,O,19,18,-1
-SS,PE0519,Chief Curator,A,22,22,0
-SS,PE0519,Chief Curator,E,22,24,2
-SS,PE0519,Chief Curator,O,22,23,1
-GP,PE0531,Archaeologist 1,A,16,19,3
-GP,PE0531,Archaeologist 1,F,16,18,2
-GP,PE0531,Archaeologist 1,O,16,16,0
-GP,PE0541,Historian 1,A,16,18,2
-GP,PE0541,Historian 1,F,16,18,2
-GP,PE0541,Historian 1,O,16,16,0
-SS,PE0550,"Chief, Office of History and Archaeology",A,21,23,2
-SS,PE0550,"Chief, Office of History and Archaeology",E,21,25,4
-SS,PE0550,"Chief, Office of History and Archaeology",O,21,23,2
-GP,PE0582,Subsistence Resource Specialist 2,A,16,,
-GP,PE0582,Subsistence Resource Specialist 2,F,16,,
-GP,PE0582,Subsistence Resource Specialist 2,O,16,,
-SS,PE0585,Subsistence Program Manager,A,22,20,-2
-SS,PE0585,Subsistence Program Manager,E,22,22,0
-SS,PE0585,Subsistence Program Manager,O,22,22,0
-GP,PE0611,Visual Information Specialist,A,17,19,2
-GP,PE0611,Visual Information Specialist,F,17,19,2
-GP,PE0611,Visual Information Specialist,O,17,18,1
-GP,PE0622,Publications Technician 2,A,13,17,4
-GP,PE0622,Publications Technician 2,F,13,18,5
-GP,PE0622,Publications Technician 2,O,13,16,3
-GP,PE0632,Publications Specialist 2,A,16,17,1
-GP,PE0632,Publications Specialist 2,F,16,17,1
-GP,PE0632,Publications Specialist 2,O,16,16,0
-GP,PE0642,Information Officer 2,A,17,20,3
-GP,PE0642,Information Officer 2,F,17,20,3
-GP,PE0642,Information Officer 2,O,17,18,1
-SS,PE0645,Department Communications Manager,A,22,23,1
-SS,PE0645,Department Communications Manager,E,22,23,1
-SS,PE0645,Department Communications Manager,O,22,23,1
-GP,PF0112,Eligibility Technician 2,A,14,14,0
-GP,PF0112,Eligibility Technician 2,F,14,14,0
-GP,PF0112,Eligibility Technician 2,O,14,13,-1
-SS,PF0114,Eligibility Technician 4,A,17,17,0
-SS,PF0114,Eligibility Technician 4,E,17,17,0
-SS,PF0114,Eligibility Technician 4,O,17,16,-1
-GP,PF0116,Eligibility Quality Control Technician 1,A,16,17,1
-GP,PF0116,Eligibility Quality Control Technician 1,F,16,15,-1
-GP,PF0116,Eligibility Quality Control Technician 1,O,16,13,-3
-SS,PF0117,Eligibility Quality Control Technician 2,A,18,18,0
-SS,PF0117,Eligibility Quality Control Technician 2,E,18,18,0
-SS,PF0117,Eligibility Quality Control Technician 2,O,18,17,-1
-GP,PF0118,Eligibility Office Manager 1,A,18,18,0
-GP,PF0118,Eligibility Office Manager 1,F,18,19,1
-GP,PF0118,Eligibility Office Manager 1,O,18,20,2
-SS,PF0119,Eligibility Office Manager 2,A,19,19,0
-SS,PF0119,Eligibility Office Manager 2,E,19,19,0
-SS,PF0119,Eligibility Office Manager 2,O,19,17,-2
-GP,PF0120,Medicaid Program Associate,A,14,14,0
-GP,PF0120,Medicaid Program Associate,F,14,13,-1
-GP,PF0120,Medicaid Program Associate,O,14,11,-3
-GP,PF0122,Medicaid Program Specialist 2,A,18,21,3
-GP,PF0122,Medicaid Program Specialist 2,F,18,21,3
-GP,PF0122,Medicaid Program Specialist 2,O,18,19,1
-SS,PF0125,Medicaid Program Specialist 5,A,22,22,0
-SS,PF0125,Medicaid Program Specialist 5,E,22,22,0
-SS,PF0125,Medicaid Program Specialist 5,O,22,22,0
-GP,PF0132,PFD Technician 2,A,12,13,1
-GP,PF0132,PFD Technician 2,F,12,13,1
-GP,PF0132,PFD Technician 2,O,12,11,-1
-SS,PF0136,PFD Specialist 1,A,16,,
-SS,PF0136,PFD Specialist 1,E,16,,
-SS,PF0136,PFD Specialist 1,O,16,,
-SS,PF0139,PFD Manager,A,22,,
-SS,PF0139,PFD Manager,E,22,,
-SS,PF0139,PFD Manager,O,22,,
-GP,PF0152,Public Assistance Analyst 2,A,18,20,2
-GP,PF0152,Public Assistance Analyst 2,F,18,20,2
-GP,PF0152,Public Assistance Analyst 2,O,18,19,1
-SS,PF0154,Public Assistance Field Services Manager 2,A,21,21,0
-SS,PF0154,Public Assistance Field Services Manager 2,E,21,22,1
-SS,PF0154,Public Assistance Field Services Manager 2,O,21,20,-1
-SS,PF0157,Public Assistance Programs Officer,A,21,19,-2
-SS,PF0157,Public Assistance Programs Officer,E,21,20,-1
-SS,PF0157,Public Assistance Programs Officer,O,21,20,-1
-GP,PF0160,Workers' Compensation Technician,A,12,17,5
-GP,PF0160,Workers' Compensation Technician,F,12,17,5
-GP,PF0160,Workers' Compensation Technician,O,12,15,3
-GP,PF0162,Workers' Compensation Officer 2,A,18,18,0
-GP,PF0162,Workers' Compensation Officer 2,F,18,17,-1
-GP,PF0162,Workers' Compensation Officer 2,O,18,16,-2
-GP,PF0171,Social Services Program Coordinator,A,20,22,2
-GP,PF0171,Social Services Program Coordinator,F,20,22,2
-GP,PF0171,Social Services Program Coordinator,O,20,21,1
-SS,PF0172,Social Services Program Officer,A,21,22,1
-SS,PF0172,Social Services Program Officer,E,21,21,0
-SS,PF0172,Social Services Program Officer,O,21,20,-1
-SS,PF0173,Social Services Program Administrator,A,23,21,-2
-SS,PF0173,Social Services Program Administrator,E,23,21,-2
-SS,PF0173,Social Services Program Administrator,O,23,20,-3
-GP,PF0182,Disability Adjudicator Associate 2,A,16,15,-1
-GP,PF0182,Disability Adjudicator Associate 2,F,16,14,-2
-GP,PF0182,Disability Adjudicator Associate 2,O,16,11,-5
-SS,PF0184,Disability Adjudicator 2,A,20,18,-2
-SS,PF0184,Disability Adjudicator 2,E,20,18,-2
-SS,PF0184,Disability Adjudicator 2,O,20,17,-3
-SS,PF0186,"Chief, Disability Determination Services",A,22,23,1
-SS,PF0186,"Chief, Disability Determination Services",E,22,25,3
-SS,PF0186,"Chief, Disability Determination Services",O,22,26,4
-SS,PF0193,"Chief, Public Assistance Field Operations",A,22,27,5
-SS,PF0193,"Chief, Public Assistance Field Operations",E,22,27,5
-SS,PF0193,"Chief, Public Assistance Field Operations",O,22,27,5
-GP,PF01A1,Child Support Enforcement Specialist 1,A,16,16,0
-GP,PF01A1,Child Support Enforcement Specialist 1,F,16,15,-1
-GP,PF01A1,Child Support Enforcement Specialist 1,O,16,14,-2
-SS,PF01A3,Child Support Enforcement Specialist 3,A,20,19,-1
-SS,PF01A3,Child Support Enforcement Specialist 3,E,20,19,-1
-SS,PF01A3,Child Support Enforcement Specialist 3,O,20,17,-3
-GP,PF0202,Protective Services Specialist 2,A,17,18,1
-GP,PF0202,Protective Services Specialist 2,F,17,19,2
-GP,PF0202,Protective Services Specialist 2,O,17,17,0
-SS,PF0204,Protective Services Specialist 4,A,20,18,-2
-SS,PF0204,Protective Services Specialist 4,E,20,18,-2
-SS,PF0204,Protective Services Specialist 4,O,20,16,-4
-SS,PF0205,Protective Services Manager 1,A,21,21,0
-SS,PF0205,Protective Services Manager 1,E,21,22,1
-SS,PF0205,Protective Services Manager 1,O,21,22,1
-GP,PF0222,Social Services Associate,A,12,14,2
-GP,PF0222,Social Services Associate,F,12,14,2
-GP,PF0222,Social Services Associate,O,12,13,1
-GP,PF0301,Civil Rights Programs and Compliance Specialist 1,A,15,18,3
-GP,PF0301,Civil Rights Programs and Compliance Specialist 1,F,15,19,4
-GP,PF0301,Civil Rights Programs and Compliance Specialist 1,O,15,18,3
-SS,PF0302,Civil Rights Programs and Compliance Specialist 2,A,17,22,5
-SS,PF0302,Civil Rights Programs and Compliance Specialist 2,E,17,22,5
-SS,PF0302,Civil Rights Programs and Compliance Specialist 2,O,17,21,4
-SS,PF0303,Civil Rights Programs and Compliance Specialist 3,A,19,23,4
-SS,PF0303,Civil Rights Programs and Compliance Specialist 3,E,19,23,4
-SS,PF0303,Civil Rights Programs and Compliance Specialist 3,O,19,22,3
-XE,PF0323,Human Rights Field Representative 3,A,18,22,4
-XE,PF0323,Human Rights Field Representative 3,F,18,22,4
-XE,PF0323,Human Rights Field Representative 3,O,18,21,3
-XE,PF0324,Human Rights Field Representative 4,A,20,29,9
-XE,PF0324,Human Rights Field Representative 4,F,20,27,7
-XE,PF0324,Human Rights Field Representative 4,O,20,25,5
-GP,PF0341,Senior Services Technician,A,12,14,2
-GP,PF0341,Senior Services Technician,F,12,15,3
-GP,PF0341,Senior Services Technician,O,12,14,2
-GP,PF03A2,Public Guardian 2,A,18,19,1
-GP,PF03A2,Public Guardian 2,F,18,19,1
-GP,PF03A2,Public Guardian 2,O,18,18,0
-SS,PF03A4,Public Guardian 4,A,22,20,-2
-SS,PF03A4,Public Guardian 4,E,22,20,-2
-SS,PF03A4,Public Guardian 4,O,22,19,-3
-GP,PF0412,Vocational Rehabilitation Assistant 2,A,12,13,1
-GP,PF0412,Vocational Rehabilitation Assistant 2,F,12,12,0
-GP,PF0412,Vocational Rehabilitation Assistant 2,O,12,10,-2
-GP,PF0432,Vocational Rehabilitation Counselor 2,A,17,19,2
-GP,PF0432,Vocational Rehabilitation Counselor 2,F,17,18,1
-GP,PF0432,Vocational Rehabilitation Counselor 2,O,17,17,0
-SS,PF0460,Vocational Rehabilitation Manager,A,21,27,6
-SS,PF0460,Vocational Rehabilitation Manager,E,21,25,4
-SS,PF0460,Vocational Rehabilitation Manager,O,21,24,3
-SS,PF0472,"Chief, Vocational Rehabilitation Services",A,23,27,4
-SS,PF0472,"Chief, Vocational Rehabilitation Services",E,23,27,4
-SS,PF0472,"Chief, Vocational Rehabilitation Services",O,23,27,4
-GP,PF0512,Employment Security Analyst 2,A,17,17,0
-GP,PF0512,Employment Security Analyst 2,F,17,18,1
-GP,PF0512,Employment Security Analyst 2,O,17,17,0
-GP,PF0522,Employment Services Technician 2,A,15,15,0
-GP,PF0522,Employment Services Technician 2,F,15,15,0
-GP,PF0522,Employment Services Technician 2,O,15,14,-1
-GP,PF0526,Unemployment Insurance Technician 1,A,14,13,-1
-GP,PF0526,Unemployment Insurance Technician 1,F,14,14,0
-GP,PF0526,Unemployment Insurance Technician 1,O,14,13,-1
-GP,PF0531,Employment Services Manager 1,A,16,20,4
-GP,PF0531,Employment Services Manager 1,F,16,22,6
-GP,PF0531,Employment Services Manager 1,O,16,21,5
-GP,PF0541,Field Auditor 1,A,16,16,0
-GP,PF0541,Field Auditor 1,F,16,16,0
-GP,PF0541,Field Auditor 1,O,16,14,-2
-GP,PG0122,Health Program Manager 2,A,19,23,4
-GP,PG0122,Health Program Manager 2,F,19,23,4
-GP,PG0122,Health Program Manager 2,O,19,22,3
-GP,PG0132,Public Health Specialist 2,A,20,22,2
-GP,PG0132,Public Health Specialist 2,F,20,23,3
-GP,PG0132,Public Health Specialist 2,O,20,22,2
-GP,PG0134,Public Health Informaticist 2,A,20,23,3
-GP,PG0134,Public Health Informaticist 2,F,20,23,3
-GP,PG0134,Public Health Informaticist 2,O,20,22,2
-GP,PG0140,Medical Information and Services Assistant,A,10,12,2
-GP,PG0140,Medical Information and Services Assistant,F,10,11,1
-GP,PG0140,Medical Information and Services Assistant,O,10,10,0
-GP,PG0177,Dietitian 2,A,20,20,0
-GP,PG0177,Dietitian 2,F,20,19,-1
-GP,PG0177,Dietitian 2,O,20,18,-2
-GP,PG0210,Assisted Living Aide,A,9,10,1
-GP,PG0210,Assisted Living Aide,F,9,11,2
-GP,PG0210,Assisted Living Aide,O,9,10,1
-GP,PG0211,Certified Nurse Aide 1,A,11,11,0
-GP,PG0211,Certified Nurse Aide 1,F,11,12,1
-GP,PG0211,Certified Nurse Aide 1,O,11,10,-1
-GP,PG0233,Psychiatric Nursing Assistant 3,A,12,12,0
-GP,PG0233,Psychiatric Nursing Assistant 3,F,12,13,1
-GP,PG0233,Psychiatric Nursing Assistant 3,O,12,12,0
-GP,PG0301,Licensed Practical Nurse,A,17,16,-1
-GP,PG0301,Licensed Practical Nurse,F,17,16,-1
-GP,PG0301,Licensed Practical Nurse,O,17,14,-3
-GP,PG0312,Nurse 2,A,22,21,-1
-GP,PG0312,Nurse 2,F,22,21,-1
-GP,PG0312,Nurse 2,O,22,20,-2
-GP,PG0322,Psychiatric Nurse 2,A,23,23,0
-GP,PG0322,Psychiatric Nurse 2,F,23,23,0
-GP,PG0322,Psychiatric Nurse 2,O,23,21,-2
-GP,PG0326,Corrections Nurse 1,A,22,21,-1
-GP,PG0326,Corrections Nurse 1,F,22,21,-1
-GP,PG0326,Corrections Nurse 1,O,22,19,-3
-GP,PG03A2,Public Health Nurse 2,A,23,24,1
-GP,PG03A2,Public Health Nurse 2,F,23,23,0
-GP,PG03A2,Public Health Nurse 2,O,23,21,-2
-GP,PG03B1,Nurse Consultant 1,A,24,27,3
-GP,PG03B1,Nurse Consultant 1,F,24,27,3
-GP,PG03B1,Nurse Consultant 1,O,24,24,0
-GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,A,26,27,1
-GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,F,26,27,1
-GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,O,26,26,0
-GP,PG0512,Mental Health Clinician 2,A,19,20,1
-GP,PG0512,Mental Health Clinician 2,F,19,20,1
-GP,PG0512,Mental Health Clinician 2,O,19,19,0
-GP,PG0601,Disease Intervention Specialist 1,A,18,22,4
-GP,PG0601,Disease Intervention Specialist 1,F,18,21,3
-GP,PG0601,Disease Intervention Specialist 1,O,18,19,1
-GP,PG0604,Epidemiology Specialist 2,A,20,22,2
-GP,PG0604,Epidemiology Specialist 2,F,20,22,2
-GP,PG0604,Epidemiology Specialist 2,O,20,21,1
-GP,PG0621,Dental Assistant,A,13,13,0
-GP,PG0621,Dental Assistant,F,13,12,-1
-GP,PG0621,Dental Assistant,O,13,11,-2
-GP,PG0622,Dental Hygienist,A,21,21,0
-GP,PG0622,Dental Hygienist,F,21,20,-1
-GP,PG0622,Dental Hygienist,O,21,19,-2
-GP,PG0651,Occupational Therapist 1,A,21,24,3
-GP,PG0651,Occupational Therapist 1,F,21,23,2
-GP,PG0651,Occupational Therapist 1,O,21,21,0
-SS,PG0682,Recreation Therapist 2,A,16,17,1
-SS,PG0682,Recreation Therapist 2,E,16,17,1
-SS,PG0682,Recreation Therapist 2,O,16,16,0
-GP,PG06A1,Pharmacy Technician 1,A,12,12,0
-GP,PG06A1,Pharmacy Technician 1,F,12,13,1
-GP,PG06A1,Pharmacy Technician 1,O,12,12,0
-GP,PG0730,Laboratory Technician,A,13,14,1
-GP,PG0730,Laboratory Technician,F,13,14,1
-GP,PG0730,Laboratory Technician,O,13,13,0
-GP,PG0742,Microbiologist 2,A,16,19,3
-GP,PG0742,Microbiologist 2,F,16,18,2
-GP,PG0742,Microbiologist 2,O,16,17,1
-GP,PG0751,Public Health Microbiologist 1,A,17,18,1
-GP,PG0751,Public Health Microbiologist 1,F,17,18,1
-GP,PG0751,Public Health Microbiologist 1,O,17,17,0
-GP,PH0103,Fish and Wildlife Technician 3,A,11,13,2
-GP,PH0103,Fish and Wildlife Technician 3,F,11,14,3
-GP,PH0103,Fish and Wildlife Technician 3,O,11,13,2
-SS,PH0112,Fishery Biologist 2,A,16,17,1
-SS,PH0112,Fishery Biologist 2,E,16,18,2
-SS,PH0112,Fishery Biologist 2,O,16,18,2
-GP,PH0122,Habitat Biologist 2,A,16,19,3
-GP,PH0122,Habitat Biologist 2,F,16,19,3
-GP,PH0122,Habitat Biologist 2,O,16,17,1
-GP,PH0132,Wildlife Biologist 2,A,16,19,3
-GP,PH0132,Wildlife Biologist 2,F,16,18,2
-GP,PH0132,Wildlife Biologist 2,O,16,16,0
-GP,PH0142,Biometrician 2,A,19,26,7
-GP,PH0142,Biometrician 2,F,19,25,6
-GP,PH0142,Biometrician 2,O,19,23,4
-GP,PH0151,Fish Culturist 1,A,14,,
-GP,PH0151,Fish Culturist 1,F,14,,
-GP,PH0151,Fish Culturist 1,O,14,,
-GP,PH0161,Fisheries Geneticist 1,A,17,21,4
-GP,PH0161,Fisheries Geneticist 1,F,17,20,3
-GP,PH0161,Fisheries Geneticist 1,O,17,18,1
-SS,PH0166,Fisheries Scientist 1,A,22,24,2
-SS,PH0166,Fisheries Scientist 1,E,22,24,2
-SS,PH0166,Fisheries Scientist 1,O,22,22,0
-GP,PH0211,Agronomist 1,A,16,18,2
-GP,PH0211,Agronomist 1,F,16,17,1
-GP,PH0211,Agronomist 1,O,16,15,-1
-GP,PH0302,Natural Resource Technician 2,A,12,13,1
-GP,PH0302,Natural Resource Technician 2,F,12,13,1
-GP,PH0302,Natural Resource Technician 2,O,12,11,-1
-GP,PH0312,Natural Resource Specialist 2,A,16,18,2
-GP,PH0312,Natural Resource Specialist 2,F,16,17,1
-GP,PH0312,Natural Resource Specialist 2,O,16,16,0
-SS,PH0321,Natural Resource Manager 1,A,18,21,3
-SS,PH0321,Natural Resource Manager 1,E,18,21,3
-SS,PH0321,Natural Resource Manager 1,O,18,20,2
-GP,PH0353,Wildland Fire and Resource Technician 3,A,12,17,5
-GP,PH0353,Wildland Fire and Resource Technician 3,F,12,16,4
-GP,PH0353,Wildland Fire and Resource Technician 3,O,12,15,3
-GP,PH0358,Wildland Forestry Technician 2,A,14,,
-GP,PH0358,Wildland Forestry Technician 2,F,14,,
-GP,PH0358,Wildland Forestry Technician 2,O,14,,
-GP,PH0362,Forester 2,A,16,18,2
-GP,PH0362,Forester 2,F,16,18,2
-GP,PH0362,Forester 2,O,16,17,1
-SS,PH0367,Fire Management Officer,A,16,,
-SS,PH0367,Fire Management Officer,E,16,,
-SS,PH0367,Fire Management Officer,O,16,,
-GP,PH0410,Park Specialist,A,14,15,1
-GP,PH0410,Park Specialist,F,14,15,1
-GP,PH0410,Park Specialist,O,14,15,1
-GP,PH0411,Park Ranger 1,A,16,16,0
-GP,PH0411,Park Ranger 1,F,16,17,1
-GP,PH0411,Park Ranger 1,O,16,16,0
-SS,PH0412,Park Ranger 2,A,18,18,0
-SS,PH0412,Park Ranger 2,E,18,18,0
-SS,PH0412,Park Ranger 2,O,18,17,-1
-SS,PH0420,Park Superintendent,A,20,21,1
-SS,PH0420,Park Superintendent,E,20,21,1
-SS,PH0420,Park Superintendent,O,20,21,1
-GP,PH0451,Museum Protection & Visitor Services Assistant,A,11,14,3
-GP,PH0451,Museum Protection & Visitor Services Assistant,F,11,13,2
-GP,PH0451,Museum Protection & Visitor Services Assistant,O,11,11,0
-GP,PI0101,Criminal Justice Technician 1,A,12,14,2
-GP,PI0101,Criminal Justice Technician 1,F,12,15,3
-GP,PI0101,Criminal Justice Technician 1,O,12,14,2
-GP,PI0105,Criminal Justice Planner,A,21,22,1
-GP,PI0105,Criminal Justice Planner,F,21,23,2
-GP,PI0105,Criminal Justice Planner,O,21,23,2
-SS,PI0146,Law Office Manager,A,16,17,1
-SS,PI0146,Law Office Manager,E,16,18,2
-SS,PI0146,Law Office Manager,O,16,18,2
-GP,PI0152,Public Safety Technician 2,A,11,10,-1
-GP,PI0152,Public Safety Technician 2,F,11,11,0
-GP,PI0152,Public Safety Technician 2,O,11,10,-1
-GP,PI01A2,Law Office Assistant 2,A,13,15,2
-GP,PI01A2,Law Office Assistant 2,F,13,15,2
-GP,PI01A2,Law Office Assistant 2,O,13,13,0
-GP,PI01B2,Paralegal 2,A,16,18,2
-GP,PI01B2,Paralegal 2,F,16,18,2
-GP,PI01B2,Paralegal 2,O,16,17,1
-XE,PI01C1,Paralegal Specialist 1,A,19,18,-1
-XE,PI01C1,Paralegal Specialist 1,F,19,18,-1
-XE,PI01C1,Paralegal Specialist 1,O,19,18,-1
-XE,PI0214,Attorney 4,A,24,26,2
-XE,PI0214,Attorney 4,F,24,27,3
-XE,PI0214,Attorney 4,O,24,26,2
-XE,PI0302,Administrative Law Judge 1,A,24,,
-XE,PI0302,Administrative Law Judge 1,F,24,,
-XE,PI0302,Administrative Law Judge 1,O,24,,
-XE,PI0311,Hearing Examiner 1,A,24,24,0
-XE,PI0311,Hearing Examiner 1,F,24,24,0
-XE,PI0311,Hearing Examiner 1,O,24,23,-1
-XE,PI0321,Hearing Officer,A,21,22,1
-XE,PI0321,Hearing Officer,F,21,22,1
-XE,PI0321,Hearing Officer,O,21,21,0
-GP,PI0352,Workers' Compensation Hearing Officer 2,A,22,,
-GP,PI0352,Workers' Compensation Hearing Officer 2,F,22,,
-GP,PI0352,Workers' Compensation Hearing Officer 2,O,22,,
-XE,PI0355,Chief of Workers' Compensation Adjudication,A,25,28,3
-XE,PI0355,Chief of Workers' Compensation Adjudication,F,25,27,2
-XE,PI0355,Chief of Workers' Compensation Adjudication,O,25,25,0
-SS,PI0405,Forensic Science Laboratory Administrator 1,A,22,18,-4
-SS,PI0405,Forensic Science Laboratory Administrator 1,E,22,20,-2
-SS,PI0405,Forensic Science Laboratory Administrator 1,O,22,20,-2
-GP,PI0413,Forensic Scientist 3 ‐ Chemistry,A,22,19,-3
-GP,PI0413,Forensic Scientist 3 ‐ Chemistry,F,22,19,-3
-GP,PI0413,Forensic Scientist 3 ‐ Chemistry,O,22,18,-4
-GP,PI0421,Fingerprint Technician 2,A,16,16,0
-GP,PI0421,Fingerprint Technician 2,F,16,16,0
-GP,PI0421,Fingerprint Technician 2,O,16,15,-1
-GP,PI0432,Investigator 2,A,16,18,2
-GP,PI0432,Investigator 2,F,16,19,3
-GP,PI0432,Investigator 2,O,16,18,2
-GP,PI0436,Special Investigator 1,A,19,19,0
-GP,PI0436,Special Investigator 1,F,19,19,0
-GP,PI0436,Special Investigator 1,O,19,17,-2
-GP,PI0442,Forensic Scientist 3 ‐ Physical,A,22,21,-1
-GP,PI0442,Forensic Scientist 3 ‐ Physical,F,22,21,-1
-GP,PI0442,Forensic Scientist 3 ‐ Physical,O,22,19,-3
-GP,PI0453,Forensic Scientist 3 ‐ DNA,A,22,21,-1
-GP,PI0453,Forensic Scientist 3 ‐ DNA,F,22,21,-1
-GP,PI0453,Forensic Scientist 3 ‐ DNA,O,22,19,-3
-GP,PI0460,Forensic Technician 2,A,15,17,2
-GP,PI0460,Forensic Technician 2,F,15,16,1
-GP,PI0460,Forensic Technician 2,O,15,15,0
-GP,PI0464,Medicolegal Investigator 2,A,16,18,2
-GP,PI0464,Medicolegal Investigator 2,F,16,17,1
-GP,PI0464,Medicolegal Investigator 2,O,16,16,0
-GP,PI0472,Criminal Intelligence Analyst 2,A,17,18,1
-GP,PI0472,Criminal Intelligence Analyst 2,F,17,18,1
-GP,PI0472,Criminal Intelligence Analyst 2,O,17,19,2
-SS,PI0505,Recorder Supervisor,A,16,17,1
-SS,PI0505,Recorder Supervisor,E,16,18,2
-SS,PI0505,Recorder Supervisor,O,16,17,1
-SS,PI0517,Recorder Manager,A,18,21,3
-SS,PI0517,Recorder Manager,E,18,21,3
-SS,PI0517,Recorder Manager,O,18,21,3
-GP,PI0531,Motor Vehicle Customer Service Representative 1,A,10,11,1
-GP,PI0531,Motor Vehicle Customer Service Representative 1,F,10,12,2
-GP,PI0531,Motor Vehicle Customer Service Representative 1,O,10,11,1
-SS,PI0541,Motor Vehicle Office Manager 1,A,15,16,1
-SS,PI0541,Motor Vehicle Office Manager 1,E,15,17,2
-SS,PI0541,Motor Vehicle Office Manager 1,O,15,17,2
-SS,PI0555,DMV Program Manager,A,21,18,-3
-SS,PI0555,DMV Program Manager,E,21,20,-1
-SS,PI0555,DMV Program Manager,O,21,20,-1
-GP,PI05A1,Recorder 1,A,12,15,3
-GP,PI05A1,Recorder 1,F,12,15,3
-GP,PI05A1,Recorder 1,O,12,13,1
-SS,PJ0106,Lieutenant ‐ Department of Public Safety,A,24,23,-1
-SS,PJ0106,Lieutenant ‐ Department of Public Safety,E,24,23,-1
-SS,PJ0106,Lieutenant ‐ Department of Public Safety,O,24,23,-1
-GP,PJ0231,Fire Training Specialist,A,19,21,2
-GP,PJ0231,Fire Training Specialist,F,19,21,2
-GP,PJ0231,Fire Training Specialist,O,19,19,0
-SS,PJ0241,Deputy Fire Marshal 3,A,23,24,1
-SS,PJ0241,Deputy Fire Marshal 3,E,23,25,2
-SS,PJ0241,Deputy Fire Marshal 3,O,23,24,1
-GP,PJ0250,Building Plans Examiner 1,A,19,19,0
-GP,PJ0250,Building Plans Examiner 1,F,19,19,0
-GP,PJ0250,Building Plans Examiner 1,O,19,18,-1
-SS,PJ0317,Correctional Supervisor,A,18,,
-SS,PJ0317,Correctional Supervisor,E,18,,
-SS,PJ0317,Correctional Supervisor,O,18,,
-SS,PJ0324,Correctional Superintendent 1,A,19,,
-SS,PJ0324,Correctional Superintendent 1,E,19,,
-SS,PJ0324,Correctional Superintendent 1,O,19,,
-SS,PJ0345,Juvenile Justice Unit Supervisor,A,18,18,0
-SS,PJ0345,Juvenile Justice Unit Supervisor,E,18,19,1
-SS,PJ0345,Juvenile Justice Unit Supervisor,O,18,20,2
-SS,PJ0351,Juvenile Justice Superintendent 1,A,20,19,-1
-SS,PJ0351,Juvenile Justice Superintendent 1,E,20,19,-1
-SS,PJ0351,Juvenile Justice Superintendent 1,O,20,18,-2
-GP,PJ0452,Juvenile Probation Officer 2,A,16,18,2
-GP,PJ0452,Juvenile Probation Officer 2,F,16,19,3
-GP,PJ0452,Juvenile Probation Officer 2,O,16,18,2
-SS,PJ0453,Juvenile Probation Officer 3,A,18,17,-1
-SS,PJ0453,Juvenile Probation Officer 3,E,18,17,-1
-SS,PJ0453,Juvenile Probation Officer 3,O,18,16,-2
-GP,PJ04A2,Adult Probation Officer 2A,A,17,18,1
-GP,PJ04A2,Adult Probation Officer 2A,F,17,17,0
-GP,PJ04A2,Adult Probation Officer 2A,O,17,16,-1
-GP,PJ04A3,Adult Probation Officer 2B,A,18,19,1
-GP,PJ04A3,Adult Probation Officer 2B,F,18,19,1
-GP,PJ04A3,Adult Probation Officer 2B,O,18,18,0
-GP,PJ04B2,Pretrial Services Officer 2,A,18,18,0
-GP,PJ04B2,Pretrial Services Officer 2,F,18,19,1
-GP,PJ04B2,Pretrial Services Officer 2,O,18,18,0
-SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",A,21,24,3
-SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",E,21,24,3
-SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",O,21,23,2
-GP,PK0112,Hydrologist 2,A,19,22,3
-GP,PK0112,Hydrologist 2,F,19,21,2
-GP,PK0112,Hydrologist 2,O,19,19,0
-GP,PK0123,Chemist 3,A,18,23,5
-GP,PK0123,Chemist 3,F,18,22,4
-GP,PK0123,Chemist 3,O,18,21,3
-GP,PK0132,Geologist 2,A,17,20,3
-GP,PK0132,Geologist 2,F,17,20,3
-GP,PK0132,Geologist 2,O,17,19,2
-GP,PK0137,Geological Scientist 1,A,22,27,5
-GP,PK0137,Geological Scientist 1,F,22,27,5
-GP,PK0137,Geological Scientist 1,O,22,24,2
-GP,PK0142,Engineering Geologist 2,A,18,20,2
-GP,PK0142,Engineering Geologist 2,F,18,20,2
-GP,PK0142,Engineering Geologist 2,O,18,19,1
-GP,PK0201,Environmental Program Technician,A,13,15,2
-GP,PK0201,Environmental Program Technician,F,13,15,2
-GP,PK0201,Environmental Program Technician,O,13,14,1
-GP,PK0213,Environmental Program Specialist 3,A,18,21,3
-GP,PK0213,Environmental Program Specialist 3,F,18,22,4
-GP,PK0213,Environmental Program Specialist 3,O,18,20,2
-SS,PK0222,Environmental Program Manager 2,A,22,24,2
-SS,PK0222,Environmental Program Manager 2,E,22,25,3
-SS,PK0222,Environmental Program Manager 2,O,22,26,4
-GP,PK0242,Environmental Impact Analyst 2,A,17,18,1
-GP,PK0242,Environmental Impact Analyst 2,F,17,19,2
-GP,PK0242,Environmental Impact Analyst 2,O,17,18,1
-GP,PK0251,Environmental Impact Analysis Manager 1,A,21,22,1
-GP,PK0251,Environmental Impact Analysis Manager 1,F,21,22,1
-GP,PK0251,Environmental Impact Analysis Manager 1,O,21,22,1
-GP,PK0305,Engineering Associate,A,21,20,-1
-GP,PK0305,Engineering Associate,F,21,20,-1
-GP,PK0305,Engineering Associate,O,21,19,-2
-GP,PK0333,"Engineering Associate 1, DEC",A,21,22,1
-GP,PK0333,"Engineering Associate 1, DEC",F,21,21,0
-GP,PK0333,"Engineering Associate 1, DEC",O,21,19,-2
-GP,PK0352,Communications Engineering Associate 2,A,23,24,1
-GP,PK0352,Communications Engineering Associate 2,F,23,24,1
-GP,PK0352,Communications Engineering Associate 2,O,23,23,0
-GP,PK0411,Engineer/Architect 1,A,22,23,1
-GP,PK0411,Engineer/Architect 1,F,22,23,1
-GP,PK0411,Engineer/Architect 1,O,22,22,0
-SS,PK0413,Engineer/Architect 3,A,25,23,-2
-SS,PK0413,Engineer/Architect 3,E,25,24,-1
-SS,PK0413,Engineer/Architect 3,O,25,24,-1
-GP,PK0435,"Engineer 1, DEC",A,22,24,2
-GP,PK0435,"Engineer 1, DEC",F,22,23,1
-GP,PK0435,"Engineer 1, DEC",O,22,21,-1
-GP,PK0443,Village Safe Water Engineer 1,A,22,24,2
-GP,PK0443,Village Safe Water Engineer 1,F,22,23,1
-GP,PK0443,Village Safe Water Engineer 1,O,22,22,0
-GP,PK0453,Communications Engineer 1,A,24,27,3
-GP,PK0453,Communications Engineer 1,F,24,26,2
-GP,PK0453,Communications Engineer 1,O,24,24,0
-GP,PK0471,Technical Engineer 1 / Architect 1,A,24,26,2
-GP,PK0471,Technical Engineer 1 / Architect 1,F,24,25,1
-GP,PK0471,Technical Engineer 1 / Architect 1,O,24,23,-1
-GP,PK0611,Vessel Construction Manager 1,A,21,,
-GP,PK0611,Vessel Construction Manager 1,F,21,,
-GP,PK0611,Vessel Construction Manager 1,O,21,,
-GP,PK0711,Land Surveyor 1,A,21,22,1
-GP,PK0711,Land Surveyor 1,F,21,21,0
-GP,PK0711,Land Surveyor 1,O,21,19,-2
-SS,PK0714,Land Survey Manager 1,A,23,22,-1
-SS,PK0714,Land Survey Manager 1,E,23,23,0
-SS,PK0714,Land Survey Manager 1,O,23,23,0
-GP,PK0803,Drafting Technician 3,A,15,16,1
-GP,PK0803,Drafting Technician 3,F,15,16,1
-GP,PK0803,Drafting Technician 3,O,15,14,-1
-SS,PL0115,Food Service Supervisor,A,16,15,-1
-SS,PL0115,Food Service Supervisor,E,16,16,0
-SS,PL0115,Food Service Supervisor,O,16,15,-1
-GP,PL0262,Vessel Technician,A,16,,
-GP,PL0262,Vessel Technician,F,16,,
-GP,PL0262,Vessel Technician,O,16,,
-GP,PL0512,Survey Instrument Technician 2,A,17,17,0
-GP,PL0512,Survey Instrument Technician 2,F,17,17,0
-GP,PL0512,Survey Instrument Technician 2,O,17,16,-1
-GP,PL0723,Boat Officer 3,A,17,,
-GP,PL0723,Boat Officer 3,F,17,,
-GP,PL0723,Boat Officer 3,O,17,,
-GP,PL07A1,Aircraft Pilot 1,A,22,25,3
-GP,PL07A1,Aircraft Pilot 1,F,22,24,2
-GP,PL07A1,Aircraft Pilot 1,O,22,23,1
-GP,PL0821,Microfilm/Imaging Operator 1,A,10,11,1
-GP,PL0821,Microfilm/Imaging Operator 1,F,10,10,0
-GP,PL0821,Microfilm/Imaging Operator 1,O,10,8,-2
-GP,PL0841,Mail Services Courier,A,9,10,1
-GP,PL0841,Mail Services Courier,F,9,9,0
-GP,PL0841,Mail Services Courier,O,9,7,-2
-SS,PL0845,Mail Services Manager,A,15,17,2
-SS,PL0845,Mail Services Manager,E,15,17,2
-SS,PL0845,Mail Services Manager,O,15,17,2
+XE,PA0112,Division Director ‐ PX,A,27.0,30,3
+XE,PA0112,Division Director ‐ PX,F,27.0,30,3
+XE,PA0112,Division Director ‐ PX,O,27.0,30,3
+SS,PA0113,Division Operations Manager,A,24.0,24,0
+SS,PA0113,Division Operations Manager,E,24.0,25,1
+SS,PA0113,Division Operations Manager,O,24.0,24,0
+GP,PB0102,Office Assistant 1,A,8.0,12,4
+GP,PB0102,Office Assistant 1,F,8.0,11,3
+GP,PB0102,Office Assistant 1,O,8.0,9,1
+XE,PB0130,Secretary,A,11.0,15,4
+XE,PB0130,Secretary,F,11.0,14,3
+XE,PB0130,Secretary,O,11.0,13,2
+XE,PB0137,Executive Secretary 3,A,16.0,19,3
+XE,PB0137,Executive Secretary 3,F,16.0,19,3
+XE,PB0137,Executive Secretary 3,O,16.0,18,2
+GP,PB0152,Administrative Assistant 2,A,14.0,13,-1
+GP,PB0152,Administrative Assistant 2,F,14.0,13,-1
+GP,PB0152,Administrative Assistant 2,O,14.0,13,-1
+SS,PB0154,Administrative Officer 1,A,17.0,17,0
+SS,PB0154,Administrative Officer 1,E,17.0,17,0
+SS,PB0154,Administrative Officer 1,O,17.0,16,-1
+SS,PB0157,Administrative Operations Manager 1,A,22.0,20,-2
+SS,PB0157,Administrative Operations Manager 1,E,22.0,21,-1
+SS,PB0157,Administrative Operations Manager 1,O,22.0,21,-1
+GP,PB0202,Accounting Clerk,A,10.0,12,2
+GP,PB0202,Accounting Clerk,F,10.0,11,1
+GP,PB0202,Accounting Clerk,O,10.0,11,1
+GP,PB0206,Accounting Technician 2,A,14.0,15,1
+GP,PB0206,Accounting Technician 2,F,14.0,15,1
+GP,PB0206,Accounting Technician 2,O,14.0,14,0
+GP,PB0212,Accountant 2,A,16.0,19,3
+GP,PB0212,Accountant 2,F,16.0,18,2
+GP,PB0212,Accountant 2,O,16.0,16,0
+SS,PB0214,Accountant 4,A,20.0,19,-1
+SS,PB0214,Accountant 4,E,20.0,21,1
+SS,PB0214,Accountant 4,O,20.0,20,0
+KK,PB0230,Payroll Manager,A,22.0,23,1
+KK,PB0230,Payroll Manager,F,22.0,23,1
+KK,PB0230,Payroll Manager,O,22.0,23,1
+KK,PB0231,Payroll Specialist 1,A,16.0,18,2
+KK,PB0231,Payroll Specialist 1,F,16.0,17,1
+KK,PB0231,Payroll Specialist 1,O,16.0,16,0
+GP,PB0243,Budget Analyst 2,A,19.0,21,2
+GP,PB0243,Budget Analyst 2,F,19.0,21,2
+GP,PB0243,Budget Analyst 2,O,19.0,19,0
+SS,PB0245,Budget Analyst 4,A,22.0,25,3
+SS,PB0245,Budget Analyst 4,E,22.0,24,2
+SS,PB0245,Budget Analyst 4,O,22.0,23,1
+KK,PB0303,Human Resource Technician 2,A,14.0,15,1
+KK,PB0303,Human Resource Technician 2,F,14.0,15,1
+KK,PB0303,Human Resource Technician 2,O,14.0,14,0
+KK,PB0305,Payroll Services Supervisor,A,17.0,18,1
+KK,PB0305,Payroll Services Supervisor,F,17.0,19,2
+KK,PB0305,Payroll Services Supervisor,O,17.0,18,1
+KK,PB0311,Human Resource Consultant 1,A,16.0,18,2
+KK,PB0311,Human Resource Consultant 1,F,16.0,19,3
+KK,PB0311,Human Resource Consultant 1,O,16.0,18,2
+KK,PB0315,Human Resource Consultant 5,A,22.0,24,2
+KK,PB0315,Human Resource Consultant 5,F,22.0,24,2
+KK,PB0315,Human Resource Consultant 5,O,22.0,23,1
+KK,PB0322,Labor Relations Analyst 2,A,20.0,20,0
+KK,PB0322,Labor Relations Analyst 2,F,20.0,19,-1
+KK,PB0322,Labor Relations Analyst 2,O,20.0,18,-2
+XE,PB0325,Labor Relations Manager,A,24.0,26,2
+XE,PB0325,Labor Relations Manager,F,24.0,28,4
+XE,PB0325,Labor Relations Manager,O,24.0,27,3
+GP,PB0333,Retirement and Benefits Technician 2,A,14.0,16,2
+GP,PB0333,Retirement and Benefits Technician 2,F,14.0,17,3
+GP,PB0333,Retirement and Benefits Technician 2,O,14.0,15,1
+GP,PB0341,Retirement and Benefits Specialist 1,A,16.0,18,2
+GP,PB0341,Retirement and Benefits Specialist 1,F,16.0,18,2
+GP,PB0341,Retirement and Benefits Specialist 1,O,16.0,17,1
+KK,PB0351,Alaska Marine Highway System Dispatcher,A,15.0,15,0
+KK,PB0351,Alaska Marine Highway System Dispatcher,F,15.0,14,-1
+KK,PB0351,Alaska Marine Highway System Dispatcher,O,15.0,12,-3
+GP,PB0496,GIS Analyst 2,A,17.0,19,2
+GP,PB0496,GIS Analyst 2,F,17.0,18,1
+GP,PB0496,GIS Analyst 2,O,17.0,17,0
+GP,PB0503,Statistical Technician 2,A,14.0,18,4
+GP,PB0503,Statistical Technician 2,F,14.0,17,3
+GP,PB0503,Statistical Technician 2,O,14.0,15,1
+GP,PB0511,Research Analyst 1,A,13.0,17,4
+GP,PB0511,Research Analyst 1,F,13.0,16,3
+GP,PB0511,Research Analyst 1,O,13.0,15,2
+GP,PB0512,Research Analyst 2,A,16.0,19,3
+GP,PB0512,Research Analyst 2,F,16.0,18,2
+GP,PB0512,Research Analyst 2,O,16.0,17,1
+GP,PB0513,Research Analyst 3,A,18.0,21,3
+GP,PB0513,Research Analyst 3,F,18.0,21,3
+GP,PB0513,Research Analyst 3,O,18.0,20,2
+SS,PB0514,Research Analyst 4,A,21.0,27,6
+SS,PB0514,Research Analyst 4,E,21.0,26,5
+SS,PB0514,Research Analyst 4,O,21.0,24,3
+SS,PB0540,"Chief, Health Analytics and Vital Records",A,22.0,26,4
+SS,PB0540,"Chief, Health Analytics and Vital Records",E,22.0,26,4
+SS,PB0540,"Chief, Health Analytics and Vital Records",O,22.0,25,3
+GP,PB0611,Supply Technician 1,A,10.0,13,3
+GP,PB0611,Supply Technician 1,F,10.0,12,2
+GP,PB0611,Supply Technician 1,O,10.0,10,0
+GP,PB0622,Contracting Officer 2,A,16.0,17,1
+GP,PB0622,Contracting Officer 2,F,16.0,18,2
+GP,PB0622,Contracting Officer 2,O,16.0,16,0
+SS,PB0624,Contracting Officer 4,A,22.0,24,2
+SS,PB0624,Contracting Officer 4,E,22.0,24,2
+SS,PB0624,Contracting Officer 4,O,22.0,24,2
+GP,PB0632,Procurement Specialist 2,A,16.0,17,1
+GP,PB0632,Procurement Specialist 2,F,16.0,18,2
+GP,PB0632,Procurement Specialist 2,O,16.0,16,0
+SS,PB0635,Procurement Specialist 5,A,21.0,21,0
+SS,PB0635,Procurement Specialist 5,E,21.0,22,1
+SS,PB0635,Procurement Specialist 5,O,21.0,21,0
+XE,PB0701,State Chief Information Officer,A,28.0,30,2
+XE,PB0701,State Chief Information Officer,F,28.0,30,2
+XE,PB0701,State Chief Information Officer,O,28.0,30,2
+XE,PB0702,Deputy Chief Information Officer,A,27.0,30,3
+XE,PB0702,Deputy Chief Information Officer,F,27.0,30,3
+XE,PB0702,Deputy Chief Information Officer,O,27.0,30,3
+XE,PB0707,Chief Technology Officer 3,A,26.0,30,4
+XE,PB0707,Chief Technology Officer 3,F,26.0,30,4
+XE,PB0707,Chief Technology Officer 3,O,26.0,30,4
+XE,PB0709,"Staff Manager, OIT",A,25.0,29,4
+XE,PB0709,"Staff Manager, OIT",F,25.0,28,3
+XE,PB0709,"Staff Manager, OIT",O,25.0,27,2
+SS,PB0712,Department Technology Officer 2,A,24.0,27,3
+SS,PB0712,Department Technology Officer 2,E,24.0,27,3
+SS,PB0712,Department Technology Officer 2,O,24.0,27,3
+SS,PB0725,P3 Manager,A,24.0,27,3
+SS,PB0725,P3 Manager,E,24.0,27,3
+SS,PB0725,P3 Manager,O,24.0,26,2
+GP,PB07A3,Application Developer 3,A,22.0,25,3
+GP,PB07A3,Application Developer 3,F,22.0,24,2
+GP,PB07A3,Application Developer 3,O,22.0,23,1
+GP,PB07B2,IT Business Analyst 2,A,21.0,23,2
+GP,PB07B2,IT Business Analyst 2,F,21.0,22,1
+GP,PB07B2,IT Business Analyst 2,O,21.0,21,0
+GP,PB07C2,IT Client Support Specialist 2,A,16.0,18,2
+GP,PB07C2,IT Client Support Specialist 2,F,16.0,17,1
+GP,PB07C2,IT Client Support Specialist 2,O,16.0,16,0
+GP,PB07D2,Database Administrator 2,A,23.0,24,1
+GP,PB07D2,Database Administrator 2,F,23.0,24,1
+GP,PB07D2,Database Administrator 2,O,23.0,22,-1
+GP,PB07E1,IT Support Technician 1,A,13.0,16,3
+GP,PB07E1,IT Support Technician 1,F,13.0,16,3
+GP,PB07E1,IT Support Technician 1,O,13.0,15,2
+SS,PB07J2,IT Project Manager 2,A,24.0,23,-1
+SS,PB07J2,IT Project Manager 2,E,24.0,24,0
+SS,PB07J2,IT Project Manager 2,O,24.0,24,0
+SS,PB07M1,IT Manager 1,A,23.0,24,1
+SS,PB07M1,IT Manager 1,E,23.0,26,3
+SS,PB07M1,IT Manager 1,O,23.0,26,3
+GP,PB07N2,Network and Telecommunications Specialist 2,A,21.0,23,2
+GP,PB07N2,Network and Telecommunications Specialist 2,F,21.0,22,1
+GP,PB07N2,Network and Telecommunications Specialist 2,O,21.0,21,0
+SS,PB07P1,IT Policy and Planning Analyst 1,A,23.0,20,-3
+SS,PB07P1,IT Policy and Planning Analyst 1,E,23.0,22,-1
+SS,PB07P1,IT Policy and Planning Analyst 1,O,23.0,22,-1
+GP,PB07R1,IT Architecture Specialist 1,A,24.0,27,3
+GP,PB07R1,IT Architecture Specialist 1,F,24.0,27,3
+GP,PB07R1,IT Architecture Specialist 1,O,24.0,25,1
+GP,PB07S1,IT Security Specialist 1,A,24.0,25,1
+GP,PB07S1,IT Security Specialist 1,F,24.0,25,1
+GP,PB07S1,IT Security Specialist 1,O,24.0,23,-1
+GP,PB07U2,IT Quality Assurance Analyst 2,A,21.0,23,2
+GP,PB07U2,IT Quality Assurance Analyst 2,F,21.0,23,2
+GP,PB07U2,IT Quality Assurance Analyst 2,O,21.0,21,0
+GP,PB07V2,IT Vendor Manager 2,A,20.0,22,2
+GP,PB07V2,IT Vendor Manager 2,F,20.0,21,1
+GP,PB07V2,IT Vendor Manager 2,O,20.0,20,0
+GP,PB07Y2,IT Systems Administrator 2,A,23.0,24,1
+GP,PB07Y2,IT Systems Administrator 2,F,23.0,23,0
+GP,PB07Y2,IT Systems Administrator 2,O,23.0,21,-2
+GP,PB9908,Project Assistant,A,16.0,15,-1
+GP,PB9908,Project Assistant,F,16.0,15,-1
+GP,PB9908,Project Assistant,O,16.0,14,-2
+GP,PB9909,Program Coordinator 1,A,18.0,18,0
+GP,PB9909,Program Coordinator 1,F,18.0,19,1
+GP,PB9909,Program Coordinator 1,O,18.0,18,0
+SS,PB9912,Program Manager,A,22.0,22,0
+SS,PB9912,Program Manager,E,22.0,23,1
+SS,PB9912,Program Manager,O,22.0,23,1
+GP,PB9915,Business Services Project Manager 1,A,20.0,21,1
+GP,PB9915,Business Services Project Manager 1,F,20.0,21,1
+GP,PB9915,Business Services Project Manager 1,O,20.0,20,0
+GP,PC0102,Grants Administrator 2,A,17.0,19,2
+GP,PC0102,Grants Administrator 2,F,17.0,20,3
+GP,PC0102,Grants Administrator 2,O,17.0,19,2
+SS,PC0105,Grants Administration Manager,A,21.0,21,0
+SS,PC0105,Grants Administration Manager,E,21.0,22,1
+SS,PC0105,Grants Administration Manager,O,21.0,22,1
+GP,PC0112,Loan Closer/Processor 2,A,12.0,13,1
+GP,PC0112,Loan Closer/Processor 2,F,12.0,13,1
+GP,PC0112,Loan Closer/Processor 2,O,12.0,11,-1
+GP,PC0121,Loan/Collection Officer 1,A,16.0,14,-2
+GP,PC0121,Loan/Collection Officer 1,F,16.0,14,-2
+GP,PC0121,Loan/Collection Officer 1,O,16.0,12,-4
+SS,PC0125,Loan/Collection Manager,A,22.0,23,1
+SS,PC0125,Loan/Collection Manager,E,22.0,23,1
+SS,PC0125,Loan/Collection Manager,O,22.0,22,0
+GP,PC0132,School Finance Specialist 2,A,18.0,20,2
+GP,PC0132,School Finance Specialist 2,F,18.0,21,3
+GP,PC0132,School Finance Specialist 2,O,18.0,20,2
+SS,PC0135,School Finance Manager,A,23.0,24,1
+SS,PC0135,School Finance Manager,E,23.0,24,1
+SS,PC0135,School Finance Manager,O,23.0,25,2
+GP,PC0206,Insurance Licensing Examiner 2,A,14.0,15,1
+GP,PC0206,Insurance Licensing Examiner 2,F,14.0,14,0
+GP,PC0206,Insurance Licensing Examiner 2,O,14.0,13,-1
+SS,PC0209,Records and Licensing Supervisor,A,16.0,18,2
+SS,PC0209,Records and Licensing Supervisor,E,16.0,20,4
+SS,PC0209,Records and Licensing Supervisor,O,16.0,20,4
+GP,PC0220,Financial Registration Examiner,A,14.0,12,-2
+GP,PC0220,Financial Registration Examiner,F,14.0,14,0
+GP,PC0220,Financial Registration Examiner,O,14.0,13,-1
+GP,PC0233,Insurance Specialist 2,A,19.0,19,0
+GP,PC0233,Insurance Specialist 2,F,19.0,20,1
+GP,PC0233,Insurance Specialist 2,O,19.0,19,0
+GP,PC0237,Insurance Financial Examiner 2,A,21.0,22,1
+GP,PC0237,Insurance Financial Examiner 2,F,21.0,21,0
+GP,PC0237,Insurance Financial Examiner 2,O,21.0,19,-2
+GP,PC0252,Utility Financial Analyst 2,A,19.0,23,4
+GP,PC0252,Utility Financial Analyst 2,F,19.0,22,3
+GP,PC0252,Utility Financial Analyst 2,O,19.0,20,1
+SS,PC0254,Utility Financial Analyst 4,A,23.0,25,2
+SS,PC0254,Utility Financial Analyst 4,E,23.0,24,1
+SS,PC0254,Utility Financial Analyst 4,O,23.0,23,0
+GP,PC0257,Utility Tariff Analyst 2,A,18.0,22,4
+GP,PC0257,Utility Tariff Analyst 2,F,18.0,22,4
+GP,PC0257,Utility Tariff Analyst 2,O,18.0,21,3
+GP,PC0261,Community Care Licensing Specialist 1,A,16.0,16,0
+GP,PC0261,Community Care Licensing Specialist 1,F,16.0,16,0
+GP,PC0261,Community Care Licensing Specialist 1,O,16.0,15,-1
+SS,PC0263,Community Care Licensing Specialist 3,A,20.0,20,0
+SS,PC0263,Community Care Licensing Specialist 3,E,20.0,21,1
+SS,PC0263,Community Care Licensing Specialist 3,O,20.0,20,0
+GP,PC0272,Financial Examiner 2,A,19.0,21,2
+GP,PC0272,Financial Examiner 2,F,19.0,20,1
+GP,PC0272,Financial Examiner 2,O,19.0,19,0
+SS,PC0274,Financial Examiner 4,A,23.0,22,-1
+SS,PC0274,Financial Examiner 4,E,23.0,23,0
+SS,PC0274,Financial Examiner 4,O,23.0,22,-1
+GP,PC02A2,Licensing Examiner 2,A,15.0,14,-1
+GP,PC02A2,Licensing Examiner 2,F,15.0,15,0
+GP,PC02A2,Licensing Examiner 2,O,15.0,14,-1
+GP,PC0302,Commercial Vehicle Compliance Inspector 2,A,15.0,17,2
+GP,PC0302,Commercial Vehicle Compliance Inspector 2,F,15.0,17,2
+GP,PC0302,Commercial Vehicle Compliance Inspector 2,O,15.0,16,1
+SS,PC0305,Commercial Vehicle Compliance Inspector 5,A,19.0,20,1
+SS,PC0305,Commercial Vehicle Compliance Inspector 5,E,19.0,21,2
+SS,PC0305,Commercial Vehicle Compliance Inspector 5,O,19.0,20,1
+GP,PC0310,Radiological Health Physicist 1,A,19.0,24,5
+GP,PC0310,Radiological Health Physicist 1,F,19.0,23,4
+GP,PC0310,Radiological Health Physicist 1,O,19.0,21,2
+GP,PC0321,Industrial Hygienist,A,19.0,23,4
+GP,PC0321,Industrial Hygienist,F,19.0,22,3
+GP,PC0321,Industrial Hygienist,O,19.0,21,2
+GP,PC0323,Safety Officer,A,18.0,21,3
+GP,PC0323,Safety Officer,F,18.0,21,3
+GP,PC0323,Safety Officer,O,18.0,20,2
+SS,PC0324,Occupational Health and Safety Analyst,A,20.0,20,0
+SS,PC0324,Occupational Health and Safety Analyst,E,20.0,20,0
+SS,PC0324,Occupational Health and Safety Analyst,O,20.0,19,-1
+SS,PC0325,Occupational Safety & Health Manager,A,22.0,22,0
+SS,PC0325,Occupational Safety & Health Manager,E,22.0,24,2
+SS,PC0325,Occupational Safety & Health Manager,O,22.0,23,1
+GP,PC0338,Boiler and Pressure Vessel Inspector 1,A,19.0,19,0
+GP,PC0338,Boiler and Pressure Vessel Inspector 1,F,19.0,18,-1
+GP,PC0338,Boiler and Pressure Vessel Inspector 1,O,19.0,17,-2
+SS,PC0339,Boiler and Pressure Vessel Inspector 2,A,20.0,19,-1
+SS,PC0339,Boiler and Pressure Vessel Inspector 2,E,20.0,19,-1
+SS,PC0339,Boiler and Pressure Vessel Inspector 2,O,20.0,18,-2
+SS,PC0345,Mechanical Inspection Manager,A,22.0,23,1
+SS,PC0345,Mechanical Inspection Manager,E,22.0,23,1
+SS,PC0345,Mechanical Inspection Manager,O,22.0,23,1
+GP,PC0352,Weights and Measures Inspector 2,A,16.0,18,2
+GP,PC0352,Weights and Measures Inspector 2,F,16.0,17,1
+GP,PC0352,Weights and Measures Inspector 2,O,16.0,15,-1
+SS,PC0360,"Chief, Weights, Measures, and Permits",A,22.0,21,-1
+SS,PC0360,"Chief, Weights, Measures, and Permits",E,22.0,23,1
+SS,PC0360,"Chief, Weights, Measures, and Permits",O,22.0,22,0
+GP,PC0362,State Metrologist 2,A,18.0,22,4
+GP,PC0362,State Metrologist 2,F,18.0,21,3
+GP,PC0362,State Metrologist 2,O,18.0,19,1
+GP,PC0401,Environmental Health Technician,A,13.0,14,1
+GP,PC0401,Environmental Health Technician,F,13.0,13,0
+GP,PC0401,Environmental Health Technician,O,13.0,12,-1
+GP,PC0412,Environmental Health Officer 2,A,16.0,18,2
+GP,PC0412,Environmental Health Officer 2,F,16.0,18,2
+GP,PC0412,Environmental Health Officer 2,O,16.0,17,1
+SS,PC0414,Environmental Health Officer 4,A,20.0,20,0
+SS,PC0414,Environmental Health Officer 4,E,20.0,22,2
+SS,PC0414,Environmental Health Officer 4,O,20.0,22,2
+GP,PC0503,Tax Technician 3,A,14.0,16,2
+GP,PC0503,Tax Technician 3,F,14.0,16,2
+GP,PC0503,Tax Technician 3,O,14.0,16,2
+SS,PC0504,Tax Technician 4,A,16.0,25,9
+SS,PC0504,Tax Technician 4,E,16.0,25,9
+SS,PC0504,Tax Technician 4,O,16.0,23,7
+GP,PC0513,Tax Auditor 3,A,20.0,22,2
+GP,PC0513,Tax Auditor 3,F,20.0,21,1
+GP,PC0513,Tax Auditor 3,O,20.0,20,0
+SS,PC0522,Revenue Audit Supervisor 2,A,25.0,21,-4
+SS,PC0522,Revenue Audit Supervisor 2,E,25.0,23,-2
+SS,PC0522,Revenue Audit Supervisor 2,O,25.0,22,-3
+GP,PC0532,Revenue Appeals Officer 2,A,25.0,21,-4
+GP,PC0532,Revenue Appeals Officer 2,F,25.0,22,-3
+GP,PC0532,Revenue Appeals Officer 2,O,25.0,21,-4
+SS,PC0533,Revenue Appeals Supervisor,A,26.0,21,-5
+SS,PC0533,Revenue Appeals Supervisor,E,26.0,23,-3
+SS,PC0533,Revenue Appeals Supervisor,O,26.0,24,-2
+GP,PC0543,Oil and Gas Revenue Auditor 3,A,22.0,24,2
+GP,PC0543,Oil and Gas Revenue Auditor 3,F,22.0,23,1
+GP,PC0543,Oil and Gas Revenue Auditor 3,O,22.0,22,0
+GP,PC0545,Oil and Gas Revenue Specialist,A,25.0,27,2
+GP,PC0545,Oil and Gas Revenue Specialist,F,25.0,27,2
+GP,PC0545,Oil and Gas Revenue Specialist,O,25.0,24,-1
+GP,PC0553,Corporate Income Tax Auditor 3,A,22.0,24,2
+GP,PC0553,Corporate Income Tax Auditor 3,F,22.0,23,1
+GP,PC0553,Corporate Income Tax Auditor 3,O,22.0,21,-1
+GP,PC0563,Audit and Review Analyst 2,A,21.0,19,-2
+GP,PC0563,Audit and Review Analyst 2,F,21.0,19,-2
+GP,PC0563,Audit and Review Analyst 2,O,21.0,18,-3
+SS,PC0565,Audit and Review Analyst 4,A,25.0,27,2
+SS,PC0565,Audit and Review Analyst 4,E,25.0,26,1
+SS,PC0565,Audit and Review Analyst 4,O,25.0,24,-1
+GP,PD0103,Local Government Specialist 3,A,17.0,17,0
+GP,PD0103,Local Government Specialist 3,F,17.0,19,2
+GP,PD0103,Local Government Specialist 3,O,17.0,19,2
+GP,PD0122,Regulations Specialist 2,A,16.0,17,1
+GP,PD0122,Regulations Specialist 2,F,16.0,17,1
+GP,PD0122,Regulations Specialist 2,O,16.0,16,0
+GP,PD0202,Economist 2,A,18.0,27,9
+GP,PD0202,Economist 2,F,18.0,27,9
+GP,PD0202,Economist 2,O,18.0,24,6
+GP,PD0222,Petroleum Economist 2,A,22.0,27,5
+GP,PD0222,Petroleum Economist 2,F,22.0,27,5
+GP,PD0222,Petroleum Economist 2,O,22.0,25,3
+GP,PD0332,Planner 2,A,17.0,19,2
+GP,PD0332,Planner 2,F,17.0,19,2
+GP,PD0332,Planner 2,O,17.0,17,0
+GP,PD0341,Transportation Planner 1,A,21.0,21,0
+GP,PD0341,Transportation Planner 1,F,21.0,21,0
+GP,PD0341,Transportation Planner 1,O,21.0,20,-1
+SS,PD0342,Transportation Planner 2,A,22.0,22,0
+SS,PD0342,Transportation Planner 2,E,22.0,23,1
+SS,PD0342,Transportation Planner 2,O,22.0,22,0
+GP,PD0412,Emergency Management Specialist 2,A,16.0,22,6
+GP,PD0412,Emergency Management Specialist 2,F,16.0,22,6
+GP,PD0412,Emergency Management Specialist 2,O,16.0,20,4
+SS,PD0421,Emergency Program Manager 1,A,20.0,22,2
+SS,PD0421,Emergency Program Manager 1,E,20.0,23,3
+SS,PD0421,Emergency Program Manager 1,O,20.0,23,3
+GP,PD0442,Emergency Services Dispatcher 1,A,15.0,14,-1
+GP,PD0442,Emergency Services Dispatcher 1,F,15.0,15,0
+GP,PD0442,Emergency Services Dispatcher 1,O,15.0,14,-1
+SS,PD0450,Emergency Dispatch Supervisor,A,18.0,18,0
+SS,PD0450,Emergency Dispatch Supervisor,E,18.0,19,1
+SS,PD0450,Emergency Dispatch Supervisor,O,18.0,19,1
+SS,PD0473,State Logistics Center Coordinator,A,16.0,23,7
+SS,PD0473,State Logistics Center Coordinator,E,16.0,22,6
+SS,PD0473,State Logistics Center Coordinator,O,16.0,21,5
+GP,PD04A3,Wildland Fire Dispatcher 3,A,15.0,15,0
+GP,PD04A3,Wildland Fire Dispatcher 3,F,15.0,14,-1
+GP,PD04A3,Wildland Fire Dispatcher 3,O,15.0,12,-3
+XE,PD0501,Airport Manager ‐ Anchorage International Airport,A,25.0,28,3
+XE,PD0501,Airport Manager ‐ Anchorage International Airport,F,25.0,26,1
+XE,PD0501,Airport Manager ‐ Anchorage International Airport,O,25.0,25,0
+XE,PD0502,Airport Manager ‐ Fairbanks International Airport,A,24.0,24,0
+XE,PD0502,Airport Manager ‐ Fairbanks International Airport,F,24.0,24,0
+XE,PD0502,Airport Manager ‐ Fairbanks International Airport,O,24.0,23,-1
+XE,PD0505,International Airports Controller,A,24.0,29,5
+XE,PD0505,International Airports Controller,F,24.0,29,5
+XE,PD0505,International Airports Controller,O,24.0,26,2
+GP,PD0511,Airport Operations Officer,A,18.0,21,3
+GP,PD0511,Airport Operations Officer,F,18.0,20,2
+GP,PD0511,Airport Operations Officer,O,18.0,19,1
+GP,PD0512,Airport Operations Specialist,A,19.0,18,-1
+GP,PD0512,Airport Operations Specialist,F,19.0,18,-1
+GP,PD0512,Airport Operations Specialist,O,19.0,17,-2
+SS,PD0513,Airport Operations Superintendent,A,21.0,22,1
+SS,PD0513,Airport Operations Superintendent,E,21.0,23,2
+SS,PD0513,Airport Operations Superintendent,O,21.0,23,2
+GP,PD0562,Regional Safety and Airport Security Officer,A,18.0,20,2
+GP,PD0562,Regional Safety and Airport Security Officer,F,18.0,20,2
+GP,PD0562,Regional Safety and Airport Security Officer,O,18.0,19,1
+SS,PD0615,Ferry Terminal Manager 1,A,15.0,18,3
+SS,PD0615,Ferry Terminal Manager 1,E,15.0,17,2
+SS,PD0615,Ferry Terminal Manager 1,O,15.0,15,0
+KK,PD0620,AMHS Dispatch Manager,A,18.0,17,-1
+KK,PD0620,AMHS Dispatch Manager,F,18.0,16,-2
+KK,PD0620,AMHS Dispatch Manager,O,18.0,15,-3
+SS,PD0632,Reservation Call Center Supervisor,A,16.0,19,3
+SS,PD0632,Reservation Call Center Supervisor,E,16.0,19,3
+SS,PD0632,Reservation Call Center Supervisor,O,16.0,18,2
+SS,PD0639,Marine Traffic Manager,A,23.0,20,-3
+SS,PD0639,Marine Traffic Manager,E,23.0,22,-1
+SS,PD0639,Marine Traffic Manager,O,23.0,21,-2
+GP,PD0644,Passenger Services Inspector,A,17.0,15,-2
+GP,PD0644,Passenger Services Inspector,F,17.0,16,-1
+GP,PD0644,Passenger Services Inspector,O,17.0,15,-2
+SS,PD0646,AMHS Passenger Services Manager,A,23.0,23,0
+SS,PD0646,AMHS Passenger Services Manager,E,23.0,22,-1
+SS,PD0646,AMHS Passenger Services Manager,O,23.0,21,-2
+SS,PD0655,Port Engineer,A,22.0,24,2
+SS,PD0655,Port Engineer,E,22.0,24,2
+SS,PD0655,Port Engineer,O,22.0,23,1
+GP,PD0656,AMHS Safety Management Coordinator,A,19.0,16,-3
+GP,PD0656,AMHS Safety Management Coordinator,F,19.0,18,-1
+GP,PD0656,AMHS Safety Management Coordinator,O,19.0,18,-1
+SS,PD0669,Marine Engineering Assistant Manager,A,23.0,23,0
+SS,PD0669,Marine Engineering Assistant Manager,E,23.0,24,1
+SS,PD0669,Marine Engineering Assistant Manager,O,23.0,23,0
+XE,PD0670,Marine Transportation Services Manager,A,25.0,24,-1
+XE,PD0670,Marine Transportation Services Manager,F,25.0,24,-1
+XE,PD0670,Marine Transportation Services Manager,O,25.0,23,-2
+SS,PD0711,Equipment Fleet District Manager,A,20.0,20,0
+SS,PD0711,Equipment Fleet District Manager,E,20.0,21,1
+SS,PD0711,Equipment Fleet District Manager,O,20.0,21,1
+SS,PD0714,State Equipment Fleet Manager,A,23.0,23,0
+SS,PD0714,State Equipment Fleet Manager,E,23.0,23,0
+SS,PD0714,State Equipment Fleet Manager,O,23.0,23,0
+SS,PD0722,"Manager, Airfield Maintenance",A,22.0,21,-1
+SS,PD0722,"Manager, Airfield Maintenance",E,22.0,22,0
+SS,PD0722,"Manager, Airfield Maintenance",O,22.0,21,-1
+GP,PD0731,Maintenance and Operations Specialist,A,21.0,23,2
+GP,PD0731,Maintenance and Operations Specialist,F,21.0,23,2
+GP,PD0731,Maintenance and Operations Specialist,O,21.0,21,0
+SS,PD0732,Maintenance and Operations Superintendent,A,21.0,23,2
+SS,PD0732,Maintenance and Operations Superintendent,E,21.0,24,3
+SS,PD0732,Maintenance and Operations Superintendent,O,21.0,23,2
+SS,PD0733,Maintenance and Operations Manager,A,23.0,23,0
+SS,PD0733,Maintenance and Operations Manager,E,23.0,24,1
+SS,PD0733,Maintenance and Operations Manager,O,23.0,24,1
+GP,PD0810,Right‐of‐Way Assistant,A,12.0,13,1
+GP,PD0810,Right‐of‐Way Assistant,F,12.0,12,0
+GP,PD0810,Right‐of‐Way Assistant,O,12.0,11,-1
+GP,PD0812,Right‐of‐Way Agent 2,A,16.0,19,3
+GP,PD0812,Right‐of‐Way Agent 2,F,16.0,20,4
+GP,PD0812,Right‐of‐Way Agent 2,O,16.0,19,3
+SS,PD0815,Right‐of‐Way Agent 5,A,21.0,23,2
+SS,PD0815,Right‐of‐Way Agent 5,E,21.0,23,2
+SS,PD0815,Right‐of‐Way Agent 5,O,21.0,22,1
+GP,PD0821,Right‐of‐Way Review Appraiser 1,A,21.0,20,-1
+GP,PD0821,Right‐of‐Way Review Appraiser 1,F,21.0,22,1
+GP,PD0821,Right‐of‐Way Review Appraiser 1,O,21.0,22,1
+GP,PD0842,Appraiser 2,A,18.0,21,3
+GP,PD0842,Appraiser 2,F,18.0,21,3
+GP,PD0842,Appraiser 2,O,18.0,19,1
+SS,PD0850,State Assessor,A,23.0,24,1
+SS,PD0850,State Assessor,E,23.0,25,2
+SS,PD0850,State Assessor,O,23.0,24,1
+GP,PD0902,Building Management Specialist,A,19.0,21,2
+GP,PD0902,Building Management Specialist,F,19.0,21,2
+GP,PD0902,Building Management Specialist,O,19.0,20,1
+GP,PD0921,Facilities Manager 1,A,20.0,23,3
+GP,PD0921,Facilities Manager 1,F,20.0,22,2
+GP,PD0921,Facilities Manager 1,O,20.0,21,1
+GP,PD0942,Airport Leasing Specialist 2,A,16.0,20,4
+GP,PD0942,Airport Leasing Specialist 2,F,16.0,18,2
+GP,PD0942,Airport Leasing Specialist 2,O,16.0,16,0
+SS,PD0945,Airport Leasing Program Manager,A,22.0,22,0
+SS,PD0945,Airport Leasing Program Manager,E,22.0,22,0
+SS,PD0945,Airport Leasing Program Manager,O,22.0,21,-1
+XE,PD0951,State Leasing & Facilities Manager,A,25.0,23,-2
+XE,PD0951,State Leasing & Facilities Manager,F,25.0,23,-2
+XE,PD0951,State Leasing & Facilities Manager,O,25.0,24,-1
+SS,PE0101,Education Administrator 1,A,21.0,20,-1
+SS,PE0101,Education Administrator 1,E,21.0,20,-1
+SS,PE0101,Education Administrator 1,O,21.0,19,-2
+SS,PE0102,Education Administrator 2,A,22.0,23,1
+SS,PE0102,Education Administrator 2,E,22.0,22,0
+SS,PE0102,Education Administrator 2,O,22.0,21,-1
+GP,PE0110,Education Program Assistant,A,12.0,14,2
+GP,PE0110,Education Program Assistant,F,12.0,14,2
+GP,PE0110,Education Program Assistant,O,12.0,13,1
+GP,PE0112,Education Associate 2,A,15.0,16,1
+GP,PE0112,Education Associate 2,F,15.0,16,1
+GP,PE0112,Education Associate 2,O,15.0,14,-1
+GP,PE0121,Education Specialist 1,A,19.0,21,2
+GP,PE0121,Education Specialist 1,F,19.0,20,1
+GP,PE0121,Education Specialist 1,O,19.0,19,0
+GP,PE0140,Education Coordinator (Corrections),A,16.0,19,3
+GP,PE0140,Education Coordinator (Corrections),F,16.0,21,5
+GP,PE0140,Education Coordinator (Corrections),O,16.0,21,5
+GP,PE0210,Vocational Instructor,A,16.0,17,1
+GP,PE0210,Vocational Instructor,F,16.0,16,0
+GP,PE0210,Vocational Instructor,O,16.0,14,-2
+GP,PE0231,Training Specialist 1,A,16.0,17,1
+GP,PE0231,Training Specialist 1,F,16.0,16,0
+GP,PE0231,Training Specialist 1,O,16.0,14,-2
+SS,PE0233,Training Specialist 3,A,20.0,21,1
+SS,PE0233,Training Specialist 3,E,20.0,21,1
+SS,PE0233,Training Specialist 3,O,20.0,20,0
+GP,PE0251,AK Military Youth Academy (AMYA) Instructor,A,16.0,18,2
+GP,PE0251,AK Military Youth Academy (AMYA) Instructor,F,16.0,18,2
+GP,PE0251,AK Military Youth Academy (AMYA) Instructor,O,16.0,17,1
+GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,A,15.0,18,3
+GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,F,15.0,19,4
+GP,PE0252,AK Military Youth Academy (AMYA) Chief Examiner,O,15.0,19,4
+GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,A,16.0,17,1
+GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,F,16.0,17,1
+GP,PE0253,AK Military Youth Academy (AMYA) Coordinator,O,16.0,16,0
+SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,A,19.0,19,0
+SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,E,19.0,20,1
+SS,PE0255,AK Military Youth Academy (AMYA) Supervisor 2,O,19.0,19,0
+SS,PE0259,AK Military Youth Academy (AMYA) Manager,A,23.0,22,-1
+SS,PE0259,AK Military Youth Academy (AMYA) Manager,E,23.0,22,-1
+SS,PE0259,AK Military Youth Academy (AMYA) Manager,O,23.0,21,-2
+GP,PE0310,Recreation Assistant,A,11.0,12,1
+GP,PE0310,Recreation Assistant,F,11.0,12,1
+GP,PE0310,Recreation Assistant,O,11.0,11,0
+GP,PE0320,Dormitory Attendant,A,11.0,12,1
+GP,PE0320,Dormitory Attendant,F,11.0,11,0
+GP,PE0320,Dormitory Attendant,O,11.0,11,0
+GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,A,13.0,16,3
+GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,F,13.0,16,3
+GP,PE0341,AK Military Youth Academy (AMYA) Team Leader,O,13.0,15,2
+SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,A,15.0,16,1
+SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,E,15.0,17,2
+SS,PE0342,AK Military Youth Academy (AMYA) Platoon Leader,O,15.0,17,2
+SS,PE0350,Aquatic Facility Manager,A,17.0,16,-1
+SS,PE0350,Aquatic Facility Manager,E,17.0,16,-1
+SS,PE0350,Aquatic Facility Manager,O,17.0,16,-1
+GP,PE0353,Lifeguard 2,A,11.0,11,0
+GP,PE0353,Lifeguard 2,F,11.0,10,-1
+GP,PE0353,Lifeguard 2,O,11.0,8,-3
+GP,PE0402,Library Assistant 2,A,13.0,17,4
+GP,PE0402,Library Assistant 2,F,13.0,17,4
+GP,PE0402,Library Assistant 2,O,13.0,15,2
+GP,PE0411,Librarian 1,A,16.0,18,2
+GP,PE0411,Librarian 1,F,16.0,18,2
+GP,PE0411,Librarian 1,O,16.0,17,1
+SS,PE0414,Librarian 4,A,22.0,22,0
+SS,PE0414,Librarian 4,E,22.0,23,1
+SS,PE0414,Librarian 4,O,22.0,22,0
+GP,PE0431,Records Analyst 2,A,18.0,17,-1
+GP,PE0431,Records Analyst 2,F,18.0,17,-1
+GP,PE0431,Records Analyst 2,O,18.0,16,-2
+GP,PE0441,Archivist 2,A,18.0,21,3
+GP,PE0441,Archivist 2,F,18.0,21,3
+GP,PE0441,Archivist 2,O,18.0,19,1
+SS,PE0443,State Archivist,A,22.0,24,2
+SS,PE0443,State Archivist,E,22.0,24,2
+SS,PE0443,State Archivist,O,22.0,23,1
+GP,PE0512,Museum Curator 2,A,18.0,22,4
+GP,PE0512,Museum Curator 2,F,18.0,21,3
+GP,PE0512,Museum Curator 2,O,18.0,19,1
+GP,PE0515,Museum Conservator,A,19.0,21,2
+GP,PE0515,Museum Conservator,F,19.0,20,1
+GP,PE0515,Museum Conservator,O,19.0,18,-1
+SS,PE0519,Chief Curator,A,22.0,22,0
+SS,PE0519,Chief Curator,E,22.0,24,2
+SS,PE0519,Chief Curator,O,22.0,23,1
+GP,PE0531,Archaeologist 1,A,16.0,19,3
+GP,PE0531,Archaeologist 1,F,16.0,18,2
+GP,PE0531,Archaeologist 1,O,16.0,16,0
+GP,PE0541,Historian 1,A,16.0,18,2
+GP,PE0541,Historian 1,F,16.0,18,2
+GP,PE0541,Historian 1,O,16.0,16,0
+SS,PE0550,"Chief, Office of History and Archaeology",A,21.0,23,2
+SS,PE0550,"Chief, Office of History and Archaeology",E,21.0,25,4
+SS,PE0550,"Chief, Office of History and Archaeology",O,21.0,23,2
+SS,PE0585,Subsistence Program Manager,A,22.0,20,-2
+SS,PE0585,Subsistence Program Manager,E,22.0,22,0
+SS,PE0585,Subsistence Program Manager,O,22.0,22,0
+GP,PE0611,Visual Information Specialist,A,17.0,19,2
+GP,PE0611,Visual Information Specialist,F,17.0,19,2
+GP,PE0611,Visual Information Specialist,O,17.0,18,1
+GP,PE0622,Publications Technician 2,A,13.0,17,4
+GP,PE0622,Publications Technician 2,F,13.0,18,5
+GP,PE0622,Publications Technician 2,O,13.0,16,3
+GP,PE0632,Publications Specialist 2,A,16.0,17,1
+GP,PE0632,Publications Specialist 2,F,16.0,17,1
+GP,PE0632,Publications Specialist 2,O,16.0,16,0
+GP,PE0642,Information Officer 2,A,17.0,20,3
+GP,PE0642,Information Officer 2,F,17.0,20,3
+GP,PE0642,Information Officer 2,O,17.0,18,1
+SS,PE0645,Department Communications Manager,A,22.0,23,1
+SS,PE0645,Department Communications Manager,E,22.0,23,1
+SS,PE0645,Department Communications Manager,O,22.0,23,1
+GP,PF0112,Eligibility Technician 2,A,14.0,14,0
+GP,PF0112,Eligibility Technician 2,F,14.0,14,0
+GP,PF0112,Eligibility Technician 2,O,14.0,13,-1
+SS,PF0114,Eligibility Technician 4,A,17.0,17,0
+SS,PF0114,Eligibility Technician 4,E,17.0,17,0
+SS,PF0114,Eligibility Technician 4,O,17.0,16,-1
+GP,PF0116,Eligibility Quality Control Technician 1,A,16.0,17,1
+GP,PF0116,Eligibility Quality Control Technician 1,F,16.0,15,-1
+GP,PF0116,Eligibility Quality Control Technician 1,O,16.0,13,-3
+SS,PF0117,Eligibility Quality Control Technician 2,A,18.0,18,0
+SS,PF0117,Eligibility Quality Control Technician 2,E,18.0,18,0
+SS,PF0117,Eligibility Quality Control Technician 2,O,18.0,17,-1
+GP,PF0118,Eligibility Office Manager 1,A,18.0,18,0
+GP,PF0118,Eligibility Office Manager 1,F,18.0,19,1
+GP,PF0118,Eligibility Office Manager 1,O,18.0,20,2
+SS,PF0119,Eligibility Office Manager 2,A,19.0,19,0
+SS,PF0119,Eligibility Office Manager 2,E,19.0,19,0
+SS,PF0119,Eligibility Office Manager 2,O,19.0,17,-2
+GP,PF0120,Medicaid Program Associate,A,14.0,14,0
+GP,PF0120,Medicaid Program Associate,F,14.0,13,-1
+GP,PF0120,Medicaid Program Associate,O,14.0,11,-3
+GP,PF0122,Medicaid Program Specialist 2,A,18.0,21,3
+GP,PF0122,Medicaid Program Specialist 2,F,18.0,21,3
+GP,PF0122,Medicaid Program Specialist 2,O,18.0,19,1
+SS,PF0125,Medicaid Program Specialist 5,A,22.0,22,0
+SS,PF0125,Medicaid Program Specialist 5,E,22.0,22,0
+SS,PF0125,Medicaid Program Specialist 5,O,22.0,22,0
+GP,PF0132,PFD Technician 2,A,12.0,13,1
+GP,PF0132,PFD Technician 2,F,12.0,13,1
+GP,PF0132,PFD Technician 2,O,12.0,11,-1
+GP,PF0152,Public Assistance Analyst 2,A,18.0,20,2
+GP,PF0152,Public Assistance Analyst 2,F,18.0,20,2
+GP,PF0152,Public Assistance Analyst 2,O,18.0,19,1
+SS,PF0154,Public Assistance Field Services Manager 2,A,21.0,21,0
+SS,PF0154,Public Assistance Field Services Manager 2,E,21.0,22,1
+SS,PF0154,Public Assistance Field Services Manager 2,O,21.0,20,-1
+SS,PF0157,Public Assistance Programs Officer,A,21.0,19,-2
+SS,PF0157,Public Assistance Programs Officer,E,21.0,20,-1
+SS,PF0157,Public Assistance Programs Officer,O,21.0,20,-1
+GP,PF0160,Workers' Compensation Technician,A,12.0,17,5
+GP,PF0160,Workers' Compensation Technician,F,12.0,17,5
+GP,PF0160,Workers' Compensation Technician,O,12.0,15,3
+GP,PF0162,Workers' Compensation Officer 2,A,18.0,18,0
+GP,PF0162,Workers' Compensation Officer 2,F,18.0,17,-1
+GP,PF0162,Workers' Compensation Officer 2,O,18.0,16,-2
+GP,PF0171,Social Services Program Coordinator,A,20.0,22,2
+GP,PF0171,Social Services Program Coordinator,F,20.0,22,2
+GP,PF0171,Social Services Program Coordinator,O,20.0,21,1
+SS,PF0172,Social Services Program Officer,A,21.0,22,1
+SS,PF0172,Social Services Program Officer,E,21.0,21,0
+SS,PF0172,Social Services Program Officer,O,21.0,20,-1
+SS,PF0173,Social Services Program Administrator,A,23.0,21,-2
+SS,PF0173,Social Services Program Administrator,E,23.0,21,-2
+SS,PF0173,Social Services Program Administrator,O,23.0,20,-3
+GP,PF0182,Disability Adjudicator Associate 2,A,16.0,15,-1
+GP,PF0182,Disability Adjudicator Associate 2,F,16.0,14,-2
+GP,PF0182,Disability Adjudicator Associate 2,O,16.0,11,-5
+SS,PF0184,Disability Adjudicator 2,A,20.0,18,-2
+SS,PF0184,Disability Adjudicator 2,E,20.0,18,-2
+SS,PF0184,Disability Adjudicator 2,O,20.0,17,-3
+SS,PF0186,"Chief, Disability Determination Services",A,22.0,23,1
+SS,PF0186,"Chief, Disability Determination Services",E,22.0,25,3
+SS,PF0186,"Chief, Disability Determination Services",O,22.0,26,4
+SS,PF0193,"Chief, Public Assistance Field Operations",A,22.0,27,5
+SS,PF0193,"Chief, Public Assistance Field Operations",E,22.0,27,5
+SS,PF0193,"Chief, Public Assistance Field Operations",O,22.0,27,5
+GP,PF01A1,Child Support Enforcement Specialist 1,A,16.0,16,0
+GP,PF01A1,Child Support Enforcement Specialist 1,F,16.0,15,-1
+GP,PF01A1,Child Support Enforcement Specialist 1,O,16.0,14,-2
+SS,PF01A3,Child Support Enforcement Specialist 3,A,20.0,19,-1
+SS,PF01A3,Child Support Enforcement Specialist 3,E,20.0,19,-1
+SS,PF01A3,Child Support Enforcement Specialist 3,O,20.0,17,-3
+GP,PF0202,Protective Services Specialist 2,A,17.0,18,1
+GP,PF0202,Protective Services Specialist 2,F,17.0,19,2
+GP,PF0202,Protective Services Specialist 2,O,17.0,17,0
+SS,PF0204,Protective Services Specialist 4,A,20.0,18,-2
+SS,PF0204,Protective Services Specialist 4,E,20.0,18,-2
+SS,PF0204,Protective Services Specialist 4,O,20.0,16,-4
+SS,PF0205,Protective Services Manager 1,A,21.0,21,0
+SS,PF0205,Protective Services Manager 1,E,21.0,22,1
+SS,PF0205,Protective Services Manager 1,O,21.0,22,1
+GP,PF0222,Social Services Associate,A,12.0,14,2
+GP,PF0222,Social Services Associate,F,12.0,14,2
+GP,PF0222,Social Services Associate,O,12.0,13,1
+GP,PF0301,Civil Rights Programs and Compliance Specialist 1,A,15.0,18,3
+GP,PF0301,Civil Rights Programs and Compliance Specialist 1,F,15.0,19,4
+GP,PF0301,Civil Rights Programs and Compliance Specialist 1,O,15.0,18,3
+SS,PF0302,Civil Rights Programs and Compliance Specialist 2,A,17.0,22,5
+SS,PF0302,Civil Rights Programs and Compliance Specialist 2,E,17.0,22,5
+SS,PF0302,Civil Rights Programs and Compliance Specialist 2,O,17.0,21,4
+SS,PF0303,Civil Rights Programs and Compliance Specialist 3,A,19.0,23,4
+SS,PF0303,Civil Rights Programs and Compliance Specialist 3,E,19.0,23,4
+SS,PF0303,Civil Rights Programs and Compliance Specialist 3,O,19.0,22,3
+XE,PF0323,Human Rights Field Representative 3,A,18.0,22,4
+XE,PF0323,Human Rights Field Representative 3,F,18.0,22,4
+XE,PF0323,Human Rights Field Representative 3,O,18.0,21,3
+XE,PF0324,Human Rights Field Representative 4,A,20.0,29,9
+XE,PF0324,Human Rights Field Representative 4,F,20.0,27,7
+XE,PF0324,Human Rights Field Representative 4,O,20.0,25,5
+GP,PF0341,Senior Services Technician,A,12.0,14,2
+GP,PF0341,Senior Services Technician,F,12.0,15,3
+GP,PF0341,Senior Services Technician,O,12.0,14,2
+GP,PF03A2,Public Guardian 2,A,18.0,19,1
+GP,PF03A2,Public Guardian 2,F,18.0,19,1
+GP,PF03A2,Public Guardian 2,O,18.0,18,0
+SS,PF03A4,Public Guardian 4,A,22.0,20,-2
+SS,PF03A4,Public Guardian 4,E,22.0,20,-2
+SS,PF03A4,Public Guardian 4,O,22.0,19,-3
+GP,PF0412,Vocational Rehabilitation Assistant 2,A,12.0,13,1
+GP,PF0412,Vocational Rehabilitation Assistant 2,F,12.0,12,0
+GP,PF0412,Vocational Rehabilitation Assistant 2,O,12.0,10,-2
+GP,PF0432,Vocational Rehabilitation Counselor 2,A,17.0,19,2
+GP,PF0432,Vocational Rehabilitation Counselor 2,F,17.0,18,1
+GP,PF0432,Vocational Rehabilitation Counselor 2,O,17.0,17,0
+SS,PF0460,Vocational Rehabilitation Manager,A,21.0,27,6
+SS,PF0460,Vocational Rehabilitation Manager,E,21.0,25,4
+SS,PF0460,Vocational Rehabilitation Manager,O,21.0,24,3
+SS,PF0472,"Chief, Vocational Rehabilitation Services",A,23.0,27,4
+SS,PF0472,"Chief, Vocational Rehabilitation Services",E,23.0,27,4
+SS,PF0472,"Chief, Vocational Rehabilitation Services",O,23.0,27,4
+GP,PF0512,Employment Security Analyst 2,A,17.0,17,0
+GP,PF0512,Employment Security Analyst 2,F,17.0,18,1
+GP,PF0512,Employment Security Analyst 2,O,17.0,17,0
+GP,PF0522,Employment Services Technician 2,A,15.0,15,0
+GP,PF0522,Employment Services Technician 2,F,15.0,15,0
+GP,PF0522,Employment Services Technician 2,O,15.0,14,-1
+GP,PF0526,Unemployment Insurance Technician 1,A,14.0,13,-1
+GP,PF0526,Unemployment Insurance Technician 1,F,14.0,14,0
+GP,PF0526,Unemployment Insurance Technician 1,O,14.0,13,-1
+GP,PF0531,Employment Services Manager 1,A,16.0,20,4
+GP,PF0531,Employment Services Manager 1,F,16.0,22,6
+GP,PF0531,Employment Services Manager 1,O,16.0,21,5
+GP,PF0541,Field Auditor 1,A,16.0,16,0
+GP,PF0541,Field Auditor 1,F,16.0,16,0
+GP,PF0541,Field Auditor 1,O,16.0,14,-2
+GP,PG0122,Health Program Manager 2,A,19.0,23,4
+GP,PG0122,Health Program Manager 2,F,19.0,23,4
+GP,PG0122,Health Program Manager 2,O,19.0,22,3
+GP,PG0132,Public Health Specialist 2,A,20.0,22,2
+GP,PG0132,Public Health Specialist 2,F,20.0,23,3
+GP,PG0132,Public Health Specialist 2,O,20.0,22,2
+GP,PG0134,Public Health Informaticist 2,A,20.0,23,3
+GP,PG0134,Public Health Informaticist 2,F,20.0,23,3
+GP,PG0134,Public Health Informaticist 2,O,20.0,22,2
+GP,PG0140,Medical Information and Services Assistant,A,10.0,12,2
+GP,PG0140,Medical Information and Services Assistant,F,10.0,11,1
+GP,PG0140,Medical Information and Services Assistant,O,10.0,10,0
+GP,PG0177,Dietitian 2,A,20.0,20,0
+GP,PG0177,Dietitian 2,F,20.0,19,-1
+GP,PG0177,Dietitian 2,O,20.0,18,-2
+GP,PG0210,Assisted Living Aide,A,9.0,10,1
+GP,PG0210,Assisted Living Aide,F,9.0,11,2
+GP,PG0210,Assisted Living Aide,O,9.0,10,1
+GP,PG0211,Certified Nurse Aide 1,A,11.0,11,0
+GP,PG0211,Certified Nurse Aide 1,F,11.0,12,1
+GP,PG0211,Certified Nurse Aide 1,O,11.0,10,-1
+GP,PG0233,Psychiatric Nursing Assistant 3,A,12.0,12,0
+GP,PG0233,Psychiatric Nursing Assistant 3,F,12.0,13,1
+GP,PG0233,Psychiatric Nursing Assistant 3,O,12.0,12,0
+GP,PG0301,Licensed Practical Nurse,A,17.0,16,-1
+GP,PG0301,Licensed Practical Nurse,F,17.0,16,-1
+GP,PG0301,Licensed Practical Nurse,O,17.0,14,-3
+GP,PG0312,Nurse 2,A,22.0,21,-1
+GP,PG0312,Nurse 2,F,22.0,21,-1
+GP,PG0312,Nurse 2,O,22.0,20,-2
+GP,PG0322,Psychiatric Nurse 2,A,23.0,23,0
+GP,PG0322,Psychiatric Nurse 2,F,23.0,23,0
+GP,PG0322,Psychiatric Nurse 2,O,23.0,21,-2
+GP,PG0326,Corrections Nurse 1,A,22.0,21,-1
+GP,PG0326,Corrections Nurse 1,F,22.0,21,-1
+GP,PG0326,Corrections Nurse 1,O,22.0,19,-3
+GP,PG03A2,Public Health Nurse 2,A,23.0,24,1
+GP,PG03A2,Public Health Nurse 2,F,23.0,23,0
+GP,PG03A2,Public Health Nurse 2,O,23.0,21,-2
+GP,PG03B1,Nurse Consultant 1,A,24.0,27,3
+GP,PG03B1,Nurse Consultant 1,F,24.0,27,3
+GP,PG03B1,Nurse Consultant 1,O,24.0,24,0
+GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,A,26.0,27,1
+GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,F,26.0,27,1
+GP,PG0421,Physician Assistant/Advanced Practice Registered Nurse 1,O,26.0,26,0
+GP,PG0512,Mental Health Clinician 2,A,19.0,20,1
+GP,PG0512,Mental Health Clinician 2,F,19.0,20,1
+GP,PG0512,Mental Health Clinician 2,O,19.0,19,0
+GP,PG0601,Disease Intervention Specialist 1,A,18.0,22,4
+GP,PG0601,Disease Intervention Specialist 1,F,18.0,21,3
+GP,PG0601,Disease Intervention Specialist 1,O,18.0,19,1
+GP,PG0604,Epidemiology Specialist 2,A,20.0,22,2
+GP,PG0604,Epidemiology Specialist 2,F,20.0,22,2
+GP,PG0604,Epidemiology Specialist 2,O,20.0,21,1
+GP,PG0621,Dental Assistant,A,13.0,13,0
+GP,PG0621,Dental Assistant,F,13.0,12,-1
+GP,PG0621,Dental Assistant,O,13.0,11,-2
+GP,PG0622,Dental Hygienist,A,21.0,21,0
+GP,PG0622,Dental Hygienist,F,21.0,20,-1
+GP,PG0622,Dental Hygienist,O,21.0,19,-2
+GP,PG0651,Occupational Therapist 1,A,21.0,24,3
+GP,PG0651,Occupational Therapist 1,F,21.0,23,2
+GP,PG0651,Occupational Therapist 1,O,21.0,21,0
+SS,PG0682,Recreation Therapist 2,A,16.0,17,1
+SS,PG0682,Recreation Therapist 2,E,16.0,17,1
+SS,PG0682,Recreation Therapist 2,O,16.0,16,0
+GP,PG06A1,Pharmacy Technician 1,A,12.0,12,0
+GP,PG06A1,Pharmacy Technician 1,F,12.0,13,1
+GP,PG06A1,Pharmacy Technician 1,O,12.0,12,0
+GP,PG0730,Laboratory Technician,A,13.0,14,1
+GP,PG0730,Laboratory Technician,F,13.0,14,1
+GP,PG0730,Laboratory Technician,O,13.0,13,0
+GP,PG0742,Microbiologist 2,A,16.0,19,3
+GP,PG0742,Microbiologist 2,F,16.0,18,2
+GP,PG0742,Microbiologist 2,O,16.0,17,1
+GP,PG0751,Public Health Microbiologist 1,A,17.0,18,1
+GP,PG0751,Public Health Microbiologist 1,F,17.0,18,1
+GP,PG0751,Public Health Microbiologist 1,O,17.0,17,0
+GP,PH0103,Fish and Wildlife Technician 3,A,11.0,13,2
+GP,PH0103,Fish and Wildlife Technician 3,F,11.0,14,3
+GP,PH0103,Fish and Wildlife Technician 3,O,11.0,13,2
+SS,PH0112,Fishery Biologist 2,A,16.0,17,1
+SS,PH0112,Fishery Biologist 2,E,16.0,18,2
+SS,PH0112,Fishery Biologist 2,O,16.0,18,2
+GP,PH0122,Habitat Biologist 2,A,16.0,19,3
+GP,PH0122,Habitat Biologist 2,F,16.0,19,3
+GP,PH0122,Habitat Biologist 2,O,16.0,17,1
+GP,PH0132,Wildlife Biologist 2,A,16.0,19,3
+GP,PH0132,Wildlife Biologist 2,F,16.0,18,2
+GP,PH0132,Wildlife Biologist 2,O,16.0,16,0
+GP,PH0142,Biometrician 2,A,19.0,26,7
+GP,PH0142,Biometrician 2,F,19.0,25,6
+GP,PH0142,Biometrician 2,O,19.0,23,4
+GP,PH0161,Fisheries Geneticist 1,A,17.0,21,4
+GP,PH0161,Fisheries Geneticist 1,F,17.0,20,3
+GP,PH0161,Fisheries Geneticist 1,O,17.0,18,1
+SS,PH0166,Fisheries Scientist 1,A,22.0,24,2
+SS,PH0166,Fisheries Scientist 1,E,22.0,24,2
+SS,PH0166,Fisheries Scientist 1,O,22.0,22,0
+GP,PH0211,Agronomist 1,A,16.0,18,2
+GP,PH0211,Agronomist 1,F,16.0,17,1
+GP,PH0211,Agronomist 1,O,16.0,15,-1
+GP,PH0302,Natural Resource Technician 2,A,12.0,13,1
+GP,PH0302,Natural Resource Technician 2,F,12.0,13,1
+GP,PH0302,Natural Resource Technician 2,O,12.0,11,-1
+GP,PH0312,Natural Resource Specialist 2,A,16.0,18,2
+GP,PH0312,Natural Resource Specialist 2,F,16.0,17,1
+GP,PH0312,Natural Resource Specialist 2,O,16.0,16,0
+SS,PH0321,Natural Resource Manager 1,A,18.0,21,3
+SS,PH0321,Natural Resource Manager 1,E,18.0,21,3
+SS,PH0321,Natural Resource Manager 1,O,18.0,20,2
+GP,PH0353,Wildland Fire and Resource Technician 3,A,12.0,17,5
+GP,PH0353,Wildland Fire and Resource Technician 3,F,12.0,16,4
+GP,PH0353,Wildland Fire and Resource Technician 3,O,12.0,15,3
+GP,PH0362,Forester 2,A,16.0,18,2
+GP,PH0362,Forester 2,F,16.0,18,2
+GP,PH0362,Forester 2,O,16.0,17,1
+GP,PH0410,Park Specialist,A,14.0,15,1
+GP,PH0410,Park Specialist,F,14.0,15,1
+GP,PH0410,Park Specialist,O,14.0,15,1
+GP,PH0411,Park Ranger 1,A,16.0,16,0
+GP,PH0411,Park Ranger 1,F,16.0,17,1
+GP,PH0411,Park Ranger 1,O,16.0,16,0
+SS,PH0412,Park Ranger 2,A,18.0,18,0
+SS,PH0412,Park Ranger 2,E,18.0,18,0
+SS,PH0412,Park Ranger 2,O,18.0,17,-1
+SS,PH0420,Park Superintendent,A,20.0,21,1
+SS,PH0420,Park Superintendent,E,20.0,21,1
+SS,PH0420,Park Superintendent,O,20.0,21,1
+GP,PH0451,Museum Protection & Visitor Services Assistant,A,11.0,14,3
+GP,PH0451,Museum Protection & Visitor Services Assistant,F,11.0,13,2
+GP,PH0451,Museum Protection & Visitor Services Assistant,O,11.0,11,0
+GP,PI0101,Criminal Justice Technician 1,A,12.0,14,2
+GP,PI0101,Criminal Justice Technician 1,F,12.0,15,3
+GP,PI0101,Criminal Justice Technician 1,O,12.0,14,2
+GP,PI0105,Criminal Justice Planner,A,21.0,22,1
+GP,PI0105,Criminal Justice Planner,F,21.0,23,2
+GP,PI0105,Criminal Justice Planner,O,21.0,23,2
+SS,PI0146,Law Office Manager,A,16.0,17,1
+SS,PI0146,Law Office Manager,E,16.0,18,2
+SS,PI0146,Law Office Manager,O,16.0,18,2
+GP,PI0152,Public Safety Technician 2,A,11.0,10,-1
+GP,PI0152,Public Safety Technician 2,F,11.0,11,0
+GP,PI0152,Public Safety Technician 2,O,11.0,10,-1
+GP,PI01A2,Law Office Assistant 2,A,13.0,15,2
+GP,PI01A2,Law Office Assistant 2,F,13.0,15,2
+GP,PI01A2,Law Office Assistant 2,O,13.0,13,0
+GP,PI01B2,Paralegal 2,A,16.0,18,2
+GP,PI01B2,Paralegal 2,F,16.0,18,2
+GP,PI01B2,Paralegal 2,O,16.0,17,1
+XE,PI01C1,Paralegal Specialist 1,A,19.0,18,-1
+XE,PI01C1,Paralegal Specialist 1,F,19.0,18,-1
+XE,PI01C1,Paralegal Specialist 1,O,19.0,18,-1
+XE,PI0214,Attorney 4,A,24.0,26,2
+XE,PI0214,Attorney 4,F,24.0,27,3
+XE,PI0214,Attorney 4,O,24.0,26,2
+XE,PI0311,Hearing Examiner 1,A,24.0,24,0
+XE,PI0311,Hearing Examiner 1,F,24.0,24,0
+XE,PI0311,Hearing Examiner 1,O,24.0,23,-1
+XE,PI0321,Hearing Officer,A,21.0,22,1
+XE,PI0321,Hearing Officer,F,21.0,22,1
+XE,PI0321,Hearing Officer,O,21.0,21,0
+XE,PI0355,Chief of Workers' Compensation Adjudication,A,25.0,28,3
+XE,PI0355,Chief of Workers' Compensation Adjudication,F,25.0,27,2
+XE,PI0355,Chief of Workers' Compensation Adjudication,O,25.0,25,0
+SS,PI0405,Forensic Science Laboratory Administrator 1,A,22.0,18,-4
+SS,PI0405,Forensic Science Laboratory Administrator 1,E,22.0,20,-2
+SS,PI0405,Forensic Science Laboratory Administrator 1,O,22.0,20,-2
+GP,PI0413,Forensic Scientist 3 ‐ Chemistry,A,22.0,19,-3
+GP,PI0413,Forensic Scientist 3 ‐ Chemistry,F,22.0,19,-3
+GP,PI0413,Forensic Scientist 3 ‐ Chemistry,O,22.0,18,-4
+GP,PI0421,Fingerprint Technician 2,A,16.0,16,0
+GP,PI0421,Fingerprint Technician 2,F,16.0,16,0
+GP,PI0421,Fingerprint Technician 2,O,16.0,15,-1
+GP,PI0432,Investigator 2,A,16.0,18,2
+GP,PI0432,Investigator 2,F,16.0,19,3
+GP,PI0432,Investigator 2,O,16.0,18,2
+GP,PI0436,Special Investigator 1,A,19.0,19,0
+GP,PI0436,Special Investigator 1,F,19.0,19,0
+GP,PI0436,Special Investigator 1,O,19.0,17,-2
+GP,PI0442,Forensic Scientist 3 ‐ Physical,A,22.0,21,-1
+GP,PI0442,Forensic Scientist 3 ‐ Physical,F,22.0,21,-1
+GP,PI0442,Forensic Scientist 3 ‐ Physical,O,22.0,19,-3
+GP,PI0453,Forensic Scientist 3 ‐ DNA,A,22.0,21,-1
+GP,PI0453,Forensic Scientist 3 ‐ DNA,F,22.0,21,-1
+GP,PI0453,Forensic Scientist 3 ‐ DNA,O,22.0,19,-3
+GP,PI0460,Forensic Technician 2,A,15.0,17,2
+GP,PI0460,Forensic Technician 2,F,15.0,16,1
+GP,PI0460,Forensic Technician 2,O,15.0,15,0
+GP,PI0464,Medicolegal Investigator 2,A,16.0,18,2
+GP,PI0464,Medicolegal Investigator 2,F,16.0,17,1
+GP,PI0464,Medicolegal Investigator 2,O,16.0,16,0
+GP,PI0472,Criminal Intelligence Analyst 2,A,17.0,18,1
+GP,PI0472,Criminal Intelligence Analyst 2,F,17.0,18,1
+GP,PI0472,Criminal Intelligence Analyst 2,O,17.0,19,2
+SS,PI0505,Recorder Supervisor,A,16.0,17,1
+SS,PI0505,Recorder Supervisor,E,16.0,18,2
+SS,PI0505,Recorder Supervisor,O,16.0,17,1
+SS,PI0517,Recorder Manager,A,18.0,21,3
+SS,PI0517,Recorder Manager,E,18.0,21,3
+SS,PI0517,Recorder Manager,O,18.0,21,3
+GP,PI0531,Motor Vehicle Customer Service Representative 1,A,10.0,11,1
+GP,PI0531,Motor Vehicle Customer Service Representative 1,F,10.0,12,2
+GP,PI0531,Motor Vehicle Customer Service Representative 1,O,10.0,11,1
+SS,PI0541,Motor Vehicle Office Manager 1,A,15.0,16,1
+SS,PI0541,Motor Vehicle Office Manager 1,E,15.0,17,2
+SS,PI0541,Motor Vehicle Office Manager 1,O,15.0,17,2
+SS,PI0555,DMV Program Manager,A,21.0,18,-3
+SS,PI0555,DMV Program Manager,E,21.0,20,-1
+SS,PI0555,DMV Program Manager,O,21.0,20,-1
+GP,PI05A1,Recorder 1,A,12.0,15,3
+GP,PI05A1,Recorder 1,F,12.0,15,3
+GP,PI05A1,Recorder 1,O,12.0,13,1
+SS,PJ0106,Lieutenant ‐ Department of Public Safety,A,24.0,23,-1
+SS,PJ0106,Lieutenant ‐ Department of Public Safety,E,24.0,23,-1
+SS,PJ0106,Lieutenant ‐ Department of Public Safety,O,24.0,23,-1
+GP,PJ0231,Fire Training Specialist,A,19.0,21,2
+GP,PJ0231,Fire Training Specialist,F,19.0,21,2
+GP,PJ0231,Fire Training Specialist,O,19.0,19,0
+SS,PJ0241,Deputy Fire Marshal 3,A,23.0,24,1
+SS,PJ0241,Deputy Fire Marshal 3,E,23.0,25,2
+SS,PJ0241,Deputy Fire Marshal 3,O,23.0,24,1
+GP,PJ0250,Building Plans Examiner 1,A,19.0,19,0
+GP,PJ0250,Building Plans Examiner 1,F,19.0,19,0
+GP,PJ0250,Building Plans Examiner 1,O,19.0,18,-1
+SS,PJ0345,Juvenile Justice Unit Supervisor,A,18.0,18,0
+SS,PJ0345,Juvenile Justice Unit Supervisor,E,18.0,19,1
+SS,PJ0345,Juvenile Justice Unit Supervisor,O,18.0,20,2
+SS,PJ0351,Juvenile Justice Superintendent 1,A,20.0,19,-1
+SS,PJ0351,Juvenile Justice Superintendent 1,E,20.0,19,-1
+SS,PJ0351,Juvenile Justice Superintendent 1,O,20.0,18,-2
+GP,PJ0452,Juvenile Probation Officer 2,A,16.0,18,2
+GP,PJ0452,Juvenile Probation Officer 2,F,16.0,19,3
+GP,PJ0452,Juvenile Probation Officer 2,O,16.0,18,2
+SS,PJ0453,Juvenile Probation Officer 3,A,18.0,17,-1
+SS,PJ0453,Juvenile Probation Officer 3,E,18.0,17,-1
+SS,PJ0453,Juvenile Probation Officer 3,O,18.0,16,-2
+GP,PJ04A2,Adult Probation Officer 2A,A,17.0,18,1
+GP,PJ04A2,Adult Probation Officer 2A,F,17.0,17,0
+GP,PJ04A2,Adult Probation Officer 2A,O,17.0,16,-1
+GP,PJ04A3,Adult Probation Officer 2B,A,18.0,19,1
+GP,PJ04A3,Adult Probation Officer 2B,F,18.0,19,1
+GP,PJ04A3,Adult Probation Officer 2B,O,18.0,18,0
+GP,PJ04B2,Pretrial Services Officer 2,A,18.0,18,0
+GP,PJ04B2,Pretrial Services Officer 2,F,18.0,19,1
+GP,PJ04B2,Pretrial Services Officer 2,O,18.0,18,0
+SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",A,21.0,24,3
+SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",E,21.0,24,3
+SS,PJ04C1,"Pretrial, Probation and Parole Administrator 1",O,21.0,23,2
+GP,PK0112,Hydrologist 2,A,19.0,22,3
+GP,PK0112,Hydrologist 2,F,19.0,21,2
+GP,PK0112,Hydrologist 2,O,19.0,19,0
+GP,PK0123,Chemist 3,A,18.0,23,5
+GP,PK0123,Chemist 3,F,18.0,22,4
+GP,PK0123,Chemist 3,O,18.0,21,3
+GP,PK0132,Geologist 2,A,17.0,20,3
+GP,PK0132,Geologist 2,F,17.0,20,3
+GP,PK0132,Geologist 2,O,17.0,19,2
+GP,PK0137,Geological Scientist 1,A,22.0,27,5
+GP,PK0137,Geological Scientist 1,F,22.0,27,5
+GP,PK0137,Geological Scientist 1,O,22.0,24,2
+GP,PK0142,Engineering Geologist 2,A,18.0,20,2
+GP,PK0142,Engineering Geologist 2,F,18.0,20,2
+GP,PK0142,Engineering Geologist 2,O,18.0,19,1
+GP,PK0201,Environmental Program Technician,A,13.0,15,2
+GP,PK0201,Environmental Program Technician,F,13.0,15,2
+GP,PK0201,Environmental Program Technician,O,13.0,14,1
+GP,PK0213,Environmental Program Specialist 3,A,18.0,21,3
+GP,PK0213,Environmental Program Specialist 3,F,18.0,22,4
+GP,PK0213,Environmental Program Specialist 3,O,18.0,20,2
+SS,PK0222,Environmental Program Manager 2,A,22.0,24,2
+SS,PK0222,Environmental Program Manager 2,E,22.0,25,3
+SS,PK0222,Environmental Program Manager 2,O,22.0,26,4
+GP,PK0242,Environmental Impact Analyst 2,A,17.0,18,1
+GP,PK0242,Environmental Impact Analyst 2,F,17.0,19,2
+GP,PK0242,Environmental Impact Analyst 2,O,17.0,18,1
+GP,PK0251,Environmental Impact Analysis Manager 1,A,21.0,22,1
+GP,PK0251,Environmental Impact Analysis Manager 1,F,21.0,22,1
+GP,PK0251,Environmental Impact Analysis Manager 1,O,21.0,22,1
+GP,PK0305,Engineering Associate,A,21.0,20,-1
+GP,PK0305,Engineering Associate,F,21.0,20,-1
+GP,PK0305,Engineering Associate,O,21.0,19,-2
+GP,PK0333,"Engineering Associate 1, DEC",A,21.0,22,1
+GP,PK0333,"Engineering Associate 1, DEC",F,21.0,21,0
+GP,PK0333,"Engineering Associate 1, DEC",O,21.0,19,-2
+GP,PK0352,Communications Engineering Associate 2,A,23.0,24,1
+GP,PK0352,Communications Engineering Associate 2,F,23.0,24,1
+GP,PK0352,Communications Engineering Associate 2,O,23.0,23,0
+GP,PK0411,Engineer/Architect 1,A,22.0,23,1
+GP,PK0411,Engineer/Architect 1,F,22.0,23,1
+GP,PK0411,Engineer/Architect 1,O,22.0,22,0
+SS,PK0413,Engineer/Architect 3,A,25.0,23,-2
+SS,PK0413,Engineer/Architect 3,E,25.0,24,-1
+SS,PK0413,Engineer/Architect 3,O,25.0,24,-1
+GP,PK0435,"Engineer 1, DEC",A,22.0,24,2
+GP,PK0435,"Engineer 1, DEC",F,22.0,23,1
+GP,PK0435,"Engineer 1, DEC",O,22.0,21,-1
+GP,PK0443,Village Safe Water Engineer 1,A,22.0,24,2
+GP,PK0443,Village Safe Water Engineer 1,F,22.0,23,1
+GP,PK0443,Village Safe Water Engineer 1,O,22.0,22,0
+GP,PK0453,Communications Engineer 1,A,24.0,27,3
+GP,PK0453,Communications Engineer 1,F,24.0,26,2
+GP,PK0453,Communications Engineer 1,O,24.0,24,0
+GP,PK0471,Technical Engineer 1 / Architect 1,A,24.0,26,2
+GP,PK0471,Technical Engineer 1 / Architect 1,F,24.0,25,1
+GP,PK0471,Technical Engineer 1 / Architect 1,O,24.0,23,-1
+GP,PK0711,Land Surveyor 1,A,21.0,22,1
+GP,PK0711,Land Surveyor 1,F,21.0,21,0
+GP,PK0711,Land Surveyor 1,O,21.0,19,-2
+SS,PK0714,Land Survey Manager 1,A,23.0,22,-1
+SS,PK0714,Land Survey Manager 1,E,23.0,23,0
+SS,PK0714,Land Survey Manager 1,O,23.0,23,0
+GP,PK0803,Drafting Technician 3,A,15.0,16,1
+GP,PK0803,Drafting Technician 3,F,15.0,16,1
+GP,PK0803,Drafting Technician 3,O,15.0,14,-1
+SS,PL0115,Food Service Supervisor,A,16.0,15,-1
+SS,PL0115,Food Service Supervisor,E,16.0,16,0
+SS,PL0115,Food Service Supervisor,O,16.0,15,-1
+GP,PL0512,Survey Instrument Technician 2,A,17.0,17,0
+GP,PL0512,Survey Instrument Technician 2,F,17.0,17,0
+GP,PL0512,Survey Instrument Technician 2,O,17.0,16,-1
+GP,PL07A1,Aircraft Pilot 1,A,22.0,25,3
+GP,PL07A1,Aircraft Pilot 1,F,22.0,24,2
+GP,PL07A1,Aircraft Pilot 1,O,22.0,23,1
+GP,PL0821,Microfilm/Imaging Operator 1,A,10.0,11,1
+GP,PL0821,Microfilm/Imaging Operator 1,F,10.0,10,0
+GP,PL0821,Microfilm/Imaging Operator 1,O,10.0,8,-2
+GP,PL0841,Mail Services Courier,A,9.0,10,1
+GP,PL0841,Mail Services Courier,F,9.0,9,0
+GP,PL0841,Mail Services Courier,O,9.0,7,-2
+SS,PL0845,Mail Services Manager,A,15.0,17,2
+SS,PL0845,Mail Services Manager,E,15.0,17,2
+SS,PL0845,Mail Services Manager,O,15.0,17,2
